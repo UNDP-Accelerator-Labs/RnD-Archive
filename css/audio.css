@@ -1,0 +1,96 @@
+section.audio {
+	height: 25vh;
+	position: sticky;
+	padding: 0 40px;
+	margin: 80px auto 80px auto;
+	top: 0;
+	background-color: #FFF;
+	border-bottom: 1px solid #000;
+/*	box-shadow: 0 10px 0 rgba(33,33,33,.1);*/
+	z-index: 10;
+}
+button.controller {
+	position: absolute;
+	top: 100%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: transparent;
+	border: none;
+	color: #FFF;
+	padding: 4px 8px;
+	cursor: pointer;
+}
+button.controller::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	transform: skew(-15deg);
+	z-index: 0;
+}
+button.controller label {
+	position: relative;
+	z-index: 2;
+	cursor: pointer;
+}
+path.audio {
+	stroke: #000;
+	fill: none;
+	pointer-events: none;
+}
+line.playhead {
+	stroke: #000;
+	pointer-events: none;
+}
+line.section-separator {
+	stroke: #333;
+	stroke-dasharray: 1, 3;
+}
+rect.section {
+	fill: #CCC;
+	fill-opacity: 0;
+}
+rect.section:hover {
+	fill-opacity: .75;
+}
+button.play {
+	position: relative;
+	display: inline-block;
+	font-size: 1em;
+	margin: 0 4px 0 -1.5em;
+	background-color: #FFF;
+	color: #000;
+	width: 1.5em;
+	top: -1px;
+	border:1px solid #000;
+}
+button.jump-to-ts {
+	font-family: monospace;
+	position: relative;
+	background-color: transparent;
+	border: none;
+	color: #FFF;
+	padding: 2px 4px 2px 6px;
+	top: -1px;
+	margin-left: -8px;
+	cursor: pointer;
+}
+button.jump-to-ts::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-color: #000;
+	transform: skew(-15deg);
+	z-index: 0;
+}
+button.jump-to-ts label {
+	position: relative;
+	z-index: 2;
+	cursor: pointer;
+}
