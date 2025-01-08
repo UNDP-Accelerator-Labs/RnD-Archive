@@ -1,4 +1,4 @@
-[[audio:/media/audio/ARG_01.mp3]]
+[[audio:/public/media/audio/ARG_01.mp3]]
 
 # Open data in Argentina
 
