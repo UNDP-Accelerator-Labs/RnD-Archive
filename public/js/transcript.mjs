@@ -52,7 +52,7 @@ export const renderTranscript = function (text, source) {
 				const moveup = source.match('\.\.\/')?.length;
 				let gitpath = path;
 				if (moveup) gitpath = path.slice(0, moveup * -1);
-				return `https://github.com/UNDP-Accelerator-Labs/RnD-Archive/tree/main/${gitpath.join('/')}/${source.replace('../', '')}`
+				return `https://github.com/UNDP-Accelerator-Labs/RnD-Archive/edit/main/${gitpath.join('/')}/${source.replace('../', '')}`
 			},
 			'target': '_blank',
 		}).html('Edit this page')
