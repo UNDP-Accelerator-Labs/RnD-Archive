@@ -3,3 +3,4 @@ dep.*
 node_modules/
 package.json
 package-lock.json
+*.sublime-workspace
