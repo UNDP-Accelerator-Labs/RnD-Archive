@@ -59,6 +59,7 @@ export const renderTranscript = function (text, source) {
   const titleSection = d3.select("section.title");
 
   console.log(source.replace("../", ""));
+  console.log(path)
 
   titleSection
     .addElems("button", "chip breadcrumb", path)
@@ -73,11 +74,7 @@ export const renderTranscript = function (text, source) {
     .attr("href", (_) => {
       const moveup = source.match(/\.\.\//g)?.length;
       let gitpath = path;
-      console.log(gitpath);
       if (moveup) gitpath = path.slice(0, moveup * -1);
-      console.log(gitpath.join("/"));
-      console.log(source);
-      console.log(moveup);
       return `https://github.com/UNDP-Accelerator-Labs/RnD-Archive/edit/main/${gitpath.join(
         "/"
       )}/${source.replace("../", "")}`;
