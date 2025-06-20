@@ -1,0 +1,15 @@
+Entry points
+
+- stories
+- geography
+- thematic area
+- SDG
+- elements
+- activities
+
+
+https://github.com/peaceiris/actions-gh-pages
+> to compile a stories.json file
+
+https://github.com/markedjs/marked?tab=readme-ov-file
+> to convert markdown to html
