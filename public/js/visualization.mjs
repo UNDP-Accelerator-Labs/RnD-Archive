@@ -1,3 +1,4 @@
+import { d3_extended as d3 } from '/public/js/d3.extensions.mjs';
 import { playAudio } from '/public/js/audio.mjs';
 
 function setupSVG (svg) {
@@ -5,12 +6,10 @@ function setupSVG (svg) {
 	const width = cw ?? ow;
 	const height = ch ?? oh;
 	
-	svg.attrs({ 
-		'x': 0,
-		'y':0,
-		'viewBox': `0 0 ${width} ${height}`,
-		'preserveAspectRatio': 'xMidYMid meet'
-	});
+	svg.attr('x', 0)
+	.attr('y', 0)
+	.attr('viewBox', `0 0 ${width} ${height}`)
+	.attr('preserveAspectRatio', 'xMidYMid meet');
 
 	return { width, height, svg };
 }
@@ -33,19 +32,17 @@ export const visualizeAudio = function (audioData, audio, audioDuration, interva
 	const sections = svg.addElems('g', 'sections', intervals)
 		.attr('transform', d => `translate(${playbackSteps(d[0] * 100)}, 0)`)
 	sections.addElems('line', 'section-separator')
-		.attrs({
-			'x1': d => playbackSteps((d[1] - d[0]) * 100),
-			'y1': 0,
-			'x2': d => playbackSteps((d[1] - d[0]) * 100),
-			'y2': height,
-		})
+	.attr('x1', d => playbackSteps((d[1] - d[0]) * 100))
+	.attr('y1', 0)
+	.attr('x2', d => playbackSteps((d[1] - d[0]) * 100))
+	.attr('y2', height);
+
 	sections.addElems('rect', 'section')
-		.attrs({
-			'width': d => playbackSteps((d[1] - d[0]) * 100),
-			'height': d => height,
-			'x': 0,
-			'y': 0,
-		})
+	.attr('width', d => playbackSteps((d[1] - d[0]) * 100))
+	.attr('height', d => height)
+	.attr('x', 0)
+	.attr('y', 0)
+
 	.on('click', (e, d) => {
 		playAudio(d[0] * 100);
 	});
@@ -55,14 +52,12 @@ export const visualizeAudio = function (audioData, audio, audioDuration, interva
 		.attr('d', path);
 
 	const playhead = svg.addElem('line', 'playhead main')
-		.attrs({
-			'x1': 1,
-			'x2': 1,
-			'y1': 0,
-			'y2': height,
-			'transform': `translate(${[ 0, 0 ]})`,
-			'data-max_x': width,
-		});
+	.attr('x1', 1)
+	.attr('x2', 1)
+	.attr('y1', 0)
+	.attr('y2', height)
+	.attr('transform', `translate(${[ 0, 0 ]})`)
+	.attr('data-max_x', width);
 	// const jumpToPlayhead = svg.addElem('line', 'playhead ghost')
 	// 	.attrs({
 	// 		'x1': 0,

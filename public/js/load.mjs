@@ -13,7 +13,7 @@ async function onLoad () {
 	if (doc) source = `./pages/${doc}.md`;
 	
 	console.log('loading transcript')
-	const { transcript, path: usedSource } = await getTranscript(source);
+	const { transcript, usedSource } = await getTranscript(source);
 	let { audio: url, text } = parseMetadata(transcript, 'audio');
 	url = url?.[0];
 	renderTranscript(text, usedSource);

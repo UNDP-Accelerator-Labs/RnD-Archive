@@ -1,3 +1,5 @@
+import { d3_extended as d3 } from '/public/js/d3.extensions.mjs';
+
 // THIS IS BASED ON THE GREAT WALK THROUGH: // https://css-tricks.com/making-an-audio-waveform-visualizer-with-vanilla-javascript/
 export const setupAudio = function () {
 	console.log('setting up audio')

@@ -1,22 +1,32 @@
+import { d3_extended as d3 } from '/public/js/d3.extensions.mjs';
+import { marked } from 'https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js';
+
 import { playAudio } from '/public/js/audio.mjs';
 import { tagLookup, parseMetadata, parseTimestamps, convertStringToSeconds } from '/public/js/parsers.mjs';
 
 function fetchTranscript (path) {
 	return fetch(decodeURI(path))
-	.then(res => {
+	.then(async res => {
 		if (res.ok) return res.text();
-		else {
-			if (path.startsWith('./')) {
-				const upPath = path.replace(/^(.)?\//, '../');
-				return fetchTranscript(upPath);
-			} else return res.text();
-		}
-	}).catch(err => console.log(err));
+		else throw new Error('Could not find file.');
+	});
+	// WE DO NOT USE CATCH HERE AS WE NEED TO CHECK FOR THE ERROR IN THE getTranscript FUNCTION
 }
 
 export const getTranscript = async function (path) {
-	const transcript = await fetchTranscript(path);
-	return { transcript, path };
+	let transcript = ''
+	let usedSource = path;
+	
+	try {
+		transcript = await fetchTranscript(path);
+	} catch (err) {
+		if (path.startsWith('./')) {
+			const upPath = path.replace(/^(.)?\//, '../');
+			transcript = await fetchTranscript(upPath);
+			usedSource = upPath;
+		}
+	}
+	return { transcript, usedSource };
 }
 export const renderTranscript = function (text, source) {
 	let html = marked.parse(text);
@@ -39,6 +49,8 @@ export const renderTranscript = function (text, source) {
 	const path = url.pathname.split('/').filter(d => d.length);
 	const titleSection = d3.select('section.title');
 
+	console.log(source.replace('../', ''))
+
 	titleSection.addElems('button', 'chip breadcrumb', path)
 		.addElem('label')
 		.addElem('a')
@@ -47,15 +59,17 @@ export const renderTranscript = function (text, source) {
 	transcript.select('h1').moveTo(titleSection.node());
 	// ADD LINK TO EDIT FILE
 	titleSection.addElem('a', 'edit-link')
-		.attrs({
-			'href': _ => {
-				const moveup = source.match('\.\.\/')?.length;
-				let gitpath = path;
-				if (moveup) gitpath = path.slice(0, moveup * -1);
-				return `https://github.com/UNDP-Accelerator-Labs/RnD-Archive/edit/main/${gitpath.join('/')}/${source.replace('../', '')}`
-			},
-			'target': '_blank',
-		}).html('Edit this page')
+		.attr('href', _ => {
+			const moveup = source.match(/\.\.\//g)?.length;
+			let gitpath = path;
+			console.log(gitpath)
+			if (moveup) gitpath = path.slice(0, moveup * -1);
+			console.log(gitpath.join('/'))
+			console.log(source)
+			console.log(moveup)
+			return `https://github.com/UNDP-Accelerator-Labs/RnD-Archive/edit/main/${gitpath.join('/')}/${source.replace('../', '')}`
+		}).attr('target', '_blank')
+		.html('Edit this page')
 
 	transcript.selectAll('p')
 	.each(function () {
