@@ -39,9 +39,9 @@ if __name__ == '__main__':
 			
 			for tag in eltags:
 				if tag in element_in_stories:
-					element_in_stories[tag].append("- [{}](/stories/?doc={})".format(title, filename))
+					element_in_stories[tag].append("- [{}](../stories/?doc={})".format(title, filename))
 				else:
-					element_in_stories[tag] = ["- [{}](/stories/?doc={})".format(title, filename)]
+					element_in_stories[tag] = ["- [{}](../stories/?doc={})".format(title, filename)]
 
 	for element in elements_in_stories:
 		elements = elements_in_stories[element]
