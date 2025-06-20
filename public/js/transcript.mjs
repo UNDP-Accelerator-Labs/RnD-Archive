@@ -1,13 +1,13 @@
-import { d3_extended as d3 } from "./public/js/d3.extensions.mjs";
+import { d3_extended as d3 } from "./d3.extensions.mjs";
 import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
 
-import { playAudio } from "./public/js/audio.mjs";
+import { playAudio } from "./audio.mjs";
 import {
   tagLookup,
   parseMetadata,
   parseTimestamps,
   convertStringToSeconds,
-} from "./public/js/parsers.mjs";
+} from "./parsers.mjs";
 
 function fetchTranscript(path) {
   return fetch(decodeURI(path)).then(async (res) => {

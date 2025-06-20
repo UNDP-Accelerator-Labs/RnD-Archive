@@ -1,5 +1,5 @@
-import { d3_extended as d3 } from "./public/js/d3.extensions.mjs";
-import { playAudio } from "./public/js/audio.mjs";
+import { d3_extended as d3 } from "./d3.extensions.mjs";
+import { playAudio } from "./audio.mjs";
 
 function setupSVG(svg) {
   const {

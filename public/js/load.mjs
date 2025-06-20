@@ -1,4 +1,4 @@
-import { parseMetadata } from "./public/js/parsers.mjs";
+import { parseMetadata } from "./parsers.mjs";
 import {
   setupAudio,
   getAudio,
@@ -7,11 +7,11 @@ import {
   audioElement,
   playAudio,
   pauseAudio,
-} from "./public/js/audio.mjs";
-import { visualizeAudio } from "./public/js/visualization.mjs";
-import { getTranscript, renderTranscript } from "./public/js/transcript.mjs";
-import { renderMenu } from "./public/js/menu.mjs";
-import { parseIntervals } from "./public/js/parsers.mjs";
+} from "./audio.mjs";
+import { visualizeAudio } from "./visualization.mjs";
+import { getTranscript, renderTranscript } from "./transcript.mjs";
+import { renderMenu } from "./menu.mjs";
+import { parseIntervals } from "./parsers.mjs";
 
 async function onLoad() {
   // if (!url) url = '/media/audio/horror-background-atmosphere-156462.mp3';
