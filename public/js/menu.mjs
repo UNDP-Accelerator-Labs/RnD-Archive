@@ -1,4 +1,4 @@
-import { d3_extended as d3 } from "./public/js/d3.extensions.mjs";
+import { d3_extended as d3 } from "./d3.extensions.mjs";
 
 var pos = 0;
 
