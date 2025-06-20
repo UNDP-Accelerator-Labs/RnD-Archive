@@ -11,7 +11,7 @@ function handleScroll() {
 
 export const renderMenu = async function () {
   // LOAD MENU
-  const list = await fetch("/menu.json")
+  const list = await fetch("../../routing.json")
     .then((res) => res.json())
     .catch((err) => console.log(err));
 

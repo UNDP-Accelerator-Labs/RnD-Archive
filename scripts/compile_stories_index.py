@@ -16,7 +16,7 @@ def setListItem (file):
 	filename = splitext(basename(file))[0]
 	text = getText(join(basepath, file))
 	title = getTitle(text)
-	return "- [{}](/stories/?doc={})".format(title, filename)
+	return "- [{}](./stories/?doc={})".format(title, filename)
 
 if __name__ == '__main__':
 	onlyfiles = [file for file in listdir(basepath) if isfile(join(basepath, file)) and file != '.DS_Store']
