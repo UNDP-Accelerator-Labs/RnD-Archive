@@ -5,3 +5,6 @@ package.json
 package-lock.json
 *.sublime-workspace
 scripts/.venv
+local.env
+notebooks/.env
+.ipynb_checkpoints/
