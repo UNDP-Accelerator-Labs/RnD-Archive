@@ -18,7 +18,7 @@ Yes, I am working in a data visualization contest with partner with Data Science
 So, the idea is to engage people, to engage students, to engage like everybody, to appropriate all those data and try to like find patterns and use it as a device of exploration. Then we are going to give them input like webinars and tools to try to use the data to create compelling visualizations and try to, for example, using positive deviance to find what's going on, like what, what, what's going, what, what works in Argentina.
 So, we are going to try to use this contest as a like as a collective intelligence tool to find information and patterns in this open data.
 
-### [[1:40]]Great. So who are your target demographic for this data visualization challenge?
+### [[01:40]]Great. So who are your target demographic for this data visualization challenge?
 [[skills:Visualizing open data]]
 Well, the public like the participants. It's for everybody. But mostly I think that they are going to be students from universities. But the idea is that whoever wants could participate. And the idea is to not only have like data scientist or more like scientific profiles, but also we want to try to convince people from designers and artists, because we want to try to, to, to build this idea that data is beautiful. And that you can, you can really, I don't know, you can really, if you mix art with data, you can convey a very powerful message.
 So, the idea is to try to broaden our audience, not only for data scientists or for economics, but but also for everybody.
