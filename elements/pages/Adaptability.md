@@ -77,7 +77,7 @@ As much as experiment should be regirous and structured, they should also be agi
    
 
 
-# Adaptability 
+# Adaptability
 
 ## Skills description: What does the ability help you do, achieve, or produce?
 
