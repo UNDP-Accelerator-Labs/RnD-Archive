@@ -6,7 +6,7 @@
 
 [[tools:Key Informant Interviews]]
 [[tools:In-depth interviews with repats (within Design Thinking Methodology)]]
-[[tools:A/B Testing]]
+[[tools:A_B Testing]]
 [[tools:Randomized Controlled Trials]]
 My name is Ali Muntasir and I'm Head of experimentation of Accelerated Lab Sudan and I give consent for this recording over to you for the R&D questions\.
 

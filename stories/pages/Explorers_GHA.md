@@ -21,9 +21,9 @@ I'm Seth Akumani, Head of Exploration for UNDP Ganas Accelerator Lab\.
 [[principles:Partnership]]
 [[skills:Sharing Knowledge, training, and unusual partnership]]
 [[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
-[[tools:A/B Testing]]
+[[tools:A_B Testing]]
 [[principles:Ingenuity]]
-[[tools:A/B Testing in a digital environment]]
+[[tools:A_B Testing in a digital environment]]
 [[tactics:Designing the pipelines]]
 Thank you\.
 Yes, indeed\.  
@@ -188,8 +188,8 @@ So with that in mind, we have together with other partners are now Co designed a
 [[tools:Systemic Design]]
 [[tools:UNDP Foresight Playbook]]
 [[tactics:Designing the pipelines]]
-[[tools:A/B Testing]]
-[[tools:A/B Testing in a digital environment]]
+[[tools:A_B Testing]]
+[[tools:A_B Testing in a digital environment]]
 [[principles:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[tools:Quasi Experimental Design Processes]]
 [[principles:Collaboration over competition]]
