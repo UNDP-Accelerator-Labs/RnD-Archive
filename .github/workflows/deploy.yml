@@ -24,11 +24,13 @@ jobs:
           # pip install -r requirements.txt
 
       - name: Run scripts
+        env:
+          BASE_PATH: /RnD-Archive
         run: |
-          python scripts/compile_element_links.py
-          python scripts/compile_elements_index.py
-          python scripts/compile_menu.py
-          python scripts/compile_stories_index.py
+          python scripts/compile_element_links.py $BASE_PATH
+          python scripts/compile_elements_index.py $BASE_PATH
+          python scripts/compile_menu.py $BASE_PATH
+          python scripts/compile_stories_index.py $BASE_PATH
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
