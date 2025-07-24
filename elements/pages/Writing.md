@@ -11,18 +11,12 @@ Writing skills including proposal writing, concept note writing, blog writing, a
 -
 
 ## Associated trait(s)
-  
 
+##
 
-## 
-  
+##
 
-
-## 
-   
-
-
-# Writing proposals/blogs/TORs/grants
+# Writing proposals
 
 ## Skills description: What does the ability help you do, achieve, or produce?
 
@@ -33,11 +27,7 @@ Writing skills including proposal writing, concept note writing, blog writing, a
 -
 
 ## Associated trait(s)
-  
 
-
-## 
-  
-
+##
 
 ##

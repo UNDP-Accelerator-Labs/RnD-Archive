@@ -1,6 +1,5 @@
 # R&D Elements
 
-
 <div class=multicol>
 
 <div>
@@ -41,7 +40,7 @@
 ### E
 
 - [Empathy](/elements/principles/?doc=Empathy)
-- [Even when the Lab is not there  (or UNDP ) things should continue  - we have t…](/elements/principles/?doc=Even%20when%20the%20Lab%20is%20not%20there%20things%20should%20continue)
+- [Even when the Lab is not there (or UNDP ) things should continue - we have t…](/elements/principles/?doc=Even%20when%20the%20Lab%20is%20not%20there%20things%20should%20continue)
 </div>
 
 <div>
@@ -112,7 +111,7 @@
 ### R
 
 - [Recognize and promote agency: Enable agency, the greatest choice for the greatest number .](/elements/principles/?doc=Recognize%20and%20promote%20agency)
-- [Recognize local expertise /Knowledge is produced from below: Nothing for us, without us](/elements/principles/?doc=Recognize%20local%20expertise)
+- [Recognize local expertise: Nothing for us, without us](/elements/principles/?doc=Recognize%20local%20expertise)
 - [Resilience](/elements/principles/?doc=Resilience)
 </div>
 
@@ -129,7 +128,7 @@
 
 - [Transparency and Honesty: Be open, transparent, honest .](/elements/principles/?doc=Prioritize%20transparency%20in%20methods%20and%20openness%20in%20sharing%20data%20and%20results)
 - [Transparency and Honesty: Be open, transparent, honest .](/elements/principles/?doc=Transparency%20and%20Honesty)
-- [Trust/Authenticity: Build trust as a must](/elements/principles/?doc=Trust)
+- [Trust and Authenticity: Build trust as a must](/elements/principles/?doc=Trust)
 </div>
 
 <div>

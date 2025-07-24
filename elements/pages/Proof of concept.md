@@ -1,7 +1,6 @@
 [[type:tactics]]
 
-# Proof of concept/case study for collaboration
-
+# Proof of concept
 
 ## Tactic description: When do you apply this tactic? How does it work?
 
@@ -12,11 +11,7 @@ If you present proof of concept / case studies and link them to the country's co
 Omagano
 
 ## Associated trait(s)
-  
 
-
-## 
-  
-
+##
 
 ##

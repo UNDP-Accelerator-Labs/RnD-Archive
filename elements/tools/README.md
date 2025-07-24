@@ -1,20 +1,19 @@
 # R&D Elements
 
-
 <div class=multicol>
 
 <div>
 
 ### 8
 
-- [8 Elements  (or Steps ) for Policy Innovation](/elements/tools/?doc=8%20Elements%20%28or%20Steps%29%20for%20Policy%20Innovation)
+- [8 Elements (or Steps ) for Policy Innovation](/elements/tools/?doc=8%20Elements%20%28or%20Steps%29%20for%20Policy%20Innovation)
 </div>
 
 <div>
 
 ### A
 
-- [A/B Testing](/elements/tools/?doc=A_B%20testing)
+- [A_B Testing](/elements/tools/?doc=A_B%20testing)
 - [Active listening](/elements/tools/?doc=Active%20listening)
 </div>
 
@@ -45,7 +44,7 @@
 
 ### D
 
-- [Data Power Positive Deviance  (for sustainable livestock farming )](/elements/tools/?doc=Data%20Powered%20Positive%20Deviance)
+- [Data Power Positive Deviance (for sustainable livestock farming )](/elements/tools/?doc=Data%20Powered%20Positive%20Deviance)
 - [Deep listening](/elements/tools/?doc=Deep%20listening%20to%20map%20beyond%20the%20intangible)
 - [Design Lens: Biomimicry meets Design thinking](/elements/tools/?doc=Design%20lens)
 - [Design the narrative flow and the stage to ensure the community and the desired outcome lead](/elements/tools/?doc=Design)
@@ -69,7 +68,7 @@
 ### F
 
 - [Facilitation](/elements/tools/?doc=Facilitation%20skills)
-- [Flourish  - data vizualization tool](/elements/tools/?doc=Flourish%20data%20visualization%20tool)
+- [Flourish - data vizualization tool](/elements/tools/?doc=Flourish%20data%20visualization%20tool)
 - [Focusing on the value added](/elements/tools/?doc=Focusing%20on%20the%20value%20added)
 - [Foresight](/elements/tools/?doc=Foresight)
 - [Future thinking](/elements/tools/?doc=Future%20thinking%20for%20human%20mobility)
@@ -91,7 +90,7 @@
 - [Hackathon](/elements/tools/?doc=Hacktahon)
 - [Heuristic and Scenario -Based Evaluation](/elements/tools/?doc=Scenario%20building)
 - [Horizon scanning](/elements/tools/?doc=Horizon%20scanning)
-- [How Might We  (HMW )](/elements/tools/?doc=How%20might%20we)
+- [How Might We (HMW )](/elements/tools/?doc=How%20might%20we)
 - [Human -Centered design](/elements/tools/?doc=Human%20centered%20design)
 - [Human centered design to engage people](/elements/tools/?doc=Human%20centered%20design%20to%20engage%20people)
 </div>
@@ -147,7 +146,7 @@
 
 ### O
 
-- [ODK  (Open Data Kit ) is a powerful open -source software platform that enable…](/elements/tools/?doc=Open%20Data%20Kit)
+- [ODK (Open Data Kit ) is a powerful open -source software platform that enable…](/elements/tools/?doc=Open%20Data%20Kit)
 - [OSF Registry of Experiments](/elements/tools/?doc=OSF%20registry%20of%20epxeriments)
 - [Open data](/elements/tools/?doc=Open%20data)
 - [Openstreet Map](/elements/tools/?doc=Openstreet%20map)
@@ -157,7 +156,7 @@
 
 ### P
 
-- [Participatory Action Research  (PAR )](/elements/tools/?doc=Participatory%20action%20research)
+- [Participatory Action Research (PAR )](/elements/tools/?doc=Participatory%20action%20research)
 - [Participatory air quality monitoring ](/elements/tools/?doc=Participatory%20monitoring%20evaluation%20reflection%20%26%20learning)
 - [Partnership](/elements/tools/?doc=Patnership)
 - [Persona Empathy Map within Design Thinking Methodology](/elements/tools/?doc=Personas)
@@ -181,7 +180,7 @@
 ### R
 
 - [RCTs](/elements/tools/?doc=RCTs)
-- [Research data drawing insights  (Kobo toolbox )](/elements/tools/?doc=KoboToolbox%20for%20quality%20data%20collection%20and%20analysis%20in%20challenging%20settings)
+- [Research data drawing insights (Kobo toolbox )](/elements/tools/?doc=KoboToolbox%20for%20quality%20data%20collection%20and%20analysis%20in%20challenging%20settings)
 </div>
 
 <div>
@@ -214,7 +213,7 @@
 
 - [Urbanist AI](/elements/tools/?doc=Urbanist%20AI)
 - [User Journey](/elements/tools/?doc=User%20journey%20mapping)
-- [User centered -design  (for digital solutions )](/elements/tools/?doc=User%20centered-design)
+- [User centered -design (for digital solutions )](/elements/tools/?doc=User%20centered-design)
 </div>
 
 <div>

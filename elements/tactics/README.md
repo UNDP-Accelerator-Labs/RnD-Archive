@@ -1,13 +1,12 @@
 # R&D Elements
 
-
 <div class=multicol>
 
 <div>
 
 ### A
 
-- [Asset mapping  - nothing for us, without us](/elements/tactics/?doc=Asset%20mapping)
+- [Asset mapping - nothing for us, without us](/elements/tactics/?doc=Asset%20mapping)
 </div>
 
 <div>
@@ -75,7 +74,7 @@
 ### G
 
 - [Gaining Leverage and Traction for solutions](/elements/tactics/?doc=Gaining%20leverage%20and%20traction%20for%20solutions)
-- [Getting in there  (positioning the lab in UNDP prodoc )](/elements/tactics/?doc=Getting%20in%20there)
+- [Getting in there (positioning the lab in UNDP prodoc )](/elements/tactics/?doc=Getting%20in%20there)
 </div>
 
 <div>
@@ -136,7 +135,7 @@
 - [Pitch for impact](/elements/tactics/?doc=Pitching%20skill)
 - [Play don't preach](/elements/tactics/?doc=Play%20do%20not%20preach)
 - [Portfolio approach](/elements/tactics/?doc=Portfolio%20approach)
-- [Proof of concept/case study for collaboration](/elements/tactics/?doc=Proof%20of%20concept)
+- [Proof of concept](/elements/tactics/?doc=Proof%20of%20concept)
 </div>
 
 <div>

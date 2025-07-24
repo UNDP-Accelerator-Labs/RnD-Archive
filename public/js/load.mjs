@@ -23,6 +23,7 @@ async function onLoad() {
   console.log("loading transcript");
   const { transcript, usedSource } = await getTranscript(source);
   let { audio: url, text } = parseMetadata(transcript, "audio");
+
   url = url?.[0];
   renderTranscript(text, usedSource);
 
@@ -32,7 +33,6 @@ async function onLoad() {
     const audioContext = new AudioContext();
     let currentBuffer = null;
 
-    console.log("loading audio");
     const audioBuffer = await getAudio(url, audioContext);
     const filteredData = filterAudioData(audioBuffer);
     const normalizedData = normalizeAudioData(filteredData);

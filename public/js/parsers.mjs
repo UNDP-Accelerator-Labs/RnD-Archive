@@ -21,7 +21,8 @@ export const parseMetadata = function (text, metafields) {
 
   const metadata = {};
   matches.forEach((d) => {
-    const [key, value] = d[0].replace(/[\[\]]/g, "").split(":");
+    const [key, ...rest] = d[0].replace(/[\[\]]/g, "").split(":");
+    const value = rest.join(":");
     // const obj = {};
     // obj[key] = value;
     // return obj;
