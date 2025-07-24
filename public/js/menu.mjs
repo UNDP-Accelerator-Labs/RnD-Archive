@@ -26,7 +26,7 @@ export const renderMenu = async function () {
     .select("menu")
     .addElems("li", null, list)
     .addElems("a")
-    .attr("href", (d) => `/${d}/`)
+    .attr("href", (d) => `${basePath}/${d}/`)
     .html((d) => d);
 
   window.addEventListener("scroll", handleScroll);
