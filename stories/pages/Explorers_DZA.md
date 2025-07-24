@@ -20,7 +20,7 @@ So I'm an explorer at the accelerated lab in the Co office and the Co in Algeria
 [[principles:Never deplete social capital, always increase social capital]]
 [[tools:Scaling partnerships by demonstrating value incrementally]]
 [[tools:Innovation Challenge]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tactics:Design the narrative flow and the stage to ensure the community and the desired outcome lead]]
 [[principles:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
 [[tools:Citizen Science and gamification using digital platform to crowdsource solutions]]
@@ -68,7 +68,7 @@ And by the way, I'm even in parallel of this first, I'm also coordinating actual
 [[principles:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[principles:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
 [[tools:Citizen Science and gamification using digital platform to crowdsource solutions]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
 [[tools:Increasing community engagement through community-growing incentives]]
 [[tools:Collective Intelligence to recover local knowledge]]
@@ -87,7 +87,7 @@ And by the way, I'm even in parallel of this first, I'm also coordinating actual
 [[tactics:Understanding the Community]]
 [[tactics:Understanding the Community]]
 [[tactics:Design the narrative flow and the stage to ensure the community and the desired outcome lead]]
-[[tactics:Proof of concept/case study for collaboration]]
+[[tactics:Proof of concept]]
 [[skills:Making insights actionable]]
 The I'll try, I'll first try to make you understand or explain the context, the bureaucratic context that we evolved in, in, in Algeria\.
 So actually we work exclusively or we work through ministries\.
@@ -106,7 +106,7 @@ Yeah\.
 
 ### [[6:33]] Thank you so much for the detail\. I would like to know which were the tools and methods that you use to work with these artisan women\.
 
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Inclusivity]]
 [[principles:Well being]]
 [[principles:Partnership]]

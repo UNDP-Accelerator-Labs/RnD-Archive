@@ -102,7 +102,7 @@ So their input actually shaped the final project, to be honest\.
 
 [[principles:Human centering and adaptability: Less of me, more of them]]
 [[principles:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[skills:Community Engament]]
 A lot of tools and methods, to be honest\.  
 Why?  
@@ -154,7 +154,7 @@ So actually these were like the tactics that we use in order to, to, to, to go o
 [[principles:Human centering and adaptability: Less of me, more of them]]
 [[tactics:Understanding the Community]]
 [[principles:Inclusivity]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 So I think the main principle is that it's it's in the back of our head as a club, is that the end goal is this local community\.  
 Yeah, the end goal is these 120,000 people who live in this community\.  
 This is our target\.  
@@ -256,7 +256,7 @@ I think being present is really important for building a trust and for actually 
 
 [[principles:Transparency]]
 [[principles:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Transparency and Honesty: Be open, transparent, honest]]
 Basically, it's ensuring the government's buy in\.  
 This is important, having the government part of this project\.  

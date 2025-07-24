@@ -73,7 +73,7 @@ OK, so the government is the the Ministry of Labor and Social Welfare who has a 
 
 [[tactics:Understanding the Community]]
 [[principles:Collaboration]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tools:Participatory Future Thinking]]
 So, so the the inputs from the government, they so going back to like the story of like, OK, we were finding the opportunity, right?  
 And then we found this, this could be an area that we could work with\.  
@@ -119,7 +119,7 @@ OK, so it's the survey tool to collect the data around youth around yeah, youth 
 [[tools:Collaborative design of actions]]
 [[tools:Systemic Design]]
 [[principles:Humain Centered Design]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tactics:De-risking the intervention by promoting an incremental approach through R&amp;D]]
 [[tactics:Overcoming Resistance]]
 [[tactics:"Buy in" means agreeing to a tangible commitment]]
@@ -132,9 +132,9 @@ And we wanna make sure that the platform design and for for the align with the t
 
 ### [[8:22]] And if I want to dive deeper into the tactics and approaches that you used in order to engage your stakeholders and to make sure that they have the buy in and they are committed to this initiatives\. Or if they if you couldn't really get them to have the buy in, what are the tactics within the to address the resistance that you face from them?
 
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 [[tools:Scaling partnerships by demonstrating value incrementally]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tactics:Play don't preach]]
 I think first of all it's about convening, convincing stakeholders to be on board and kind of like we sense and try to get the buy in by doing slowly building trust with partners, yes, but at the same time we're not really trying to sell hard\.  
 Our concept, our ideas, the innovative ideas of trying to integrate on advanced technology and auto generated model within the platform, that's the behind the scene\.  
@@ -145,7 +145,7 @@ It was kind of like for those people who do not have technical background, they 
 [[principles:Inclusivity]]
 [[principles:Inclusivity and diversity]]
 [[principles:Inclusivity]]
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 I think one thing through the website development process, we really try to focus on inclusivity\. We're trying to include all relevant stakeholders in there, but it's contents why we also trying to to step back and see whatever content that's published is inclusive, not gender bias, for example, like we, we, we trying to like before traditionally when they published a job vacancy, they were just like, we want just only men specifically or women specifically for this type of job\.  
 But we trying to make a change of that\.  
 So I think inclusivity is a big thing, a big thing\.
@@ -161,7 +161,7 @@ They related to the sensitive information as well around the salary range, so on
 
 ### [[11:48]] What skills you need it to effectively identify and understand the challenges or the needs for your R and DI?
 
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 [[skills:Sharing Knowledge, training, and unusual partnership]]
 [[skills:Creativity, organisation, open mind]]
 [[principles:Human centering and adaptability: Less of me, more of them]]

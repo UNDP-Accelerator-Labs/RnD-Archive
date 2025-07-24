@@ -55,7 +55,7 @@ So it seems that you have to talk with different and diverse stakeholders\.
 
 ### [[3:42]] So what tactics and build their confidence\.
 
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 [[principles:Transparency and Honesty: Be open, transparent, honest]]
 [[principles:Inclusivity]]
 [[principles:Transparency]]
@@ -77,7 +77,7 @@ We were trying to build an enabling platform where they can discuss the policy g
 [[principles:Deep listening to map beyond the tangible:]]
 [[principles:Deep listening to map beyond the tangible: Listen deep and show you are listening]]
 [[principles:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 [[principles:Human centering and adaptability: Less of me, more of them]]
 [[principles:Inclusivity]]
 [[principles:Inclusivity]]
@@ -138,7 +138,7 @@ There still remains huge gender gap, gender divide in terms of digital financial
 [[tools:Innovation Challenge merged with blended financing]]
 [[principles:Collaboration]]
 [[principles:Risk analysis and trust from stakeholders]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Partnership]]
 [[principles:Collaboration]]
 [[principles:Frugality]]

@@ -42,7 +42,7 @@ And what was the development issue that you were addressing?
 [[Tactics capture card:Gaining Leverage and Traction for solutions]]
 [[Tactics capture card:Finding allies]]
 [[Principles capture card:Never deplete social capital, always increase social capital]]
-[[Tactics capture card:Working with ecosystem/Understand the ecosystem]]
+[[Tactics capture card:Working with ecosystem]]
 
 [[0:46]]  
 OK, Well, we're addressing triggers of conflicts, so trying to avoid setting those triggers off and looking for interventions that would help address that in the agriculture ecosystem, because that's the main occupation in the state and main occupation of the parties that are at conflict\.
@@ -54,7 +54,7 @@ OK\.
 And who was involved in in in that process?
 
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Partnership]]
 [[Principles capture card:Diversity]]
 
@@ -75,7 +75,7 @@ We had a lot of, I'd say champions helping us engage different aspects of the co
 [[1:38]]  
 So we were working with advocacy groups that were reaching out to different, I'll say harder to reach actors\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tactics capture card:Understanding the Community]]
 [[Skills capture card:Making insights actionable]]
 [[Tools capture card:Understanding the Ecosystem when developing innovation]]
@@ -84,7 +84,7 @@ So we were working with advocacy groups that were reaching out to different, I'l
 We had to go through ministries, local state ministries that had, I'd say expertise and knowledge and insights that we didn't have on key aspects of the ecosystem\.
 
 [[Tools capture card:Scaling partnerships by demonstrating value incrementally]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Focus on inclusion and diversity systems analysis,problem identification]]
 [[Principles capture card:Diversity]]
 
@@ -103,7 +103,7 @@ It's part of Benue State University and the Nigerian Meteorological Agency, whic
 So a lot of help, a lot of support from a range of partners\.
 
 [[Skills capture card:Making insights actionable]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tools capture card:Participatory Future Thinking]]
 [[Principles capture card:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 
@@ -122,7 +122,7 @@ So I guess I would ask what what was their role, but I'm not sure by the title\.
 For example, like the meteorology, the meteorological association, it's a little bit maybe obvious, but but tell me maybe some of the roles that OK\.
 
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Making insights actionable]]
 [[Principles capture card:Human centering and adaptability: Less of me, more of them]]
 
@@ -141,14 +141,14 @@ What are the possible livers, what approaches that could work that maybe are bei
 So first of all, a lot of these people were, they were, I'd say they were gatekeepers\.
 
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
-[[Tactics capture card:Working with ecosystem/Understand the ecosystem]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
+[[Tactics capture card:Working with ecosystem]]
 [[Principles capture card:Self-awareness]]
 
 [[3:10]]  
 They were people who let us get under the skin of issues and see things through the eyes of the smallholds of farmers, understand their priorities around what's the problem actually was, which ones they would like to deal with and address first\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Do no Harm]]
 [[Tools capture card:Understanding the Ecosystem when developing innovation]]
 [[Principles capture card:Inclusivity and diversity]]
@@ -167,7 +167,7 @@ And then because they were in different locations across the state, we basically
 [[3:38]]  
 So you needed different peoples at different people at different times\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Business acumen]]
 [[Skills capture card:Collective Intelligence]]
 [[Tools capture card:Collective Intelligence]]
@@ -186,10 +186,10 @@ So even just getting that ground in and for them helping you understand what wha
 [[3:57]]  
 People played different roles\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tactics capture card:Understanding the Community]]
 [[Principles capture card:Collaboration]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 
 [[3:58]]  
 I'd say for the sense making it was essential that we had all the stakeholders involved for access to community knowledge and insights or we definitely needed them\.
@@ -197,7 +197,7 @@ I'd say for the sense making it was essential that we had all the stakeholders i
 [[4:09]]  
 So a lot of their roles were, first of all, helping us understand the problem\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Making insights actionable]]
 [[Principles capture card:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[Principles capture card:Ingenuity]]
@@ -208,7 +208,7 @@ And then secondly, by the time we had a handle on what possible options we had f
 [[Skills capture card:Creativity, organisation, open mind]]
 [[Skills capture card:Data management]]
 [[Skills capture card:Reaching unreachable communities-unusual beneficiaries]]
-[[Skills capture card:Data collection/gathering]]
+[[Skills capture card:Data collection]]
 
 [[4:21]]  
 So get into people who could provide data, who need the type of data that would actually be most useful, and then how to break down that data for smallholder farmers in rural communities as well\.
@@ -289,7 +289,7 @@ I think that is standard trade on tool in our portfolio\.
 [[5:46]]  
 And then also I mean basic old surveys, you just needed that because we needed to get ensure that we had quantitative data that we could use to show if we had been able to move the needle at all in any way\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Making insights actionable]]
 [[Principles capture card:Accessibility of knowledge]]
 [[Skills capture card:Collective intelligence, video, visibility was key success, "press advisor"]]
@@ -306,7 +306,7 @@ So those same tools for accessing knowledge and then having it in a format that 
 I would say ethnographic studies were also really important because, and many times you didn't understand the impact of what you were doing until much later\.
 
 [[Principles capture card:Care about the people the same amount you care about the solutions]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Principles capture card:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
 [[Principles capture card:Inclusivity and diversity]]
 
@@ -351,7 +351,7 @@ But I'd say many times we weren't speaking as much in our focus group discussion
 
 [[Principles capture card:Transparency and Honesty: Be open, transparent, honest]]
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Tools capture card:AccLab Newsletter, as tool for spreading our knowledge]]
 
 [[7:03]]  
@@ -390,7 +390,7 @@ That was a big thing because sometimes I think unintentionally people might just
 [[Tools capture card:Narrative analysis]]
 [[Tools capture card:Collective Intelligence for climate action]]
 [[Principles capture card:Transparency and Honesty: Be open, transparent, honest]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 
 [[7:46]]  
 But what you really want to know is probably what they're not saying because it's matter of fact for them\.
@@ -404,8 +404,8 @@ Get out of the way\.
 [[7:54]]  
 Even though we were there in the room\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Principles capture card:Transparency and Honesty: Be open, transparent, honest]]
 [[Principles capture card:Deep listening to map beyond the tangible: Listen deep and show you are listening]]
 
@@ -420,7 +420,7 @@ And then also another big tactic was trying to ensure that everybody knew that w
 [[8:05]]  
 So it was always round table, always we're on the same level or even we're learning from you\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Human centering and adaptability: Less of me, more of them]]
 [[Tools capture card:Future Thinking (for human mobility)]]
 [[Tools capture card:The Future, Backwards]]
@@ -429,7 +429,7 @@ So it was always round table, always we're on the same level or even we're learn
 At this point in time, we don't know what to do, but we have a feeling that you're better placed and you can inform us better on what should eventually happen, which are the key\.
 
 [[Skills capture card:Making insights actionable]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Ingenuity]]
 [[Skills capture card:Collective intelligence, video, visibility was key success, "press advisor"]]
 
@@ -440,7 +440,7 @@ And can you elaborate maybe on some principles that guided your work or are they
 I think I slid into that on the last question\.
 
 [[Principles capture card:Deep listening to map beyond the tangible:]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Skills capture card:Curiosity, Humble, community participation, Leadership, innovation]]
 [[Principles capture card:Human centering and adaptability: Less of me, more of them]]
 
@@ -448,7 +448,7 @@ I think I slid into that on the last question\.
 But yes, I would say people talked a lot about humility in the last few days, and that's important\.
 
 [[Principles capture card:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Care about the people the same amount you care about the solutions]]
 [[Principles capture card:Self-awareness]]
 
@@ -570,7 +570,7 @@ And reflecting on your journey, what was the impact Impact\.
 Oh, lots of impact\.
 
 [[Principles capture card:Never deplete social capital, always increase social capital]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Flexibility and adaptability]]
 [[Skills capture card:Making insights actionable]]
 
@@ -593,7 +593,7 @@ These are insights on things, but data that crosses the digital divide that you 
 
 [[Tools capture card:Citizen Science and gamification using digital platform to crowdsource solutions]]
 [[Principles capture card:Deep listening to map beyond the tangible:]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tools capture card:Participatory air quality monitoring]]
 
 [[11:14]]  
@@ -604,15 +604,15 @@ How do I bridge that?
 
 [[Skills capture card:Making insights actionable]]
 [[Tools capture card:Increasing community engagement through community-growing incentives]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Collaboration]]
 
 [[11:31]]  
 And how do I bring the impacts that that can make in their livelihoods to them in a way that they that they can integrate on a daily basis?
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Deep listening to map beyond the tangible: Listen deep and show you are listening]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Principles capture card:Deep listening to map beyond the tangible:]]
 
 [[11:41]]  
@@ -626,7 +626,7 @@ Secondly, the kind of impact, I think connecting the knowledge in different pool
 [[11:57]]  
 I mean, a young person of about 2324 has already 10 years at least usually of solid farming experience on their, their, their belts there\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Business acumen]]
 [[Principles capture card:Inclusivity]]
 [[Principles capture card:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
@@ -643,7 +643,7 @@ So they're experts on things, on their locale, on their type of soil, on many th
 But it's just additional input because other factors that they can't control are changing so rapidly that they don't have\.
 
 [[Tools capture card:Scaling partnerships by demonstrating value incrementally]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tools capture card:Understanding the Ecosystem when developing innovation]]
 [[Principles capture card:Human centering and adaptability: Less of me, more of them]]
 
@@ -651,7 +651,7 @@ But it's just additional input because other factors that they can't control are
 Meanwhile, you have lots of, they had about what, 5\-6 universities around, so lots of specialized knowledge in their different ecosystems, but they weren't speaking to each other\.
 
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Making insights actionable]]
 [[Principles capture card:Deep listening to map beyond the tangible: Listen deep and show you are listening]]
 
@@ -673,7 +673,7 @@ So that was the next big thing, connecting those knowledge pools that were disco
 And then lastly, that should actually be one of the first things we did manage to increase their output\.
 
 [[Tools capture card:Innovation Ecosystem Map]]
-[[Tactics capture card:Working with ecosystem/Understand the ecosystem]]
+[[Tactics capture card:Working with ecosystem]]
 [[Tactics capture card:Share your value upfront, not budget]]
 [[Tools capture card:This inventory is about how you can use experiments to solve public and soc…]]
 
@@ -683,7 +683,7 @@ So a lot of farmers like got twice what they usually would get from their farms 
 [[Tools capture card:Collective Intelligence for climate action]]
 [[Principles capture card:Flexibility and adaptability]]
 [[Tactics capture card:Share your value upfront, not budget]]
-[[Tactics capture card:Working with ecosystem/Understand the ecosystem]]
+[[Tactics capture card:Working with ecosystem]]
 
 [[13:11]]  
 And then they could adjust their activities, their farming activities to suit what the weather was going to do\.
@@ -777,14 +777,14 @@ We're still doing that, actually\.
 [[Tools capture card:Collective Intelligence for climate action]]
 [[Tools capture card:Innovative approach - Design Thinking - Issue Mapping - Stakeholder Mapping]]
 [[Tools capture card:Citizen Science and gamification using digital platform to crowdsource solutions]]
-[[Tactics capture card:Working with ecosystem/Understand the ecosystem]]
+[[Tactics capture card:Working with ecosystem]]
 
 [[15:01]]  
 So we've gotten one team, a project team in the office, the Northwest Climate Security Project team, and they're adopting this method of distributing crop weather calendars and training on climate smart agricultural methods\.
 
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
-[[Tactics capture card:Working with ecosystem/Understand the ecosystem]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
+[[Tactics capture card:Working with ecosystem]]
 [[Tools capture card:Increasing community engagement through community-growing incentives]]
 
 [[15:17]]  

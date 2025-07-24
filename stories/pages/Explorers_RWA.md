@@ -34,7 +34,7 @@ We are now going to the next phase where we're going to iterate and experiment t
 We wanted to introduce this being achieved\.
 [[principles:Collaboration]]
 [[principles:Risk analysis and trust from stakeholders]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Co-creation]]
 
 ### [[3:42]] So in this journey, who were the main stakeholders, what was their role and how did their input shape the research and development journey?
@@ -84,7 +84,7 @@ But now with the next level of a proof of concept, with a natural prototype, thi
 Now we are, we hope we leverage and match by convincing the different stakeholders as we we do a full scale experimentation\.
 [[tactics:Gaining Leverage and Traction for solutions]]
 [[tactics:Design the narrative flow and the stage to ensure the community and the desired outcome lead]]
-[[tactics:Proof of concept/case study for collaboration]]
+[[tactics:Proof of concept]]
 [[principles:Ingenuity]]
 [[principles:Inclusivity]]
 [[principles:Resilience]]
@@ -95,7 +95,7 @@ Now we are, we hope we leverage and match by convincing the different stakeholde
 
 [[principles:Accessibility of knowledge]]
 [[tools:Collaborative design of actions]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Ingenuity]]
 Well, there are many principles which we haven't documented yet, one by one or one by one, but we use, we leverage the principles of creativity and ingenuity\.  
 We we, we are not limited by our thinking or being rigid\.  

@@ -115,7 +115,7 @@
 ### R
 
 - [Recognize and promote agency: Enable agency, the greatest choice for the greatest number.](/elements/principles/?doc=Recognize%20and%20promote%20agency)
-- [Recognize local expertise /Knowledge is produced from below: Nothing for us, without us](/elements/principles/?doc=Recognize%20local%20expertise)
+- [Recognize local expertise: Nothing for us, without us](/elements/principles/?doc=Recognize%20local%20expertise)
 - [Resilience](/elements/principles/?doc=Resilience)
 </div>
 
@@ -132,7 +132,7 @@
 
 - [Transparency and Honesty: Be open, transparent, honest.](/elements/principles/?doc=Prioritize%20transparency%20in%20methods%20and%20openness%20in%20sharing%20data%20and%20results)
 - [Transparency and Honesty: Be open, transparent, honest.](/elements/principles/?doc=Transparency%20and%20Honesty)
-- [Trust/Authenticity: Build trust as a must](/elements/principles/?doc=Trust)
+- [Trust and Authenticity: Build trust as a must](/elements/principles/?doc=Trust)
 </div>
 
 <div>
@@ -470,7 +470,7 @@
 - [Pitch for impact](/elements/tactics/?doc=Pitching%20skill)
 - [Play don't preach](/elements/tactics/?doc=Play%20do%20not%20preach)
 - [Portfolio approach](/elements/tactics/?doc=Portfolio%20approach)
-- [Proof of concept/case study for collaboration](/elements/tactics/?doc=Proof%20of%20concept)
+- [Proof of concept](/elements/tactics/?doc=Proof%20of%20concept)
 </div>
 
 <div>

@@ -149,7 +149,7 @@ I think for now we are making very good progress and I'm very satisfied with the
 So, so far I don't see anything that I would have done differently\.  
 But maybe next year I will look back and have a different story\.
 [[principles:Trust]]
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 [[principles:Risk analysis and trust from stakeholders]]
 [[skills:Sharing Knowledge, training, and unusual partnership]]
 

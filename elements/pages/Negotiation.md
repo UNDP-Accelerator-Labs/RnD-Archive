@@ -12,18 +12,12 @@ We need the skill to negotiate with different stakeholders we work with.
 -
 
 ## Associated trait(s)
-  
 
+##
 
-## 
-  
+##
 
-
-## 
-   
-
-
-# Negotiation/Communication
+# Negotiation
 
 ## Tactic description: When do you apply this tactic? How does it work?
 
@@ -34,11 +28,7 @@ The ability to instil reflexion in a dead-end solution and provoke an evolution 
 Ecuador
 
 ## Associated trait(s)
-   
 
-
-## 
-   
-
+##
 
 ##

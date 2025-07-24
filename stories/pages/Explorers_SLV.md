@@ -52,7 +52,7 @@ OK, let's go\.
 ### [[3:37]] Oh, OK\. How in terms of stakeholders, how can you give me a bit more on the stakeholders and how did their input shape the R&D?
 
 [[tactics:Understanding the Community]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tools:Collective Intelligence for climate action]]
 [[principles:Inclusivity and diversity]]
 Yes, so we worked with the Ministry of Tourism and then Salvador and, and this was very important because they told us we worked at a park at national parks, national sites\.  
@@ -123,7 +123,7 @@ That was very important as well\.
 
 ### [[8:21]] But like reflecting, reflecting on the journey, what was the impact or the outcomes of your R&D journey?
 
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 [[tools:Innovation Challenge merged with blended financing]]
 [[tools:Increasing community engagement through community-growing incentives]]
 [[tactics:"Buy in" means agreeing to a tangible commitment]]
@@ -144,7 +144,7 @@ So if you have the training yourself, you would have like your indicators would 
 ### [[10:02]] Now in terms of diffusion and capitalization, what strategies or approaches did you employ to facilitate the diffusion and adoption of your R&D outcome?
 
 [[principles:Transparency and Honesty: Be open, transparent, honest]]
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 [[tools:From Insights to Impact:  Storytelling for Renewable Energy Solutions]]
 [[tools:Increasing community engagement through community-growing incentives]]
 OK, So the traditional I would say we had like an event at the end of the project, the women, they got like a diploma of participation\.  

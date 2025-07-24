@@ -45,14 +45,14 @@ And second was how to utilize Geo located information, both available for the co
 [[principles:Collaboration]]
 [[tools:Scaling partnerships by demonstrating value incrementally]]
 [[tactics:De-risking the intervention by promoting an incremental approach through R&amp;D]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Accessibility of knowledge]]
 [[tactics:Asset mapping - nothing for us, without us]]
 [[principles:Deep listening to map beyond the tangible: Listen deep and show you are listening]]
 [[skills:Making insights actionable]]
 [[tools:Geographic Information System (GIS)]]
 [[tools:Understanding the Ecosystem when developing innovation]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 
 ### [[5:20]] OK, OK\. And when you think back about this story at that moment in time where you implemented all these tools and methods to engage the local government, the NGOs and the different actors that you worked with\. What would you say were the tactics and the approaches that you used to engage all these stakeholders? If you could think about the steps that they followed in order, for example, to get more to build their buying or trust? Or how did you address resistance, eventual the resistance that could come up in them towards the R&D work?
 
@@ -83,7 +83,7 @@ So that's very, very important in the sense of the effectiveness of the of the f
 [[tactics:De-risking the intervention by promoting an incremental approach through R&amp;D]]
 [[principles:Ingenuity]]
 [[principles:Frugality]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tools:Systemic Design]]
 [[tools:Innovative approach - Design Thinking - Issue Mapping - Stakeholder Mapping]]
 
@@ -140,7 +140,7 @@ And a third one, maybe a more exciting one than we deliver, like the first stage
 So that's pretty much like training an algorithm, like a machine, yeah, that is able to perform this specific task of categorization or recognition\.  
 And it's pretty much framed on their computer vision that is like a subset or in a specific area within artificial intelligence\.
 [[skills:Making insights actionable]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tools:Innovative approach - Design Thinking - Issue Mapping - Stakeholder Mapping]]
 [[tools:GIS system, qualitative interviews,system mapping, behavorial approach, ethnography, surveys, util…]]
 

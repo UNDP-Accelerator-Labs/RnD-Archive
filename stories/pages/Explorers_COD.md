@@ -94,7 +94,7 @@ So it's a kind of use case for them to actually see if they can mobilize resourc
 [[principles:Human centering and adaptability: Less of me, more of them]]
 [[principles:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[principles:Ingenuity]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
 [[principles:Transparency]]
 [[principles:Disruptiveness]]
@@ -111,7 +111,7 @@ Luckily for us, the the the high authority in justice supporting the process and
 
 ### [[5:53]] Congratulations\. Just to close, do you want to add something or give a message to the other?
 
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 [[principles:Deep listening to map beyond the tangible:]]
 [[principles:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[principles:Human centering and adaptability: Less of me, more of them]]

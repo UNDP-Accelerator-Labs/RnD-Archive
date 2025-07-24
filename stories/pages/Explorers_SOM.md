@@ -66,7 +66,7 @@ So there was a big gap between what was what it was actually happening on the gr
 [[skills:Imagination]]
 [[skills:Convening skills]]
 [[skills:Collective Intelligence]]
-[[skills:Writing proposals/blogs/TORs/grants]]
+[[skills:Writing proposals]]
 
 ### [[6:47]] Very interesting\. Thanks, Hodan\. And in terms of skills, what will you say were the skills that you needed to effectively identify and understand this challenge?
 
@@ -135,10 +135,10 @@ And they gave us a lot of interesting input\.
 
 ### [[11:25]] That's very nice\. And now reflecting on your journey\. While what we say was the impact or the outcomes of this project, the outcomes is, and I'm, I'm even surprised by the outcomes that we are, we found communities and, and it and it was very surprising throughout the process because we went with assumptions when we're going to map out the solutions of the strategies that the communities came up with\.
 
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Inclusivity and diversity]]
 [[tactics:Understanding the Community]]
-[[tactics:Working with ecosystem/Understand the ecosystem]]
+[[tactics:Working with ecosystem]]
 And then when we wanted to go and do an experiment to see if we can take those strategies, solutions, etcetera, to another community, that was not positive\.  
 We got different insights\.  
 So for if I go into detail into the first one, for example, the solutions that they had was, for example, they had areas that were communal for or communal rangelands\.  

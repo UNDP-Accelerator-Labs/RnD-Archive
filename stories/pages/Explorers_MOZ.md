@@ -68,7 +68,7 @@ So I try to do everything that can add value for this approach that we are havin
 [[skills:Making insights actionable]]
 [[tactics:Gaining Leverage and Traction for solutions]]
 [[tactics:Have good references for your technical work]]
-[[tactics:Negotiation/Communication]]
+[[tactics:Negotiation]]
 For example, to bring this approach of portfolio initiative?  
 What I try to do is like peer\-to\-peer engagement with colleagues and explain to them the benefits for us to work as a portfolio with the government\.  
 We are going to have a workshop, we'll do assets making because the idea is to go to the the people to Mozambican people and listen what they think\.  
@@ -78,7 +78,7 @@ So we have done the mapping since making peer to put engagement data collection,
 
 ### [[4:11]] And we still bring more tools, but initial there are those ones that perfect and and what tactics do you use to engage?
 
-[[tactics:Negotiation/Communication]]
+[[tactics:Negotiation]]
 [[tools:Co-creation &amp; Emotional Intelligence]]
 [[tactics:Based on petition, get the message to the right person]]
 [[principles:Empathy]]
@@ -93,7 +93,7 @@ So in this kind of process where we have to deal and we have to invite people to
 
 [[principles:Transparency and Honesty: Be open, transparent, honest]]
 [[principles:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 [[tools:Participatory Future Thinking]]
 And what when I deal with the government, I must be honest, like I must not give hope that where there's no hope, I must show to the government this UNDP once of\.  
 So I must put this thing to be more clear possible\.  
@@ -105,7 +105,7 @@ That is one of the principles I have to be clear for all of them and how we will
 
 [[skills:Collective Intelligence]]
 [[skills:Futures and Foresight]]
-[[skills:Writing proposals/blogs/TORs/grants]]
+[[skills:Writing proposals]]
 [[skills:Imagination]]
 
 ### [[6:26]] That's really nice, thank you\. And what about the skills that were needed to effectively identify and understand the challenges about?
@@ -135,7 +135,7 @@ So we are trying to push as much as we can\.
 [[tools:Scaling partnerships by demonstrating value incrementally]]
 [[principles:Transparency and Honesty: Be open, transparent, honest]]
 [[principles:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 So the impact that we expecting with this portfolio approach, it is not to solve of the problem for Mozambique, but is to create a very good foundation that can be sustainable\.  
 We want to create a platform that we can address together problems of youth because if we can create a very good foundation and we can prove for our for other entities that they, they maybe they are not willing to join\.  
 Now that it's possible\.  
@@ -161,14 +161,14 @@ So I could use this part of approach from the first day I started work on UNDP i
 
 [[tools:Scaling partnerships by demonstrating value incrementally]]
 [[skills:Sharing Knowledge, training, and unusual partnership]]
-[[tactics:Proof of concept/case study for collaboration]]
+[[tactics:Proof of concept]]
 [[tools:Innovation Challenge merged with blended financing]]
 
 ### [[11:05]] That's great\. So tell me a little bit about the strategies that you use about the fusion and adoption of this\.
 
 [[tools:Collaborative design of actions]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
-[[tactics:Proof of concept/case study for collaboration]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
+[[tactics:Proof of concept]]
 [[tools:Citizen Science and gamification using digital platform to crowdsource solutions]]
 [[skills:Making insights actionable]]
 [[tactics:Human centered design to engage people]]

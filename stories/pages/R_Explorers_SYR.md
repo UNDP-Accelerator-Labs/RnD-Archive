@@ -87,7 +87,7 @@ Then we moved on to this to understand the the past, the present, and the future
 [[Tools capture card:The Future, Backwards]]
 [[Principles capture card:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[Tools capture card:UNDP Foresight Playbook]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 
 [[2:01]]  
 Then we we learned about our current practices and the present time, which will affect us in the future\.
@@ -206,7 +206,7 @@ Thanks for sharing that\.
 
 [[Principles capture card:Diversity]]
 [[Principles capture card:Collaboration]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Human centering and adaptability: Less of me, more of them]]
 
 [[5:33]]  
@@ -215,7 +215,7 @@ So you think what I'm hearing is that somehow these stakeholders have provided s
 [[5:47]]  
 Yes\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Inclusivity and diversity]]
 [[Principles capture card:Accessibility of knowledge]]
 [[Skills capture card:Collective intelligence, video, visibility was key success, "press advisor"]]
@@ -237,7 +237,7 @@ Yeah, of course\.
 [[Tools capture card:Foresight]]
 [[Tools capture card:UNDP Foresight Playbook]]
 [[Skills capture card:Futures and Foresight]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 
 [[6:24]]  
 But not just that foresight also is only is, is not only foresight also is about imagination\.
@@ -363,7 +363,7 @@ You have a multiple stakeholders\.
 
 [[Tactics capture card:Convening Actors]]
 [[Tactics capture card:Convening actors]]
-[[Tactics capture card:Negotiation/Communication]]
+[[Tactics capture card:Negotiation]]
 [[Tactics capture card:Expand through other voices]]
 
 [[8:52]]  
@@ -502,7 +502,7 @@ So that was the main, the main character, the main principle\.
 The the second principle is don't be afraid of going further\.
 
 [[Principles capture card:Human centering and adaptability: Less of me, more of them]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tools capture card:The Future, Backwards]]
 [[Principles capture card:Deep listening to map beyond the tangible:]]
 
@@ -544,7 +544,7 @@ OK, these are really good principles\.
 [[13:18]]  
 So then let's go to skills\.
 
-[[Skills capture card:Writing proposals/blogs/TORs/grants]]
+[[Skills capture card:Writing proposals]]
 [[Skills capture card:Pitching skill]]
 [[Skills capture card:Digital Skills]]
 [[Skills capture card:Convening skills]]
@@ -605,7 +605,7 @@ Thanks for sharing\.
 
 [[Skills capture card:Literature review and desk research]]
 [[Skills capture card:Digital Skills]]
-[[Skills capture card:Writing proposals/blogs/TORs/grants]]
+[[Skills capture card:Writing proposals]]
 [[Skills capture card:Comm]]
 
 [[14:45]]  

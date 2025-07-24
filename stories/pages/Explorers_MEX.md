@@ -46,7 +46,7 @@ We partnered with them so that we could access data sets that were not public\.
 
 ### [[4:51]] That's impressive\. So you have like multiple stakeholders and at the same time in terms of actually that engagement with the stakeholders, did you use any specific tactics or approaches that will somehow enable you to build there by in maintain that relationship or even sometimes overcoming some resistance that that you might have encountered?
 
-[[principles:Trust/Authenticity: Build trust as a must]]
+[[principles:Trust and Authenticity: Build trust as a must]]
 [[principles:Partnership]]
 [[principles:Trust]]
 [[principles:Collaboration]]

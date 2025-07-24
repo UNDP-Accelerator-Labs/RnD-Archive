@@ -96,7 +96,7 @@ It was very important for us that part because we have seen it in, in other than
 Sometimes it's not, I don't know you, you don't mean you don't mean to do that, but sometimes it just happens\.  
 And the other and about the the private sector for us, I think it was about building this, this conscious, this mutual, this this sense of corporate social responsibility that actually engage the community that actually brings up includes a voice of the Carmen worships into their their way of doing things, not just bought and off and you know, just include them in some way\.
 [[skills:Convening skills]]
-[[skills:Writing proposals/blogs/TORs/grants]]
+[[skills:Writing proposals]]
 [[principles:Continuous learning]]
 [[skills:Critical thinking]]
 

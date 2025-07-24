@@ -25,14 +25,14 @@ Yes, thank you so much for the opportunity\. I would like to share an R&D activi
 ### [[2:43]] OK, so this was a development issue you were addressing, I guess\. And how was the first step? Where did you start?
 
 [[principles:Agility]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
-[[tactics:Working with ecosystem/Understand the ecosystem]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
+[[tactics:Working with ecosystem]]
 [[tactics:"Buy in" means agreeing to a tangible commitment]]
 So I think we first we needed to understand the system\. We needed to kind of do a sense making exercise to kind of understand why how the market works and, and, and what are the issues in the market\. And we found out that one of the main issues is that when farmers produce foods, whether they're crops or vegetables or horticulture, they tend to not sell it directly into the market or to Realtors or to shops\. They actually sell it into someone in between and, and these and this in between it\. What they do is basically they take the production from the farmers in a very low price and they kind of store it and then they kind of control the prices of the market\. So they can jump those prices or they can reduce the prices based on their understanding of how other economic factors work\. So for instance, if the dollar is rising or it is devaluating, then you would think about storing it because then this is also connected to global markets\. So these, these middle men are the most, they kind of, they kind of look at the global markets, but also look at the local markets and try to see what benefits them more\. And then they kind of sell without looking at the consumer as at the end consumer and how it will affect their, their livelihoods basically\. So that's why we OK, so this is the system\.
 
 ### [[4:33]] So which was the first step in this activity\.
 
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[tactics:"Buy in" means agreeing to a tangible commitment]]
 [[tools:This inventory is about how you can use experiments to solve public and soc…]]
@@ -91,7 +91,7 @@ Yes, yes, exactly\.
 [[tactics:Understanding the Community]]
 [[tools:Scaling partnerships by demonstrating value incrementally]]
 [[tools:Increasing community engagement through community-growing incentives]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 Absolutely a good question\. We had community mobilizers in each of these areas and working coordinating with these partners and these community mobilizers or we can, you can say community champions, for instance, because they love the idea of what we're doing\. They ensured this compliance process\. They would come and sit down and because in the end, these are actual contracts that you would actually have severe consequences on, right? But in reality, sometimes these compliances don't go very far\. So what we did was we had focal points to kind of follow up on this\.
 
 ### [[15:06]] So what So what were your main outcome? So what do you think was the, the main impact of this project?
@@ -123,7 +123,7 @@ Yes, we did\. We did actually support the bill reform on increasing the threshol
 [[tactics:Understanding the Community]]
 [[principles:Inclusivity]]
 [[tools:Increasing community engagement through community-growing incentives]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 So enhancing a policy about increasing search hold for financing and etcetera, but also they kind of took ownership of the element of trying to create food security within certain communities, right\. So allowing the accessibility for food security to happen among these communities\.
 
 ### [[17:43]] Thank you so much, Ali\. It was amazing to know about this project\.

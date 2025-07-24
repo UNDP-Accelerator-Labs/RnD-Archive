@@ -43,7 +43,7 @@ And I think it's a special story because because of of of this story, it sort of
 [[Tools capture card:Collective Intelligence]]
 [[Skills capture card:Curiosity, Humble, community participation, Leadership, innovation]]
 [[Tools capture card:Co- created Environmental Citizen Science Solutions Mapping of national initiatives]]
-[[Tactics capture card:Working with ecosystem/Understand the ecosystem]]
+[[Tactics capture card:Working with ecosystem]]
 
 [[0:47]]  
 So I would say starting in solid waste management in rural community, we, we wanted to understand, you know, what was, what was happening\.
@@ -52,7 +52,7 @@ So I would say starting in solid waste management in rural community, we, we wan
 We saw a lot of as you do in most of Panama and in urban and rural areas\.
 
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Curiosity, Humble, community participation, Leadership, innovation]]
 [[Skills capture card:Creativity, organisation, open mind]]
 
@@ -121,7 +121,7 @@ So I think what's interesting is is when you start in solid waste management, I 
 
 [[Principles capture card:Transparency and Honesty: Be open, transparent, honest]]
 [[Principles capture card:Never deplete social capital, always increase social capital]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Disruptiveness]]
 
 [[2:43]]  
@@ -197,13 +197,13 @@ So I think I think as as labs, one of the special things that we we start with w
 
 [[Tools capture card:Design Thinking (for public innovation)]]
 [[Tools capture card:Systemic Design]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Co-creation]]
 
 [[4:43]]  
 And I think the inputs are very much a part of not only the design, but first it's like understanding the problem, right\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Never deplete social capital, always increase social capital]]
 [[Tools capture card:Collective Intelligence]]
 [[Principles capture card:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
@@ -225,7 +225,7 @@ That's kind of impossible for the municipality\.
 [[5:21]]  
 So then that's one perspective\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Do no Harm]]
 [[Tactics capture card:Asset mapping - nothing for us, without us]]
 [[Principles capture card:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
@@ -240,15 +240,15 @@ So they revert to means that might not be environmentally friendly\.
 Let's just say burning waste, right?
 
 [[Principles capture card:Never deplete social capital, always increase social capital]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Curiosity, Humble, community participation, Leadership, innovation]]
 [[Tactics capture card:Understanding the Community]]
 
 [[5:50]]  
 So in this particular municipality where we worked, the highest incidence of, of waste burning, right, which also has other, other consequences\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Principles capture card:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[Tools capture card:Collective intelligence]]
 
@@ -263,15 +263,15 @@ So their, their inputs were OK if we don't have waste collection services, you k
 [[6:07]]  
 And then the private sector, for example, or, or the recycling company, they, their inputs are basically criteria\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tools capture card:Participatory air quality monitoring]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Tools capture card:Participatory Future Thinking]]
 
 [[6:17]]  
 We need to make sure that certain criteria are met for us to go and travel two hours from a major city to actually pick up this waste, right?
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tools capture card:Increasing community engagement through community-growing incentives]]
 [[Principles capture card:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
 [[Tools capture card:Collective Intelligence]]
@@ -287,7 +287,7 @@ It's what starts shaping, right?
 
 [[Tools capture card:This inventory is about how you can use experiments to solve public and soc…]]
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tools capture card:Collective Intelligence]]
 
 [[6:41]]  
@@ -296,7 +296,7 @@ The, the, the, the output, you know, also something as simple as where do you pu
 [[6:49]]  
 Well, we don't want to hear, you know, because what if it brings critters, right?
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tools capture card:Increasing community engagement through community-growing incentives]]
 [[Tools capture card:Future Thinking (for human mobility)]]
 [[Tactics capture card:Understanding the Community]]
@@ -304,7 +304,7 @@ Well, we don't want to hear, you know, because what if it brings critters, right
 [[6:53]]  
 Like we don't want that near, I don't know, let's just say a food, you know, a grocery store, right?
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tools capture card:Understanding the Ecosystem when developing innovation]]
 [[Principles capture card:Humain Centered Design]]
 [[Principles capture card:Deep listening to map beyond the tangible:]]
@@ -382,7 +382,7 @@ And what tactics and approaches did you use to engage stakeholders?
 [[Tactics capture card:Understanding the Community]]
 [[Tools capture card:Increasing community engagement through community-growing incentives]]
 [[Principles capture card:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 
 [[8:57]]  
 So I would say definitely there was, there was a lot of, there was a lot of convening and I think enroll municipalities especially, you can't just walk in and start a project\.
@@ -400,7 +400,7 @@ For example, just the simple fact that you need permission from the municipal co
 That means learning how to speak to people's needs, right?
 
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Community Engament]]
 [[Skills capture card:Creativity, organisation, open mind]]
 
@@ -422,17 +422,17 @@ So how do you speak to that person like their language also and identify what th
 So for example, we realized that it might be easier to start in one of the Corajimento\.
 
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Never deplete social capital, always increase social capital]]
 [[Tools capture card:Increasing community engagement through community-growing incentives]]
 
 [[10:14]]  
 So townships that had the greater number, a greater number of businesses because they had also we learned that there were a lot of businesses that had had prior experience with recycling, for example\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Tools capture card:Increasing community engagement through community-growing incentives]]
 [[Tools capture card:How Might We (HMW)]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 
 [[10:30]]  
 So we knew that maybe there was a greater probability of success if we started in this particular Township versus if we tried to do too much at once\.
@@ -454,7 +454,7 @@ All right then\.
 [[10:53]]  
 Can you elaborate on back?
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Accessibility of knowledge]]
 [[Principles capture card:Care about the people the same amount you care about the solutions]]
 [[Principles capture card:Ingenuity]]
@@ -490,7 +490,7 @@ So how do you ask them to partake in a program that in your mind when we know, m
 [[12:00]]  
 So I think, I think empathy is a, a really big one\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Human centering and adaptability: Less of me, more of them]]
 [[Principles capture card:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[Principles capture card:Continuous learning]]
@@ -559,7 +559,7 @@ Then that waste goes to a collection center and someone actually receives that w
 
 [[Principles capture card:Never deplete social capital, always increase social capital]]
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Partnership]]
 
 [[13:38]]  
@@ -595,7 +595,7 @@ So then they can't compact it\.
 [[Principles capture card:Never deplete social capital, always increase social capital]]
 [[Principles capture card:Partnership]]
 [[Tools capture card:Collective intelligence]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 
 [[14:29]]  
 And if it's not compacted and segregated properly, then when the private sector comes and they want to pick it up, they're going to say, well, I can't take this because it's not done properly and there's no value for me\.
@@ -664,7 +664,7 @@ So back to, to impact\.
 [[Tools capture card:Innovation Challenge]]
 [[Tactics capture card:"Buy in" means agreeing to a tangible commitment]]
 [[Tools capture card:Participatory Future Thinking]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 
 [[15:50]]  
 I think initially when we thought about what success might look like, you know, for this, for this recycling project, I think was adoption, right?
@@ -703,7 +703,7 @@ Like if 50% of our waste is organic and we can and we can create certain initiat
 I think that's an impact\.
 
 [[Principles capture card:Self-awareness]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Principles capture card:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
 [[Principles capture card:Resilience]]
 
@@ -758,7 +758,7 @@ If you feel you've already covered it, I think we can skip to the next one\.
 [[18:18]]  
 Yeah, Yeah\.
 
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Skills capture card:Sharing and disseminating knowledge and storytelling working in unusual thematic areas]]
 [[Tools capture card:Collaborative design of actions]]
 [[Principles capture card:Transparency and Honesty: Be open, transparent, honest]]
@@ -780,7 +780,7 @@ Like, you know, I think communities feel supported\.
 [[Principles capture card:Never deplete social capital, always increase social capital]]
 [[Principles capture card:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
 [[Tactics capture card:Understanding the Community]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 
 [[19:05]]  
 And I think also, I mean, in the case of, I think working with local government, like we were, we were able to find champions within the municipality and I would have liked to have been able to support or compensate those champions a little bit more because I felt like it was a one man show\.
@@ -840,7 +840,7 @@ Keeping people informed, right, all, all the time\.
 [[20:22]]  
 I think sometimes we, we have to be careful not to be so extractive right?
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Human centering and adaptability: Less of me, more of them]]
 [[Principles capture card:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[Principles capture card:Deep listening to map beyond the tangible:]]
@@ -853,7 +853,7 @@ Sometimes it's not, it's not very easy\.
 
 [[Tactics capture card:Understanding the Community]]
 [[Tools capture card:Increasing community engagement through community-growing incentives]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
 
 [[20:41]]  
@@ -866,7 +866,7 @@ So I think that sometimes can be, that can be a, a, a challenge\.
 I want to see if I'm so also with diffusion and, and, and adoption\.
 
 [[Principles capture card:Never deplete social capital, always increase social capital]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Principles capture card:Human centering and adaptability: Less of me, more of them]]
 [[Principles capture card:Collaboration over competition]]
 

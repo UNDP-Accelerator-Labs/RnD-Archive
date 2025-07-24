@@ -20,7 +20,7 @@ I'm Seth Akumani, Head of Exploration for UNDP Ganas Accelerator Lab\.
 [[tools:Scaling partnerships by demonstrating value incrementally]]
 [[principles:Partnership]]
 [[skills:Sharing Knowledge, training, and unusual partnership]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tools:A_B Testing]]
 [[principles:Ingenuity]]
 [[tools:A_B Testing in a digital environment]]
@@ -42,12 +42,12 @@ So this is how this R&D activity came about and we're currently in the testing p
 [[tools:Innovation Challenge]]
 [[principles:Never deplete social capital, always increase social capital]]
 [[tools:Innovation Challenge merged with blended financing]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tools:Innovation Challenge]]
 [[principles:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[tools:UNDP Foresight Playbook]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[skills:Making insights actionable]]
 [[skills:Collective intelligence, video, visibility was key success, "press advisor"]]
 [[principles:Accessibility of knowledge]]
@@ -77,7 +77,7 @@ We really want to be able to create an environment where we can provide targeted
 [[tools:Scaling partnerships by demonstrating value incrementally]]
 [[tools:Understanding the Ecosystem when developing innovation]]
 [[tools:Scaling partnerships by demonstrating value incrementally]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tools:Citizen Science and gamification using digital platform to crowdsource solutions]]
 [[principles:Inclusivity]]
 [[tools:Scaling partnerships by demonstrating value incrementally]]
@@ -93,7 +93,7 @@ And to do that, we're also talking to private sector, so financial service provi
 
 ### [[5:16]] Cool, that's nice\. So now what about the tools and methods that you use, especially let's focus on the R&D perspective of the work\. So which tools have you used in methods? It could be around even tactics that we put in place for you to be able to run this wonderful work you just described\.
 
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tools:Scaling partnerships by demonstrating value incrementally]]
 [[principles:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
 [[tools:Desk review analysis]]
@@ -103,7 +103,7 @@ And to do that, we're also talking to private sector, so financial service provi
 [[skills:Collective intelligence, video, visibility was key success, "press advisor"]]
 [[tools:Innovative approach - Design Thinking - Issue Mapping - Stakeholder Mapping]]
 [[tools:UNDP Foresight Playbook]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Human centering and adaptability: Less of me, more of them]]
 [[tools:UNDP Foresight Playbook]]
 [[tools:Systemic Design]]
@@ -120,7 +120,7 @@ And to do that, we're also talking to private sector, so financial service provi
 [[skills:Making insights actionable]]
 [[principles:Collaboration]]
 [[tactics:Share your value upfront, not budget]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 OK, 1st to start with and to understand the death of the problem, the country office did some work which we started building on as a lab and and in fact this work is is a joint effort between the lab and the country office\.
 So first we build on work or research, bottom up research that we conducted in six districts across the country\.
 During this time we interviewed over 900 micro, small and medium enterprises to understand the key issues that they face\.
@@ -152,14 +152,14 @@ So there's a lot of humans in that design thinking also embedded in in the proce
 [[tactics:Beyond borders]]
 [[tools:Collaborative design of actions]]
 [[tactics:De-risking the intervention by promoting an incremental approach through R&amp;D]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Deep listening to map beyond the tangible: Listen deep and show you are listening]]
 [[skills:Making insights actionable]]
 [[tactics:Design the narrative flow and the stage to ensure the community and the desired outcome lead]]
 [[skills:Reaching unreachable communities-unusual beneficiaries]]
 [[skills:Business dev]]
 [[skills:Collective intelligence, video, visibility was key success, "press advisor"]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tools:Collaborative design of actions]]
 [[principles:Collaboration]]
 [[tools:Scaling partnerships by demonstrating value incrementally]]
@@ -177,7 +177,7 @@ So with that in mind, we have together with other partners are now Co designed a
 ### [[9:31]] Then thank you\. Let's not talk about the principle\. Do you think that there were any adequate consideration or principle of inclusivity or equity, even sustainability that guided you up your R&D approach while working with them? Can you talk about some of them?
 
 [[tools:Citizen Science and gamification using digital platform to crowdsource solutions]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tools:UNDP Foresight Playbook]]
 [[tools:Increasing community engagement through community-growing incentives]]
 [[principles:Ingenuity]]
@@ -228,7 +228,7 @@ So we're deploying alternative measures to not only build the capacity of the go
 [[principles:Collaboration]]
 [[tools:UNDP Foresight Playbook]]
 [[tools:Participatory Future Thinking]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 I think this has been one of the most exciting projects I've worked on\.
 Coming from a tech background\.
 One of the key skills that I have used throughout this process is, you know, knowledge of the design thinking process and the software development process\.
@@ -277,7 +277,7 @@ And I think planning ahead and having contingency plans for replacing such perso
 
 [[principles:Human centering and adaptability: Less of me, more of them]]
 [[tools:Scaling partnerships by demonstrating value incrementally]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Transparency and Honesty: Be open, transparent, honest]]
 [[tools:Innovation Challenge]]
 [[tools:Innovation Challenge merged with blended financing]]
@@ -296,7 +296,7 @@ And so we're bringing them also into the fold so that whatever we do has that wh
 ### [[18:44]] You mentioned private sector, so probably with private sector policy makers and as you mentioned the rest of the ecosystem, I think it's important also to to catalyze so that they'll be able to create impacts based on your R&D work\. So if you have any like advice to share with us, what would that be?
 
 [[principles:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tactics:Creating space for emerging themes]]
 [[skills:Business acumen]]
 [[tactics:"Buy in" means agreeing to a tangible commitment]]

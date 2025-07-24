@@ -36,7 +36,7 @@ So that has been the R&D that we've been doing trying to understand tourism thro
 [[tools:Scaling partnerships by demonstrating value incrementally]]
 [[principles:Transparency]]
 [[principles:Even when the Lab is not there (or UNDP) things should continue - we have t…]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[tactics:Understanding the Community]]
 So the stakeholders we have for this initiative is the Ministry of Tourism\.  
 That's the primary stakeholder because from the onset, we made sure that if we have to get sustainability, we need to ensure that the ministry, which is a policy holder for this initiative, is part of this conversation, but also holds the product at the end of the day\.  
@@ -173,7 +173,7 @@ So you have to address, you have to think about how technology addresses these n
 ### [[12:51]] Absolutely\. Great story actually\. Like I would have not thought about that\. But it is impossible like maybe some sensors like you said, or remote sensing or imagery to see where they're moving\.I had to wait\. I was in Tanzania, Kenya and with the migration and I had to wait for them to come\. And you know, so anyways, in terms of the principles, like in terms of how you design this, like your AI for tourism initiative, what were sort of the principles that you guys were like, you know, this should be embedded in the design of our, our initiative\.
 
 [[tools:Innovative approach - Design Thinking - Issue Mapping - Stakeholder Mapping]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 [[principles:Accessibility of knowledge]]
 [[skills:System analysis and complex design]]
 The 1st, the 1st principle is systems\.  
@@ -277,7 +277,7 @@ If we could have opened up the partnership within the organization, OK, everyone
 [[tools:Scaling partnerships by demonstrating value incrementally]]
 [[tools:Collaborative design of actions]]
 [[skills:Making insights actionable]]
-[[principles:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[principles:Recognize local expertise: Nothing for us, without us]]
 All right\.  
 So yes, champions is the first thing that we're trying to do as part of us telling the story of impact and making sure that other people carry that message and it's easier for us to scale through them\.  
 It's one tool is how we are making sure that we are pushing the value to these different sections, the public sector, but also the private sector\.  

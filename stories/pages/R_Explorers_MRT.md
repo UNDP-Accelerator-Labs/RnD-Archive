@@ -39,7 +39,7 @@ Well, absolutely\.
 [[Tools capture card:Collective Intelligence to recover local knowledge]]
 [[Principles capture card:Inclusivity]]
 [[Tools capture card:Citizen Science and gamification using digital platform to crowdsource solutions]]
-[[Tactics capture card:Working with ecosystem/Understand the ecosystem]]
+[[Tactics capture card:Working with ecosystem]]
 
 [[0:38]]  
 Following a request from our program within the country offices to identify some far to reach villages dispersed across the country, we have used advanced technology methods to identify those villages\.
@@ -261,13 +261,13 @@ Great\.
 [[Tactics capture card:Create evidence]]
 [[Tactics capture card:focus to creating a precedent]]
 [[Tactics capture card:One foot on the door]]
-[[Tactics capture card:Proof of concept/case study for collaboration]]
+[[Tactics capture card:Proof of concept]]
 
 [[6:23]]  
 So it seems like evidence based approach seems to be the tactic which is usually the case too\.
 
 [[Tools capture card:Systemic Design]]
-[[Skills capture card:Writing proposals/blogs/TORs/grants]]
+[[Skills capture card:Writing proposals]]
 [[Tools capture card:Innovative approach - Design Thinking - Issue Mapping - Stakeholder Mapping]]
 [[Tactics capture card:De-risking the intervention by promoting an incremental approach through R&amp;D]]
 
@@ -282,16 +282,16 @@ So can you elaborate sort of principles that you kind of looked into that guided
 [[6:40]]  
 Yes, among the principle we I can cite the openness, being imaginative and consider all the alternate possible alternatives\.
 
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Principles capture card:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Principles capture card:Human centering and adaptability: Less of me, more of them]]
 
 [[6:52]]  
 So we have openness and being also collaborative, trustworthy within the team and also easy going to make sure that you are building up an effective team that is meant to contribute to the expected outcome\.
 
 [[Principles capture card:Empathy]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Principles capture card:Trust]]
 [[Principles capture card:Risk analysis and trust from stakeholders]]
 
@@ -301,7 +301,7 @@ Could you say there are other ethical considerations that you looked into in ter
 [[7:16]]  
 Yes, the use of no traditional data come with risks and this risk need to be managed\.
 
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 [[Tactics capture card:Design the narrative flow and the stage to ensure the community and the desired outcome lead]]
 [[Principles capture card:Data sharing]]
 [[Tactics capture card:Diffusing intelligence insight]]
@@ -396,10 +396,10 @@ We expect that this platform would contribute to identify the vulnerable communi
 [[9:36]]  
 It will have a an impact when it comes to the promotion of the livestock sector because identification of surface water is essential for livestock during the summer seasons and also will contribute in developing and modernizing the agricultural sectors\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Making insights actionable]]
 [[Tools capture card:Innovative approach - Design Thinking - Issue Mapping - Stakeholder Mapping]]
-[[Tactics capture card:Working with ecosystem/Understand the ecosystem]]
+[[Tactics capture card:Working with ecosystem]]
 
 [[9:55]]  
 As having idea on the agricultural potential within the country is essential for policy making and informed decision maker later on\.
@@ -432,7 +432,7 @@ What would you have done differently?
 [[10:34]]  
 I will probably go through some technical procedures, some technical process, modify some technical inputs to the model and make it much more precise\.
 
-[[Principles capture card:Recognize local expertise /Knowledge is produced from below: Nothing for us, without us]]
+[[Principles capture card:Recognize local expertise: Nothing for us, without us]]
 [[Skills capture card:Making insights actionable]]
 [[Skills capture card:System analysis and complex design]]
 [[Tools capture card:Innovative approach - Design Thinking - Issue Mapping - Stakeholder Mapping]]
@@ -457,7 +457,7 @@ So in terms of diffusion and catalyzation, did you have any strategies or approa
 [[Tools capture card:Citizen Science and gamification using digital platform to crowdsource solutions]]
 [[Tools capture card:Innovation Challenge merged with blended financing]]
 [[Tools capture card:Innovation Ecosystem Map]]
-[[Principles capture card:Trust/Authenticity: Build trust as a must]]
+[[Principles capture card:Trust and Authenticity: Build trust as a must]]
 
 [[11:35]]  
 Sorry, yes, we're actually thinking about developing an online platform that makes this platform open to public\.
