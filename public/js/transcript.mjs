@@ -17,6 +17,11 @@ function fetchTranscript(path) {
   // WE DO NOT USE CATCH HERE AS WE NEED TO CHECK FOR THE ERROR IN THE getTranscript FUNCTION
 }
 
+const isLocal =
+  window.location.hostname === "localhost" ||
+  window.location.hostname === "127.0.0.1";
+const basePath = isLocal ? "" : "/RnD-Archive";
+
 export const getTranscript = async function (path) {
   let transcript = "";
   let usedSource = path;
@@ -59,7 +64,7 @@ export const renderTranscript = function (text, source) {
   const titleSection = d3.select("section.title");
 
   console.log(source.replace("../", ""));
-  console.log(path)
+  console.log(path);
 
   titleSection
     .addElems("button", "chip breadcrumb", path)
@@ -109,7 +114,7 @@ export const renderTranscript = function (text, source) {
           .addElems("button", `chip ${key.replace("-")}`, metadata[key])
           .addElem("label")
           .addElem("a")
-          .attr("href", (d) => `/elements/${key}/?doc=${d}`)
+          .attr("href", (d) => `${basePath}/elements/${key}/?doc=${d}`)
           .html((d) => {
             if (d.length > 30) return `${d.slice(0, 30)}…`;
             else return d;

@@ -7,4 +7,5 @@ package-lock.json
 scripts/.venv
 local.env
 notebooks/.env
+notebooks/.venv
 .ipynb_checkpoints/
