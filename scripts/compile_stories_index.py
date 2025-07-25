@@ -1,9 +1,25 @@
 import re
+import os
+import sys
 from os import listdir, makedirs
 from os.path import isfile, join, basename, splitext, exists
 
 basepath = './stories/pages/'
 
+# Get base path from CLI arg or env var (e.g., from GitHub Actions)
+basePath = (
+    sys.argv[1]
+    if len(sys.argv) > 1
+    else os.getenv("BASE_PATH", "")
+)
+
+# Normalize basePath (leading slash, no trailing slash)
+if basePath and not basePath.startswith("/"):
+    basePath = "/" + basePath
+if basePath.endswith("/"):
+    basePath = basePath[:-1]
+
+	
 def getText (file):
 	f = open(file, 'r')
 	return f.read()

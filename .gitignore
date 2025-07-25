@@ -8,4 +8,7 @@ scripts/.venv
 local.env
 notebooks/.env
 notebooks/.venv
+notebooks/template.env
+notebooks/.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/notebooks/.env
 .ipynb_checkpoints/notebooks/template.env
