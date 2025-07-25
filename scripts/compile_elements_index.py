@@ -34,7 +34,7 @@ def setListItem (file):
 	title = getTitle(text)
 	types = re.findall(r'\[\[type:[\w\s]*\]\]', text)
 	types = [re.sub(r'[\[\]]*', '', t).replace('type:', '') for t in types]
-	return ("- [{}](/elements/**PLACEHODER**/?doc={})".format(title, quote(filename, safe='')), types)
+	return ("- [{}](./elements/**PLACEHODER**/?doc={})".format(title, quote(filename, safe='')), types)
 
 def generateFile (readme, content):
 	if exists(readme):
