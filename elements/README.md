@@ -9,143 +9,143 @@
 
 ### A
 
-- [Accessibility of knowledge](./elements/principles/?doc=Accessibility%20of%20knowledge)
-- [Agility](./elements/principles/?doc=Agility)
-- [Always be proactive, never be afraid of failure](./elements/principles/?doc=Always%20be%20proactive%20never%20be%20afraid%20of%20failure)
+- [Accessibility of knowledge](/RnD-Archive/elements/principles/?doc=Accessibility%20of%20knowledge)
+- [Agility](/RnD-Archive/elements/principles/?doc=Agility)
+- [Always be proactive, never be afraid of failure](/RnD-Archive/elements/principles/?doc=Always%20be%20proactive%20never%20be%20afraid%20of%20failure)
 </div>
 
 <div>
 
 ### C
 
-- [Care about the people the same amount you care about the solutions](./elements/principles/?doc=Care%20about%20the%20people%20the%20same%20amount%20you%20care%20about%20the%20solutions)
-- [Co-creation](./elements/principles/?doc=Co-creation)
-- [Collaboration over competition](./elements/principles/?doc=Collaboration)
-- [Community immersion](./elements/principles/?doc=Immersion%20and%20engagemen)
-- [Cultural Adaptability](./elements/principles/?doc=Adaptability)
-- [Cultural Adaptability](./elements/principles/?doc=Cultural%20adaptability)
-- [Curiosity](./elements/principles/?doc=Curiosity)
+- [Care about the people the same amount you care about the solutions](/RnD-Archive/elements/principles/?doc=Care%20about%20the%20people%20the%20same%20amount%20you%20care%20about%20the%20solutions)
+- [Co-creation](/RnD-Archive/elements/principles/?doc=Co-creation)
+- [Collaboration over competition](/RnD-Archive/elements/principles/?doc=Collaboration)
+- [Community immersion](/RnD-Archive/elements/principles/?doc=Immersion%20and%20engagemen)
+- [Cultural Adaptability](/RnD-Archive/elements/principles/?doc=Adaptability)
+- [Cultural Adaptability](/RnD-Archive/elements/principles/?doc=Cultural%20adaptability)
+- [Curiosity](/RnD-Archive/elements/principles/?doc=Curiosity)
 </div>
 
 <div>
 
 ### D
 
-- [Data sharing](./elements/principles/?doc=Data%20sharing)
-- [Deep listening](./elements/principles/?doc=Deep%20listening%20to%20map%20beyond%20the%20intangible)
-- [Design the narrative flow and the stage to ensure the community and the desired outcome lead](./elements/principles/?doc=Design)
-- [Disruptiveness](./elements/principles/?doc=Disruptiveness)
-- [Do no Harm](./elements/principles/?doc=Do%20no%20harm)
+- [Data sharing](/RnD-Archive/elements/principles/?doc=Data%20sharing)
+- [Deep listening](/RnD-Archive/elements/principles/?doc=Deep%20listening%20to%20map%20beyond%20the%20intangible)
+- [Design the narrative flow and the stage to ensure the community and the desired outcome lead](/RnD-Archive/elements/principles/?doc=Design)
+- [Disruptiveness](/RnD-Archive/elements/principles/?doc=Disruptiveness)
+- [Do no Harm](/RnD-Archive/elements/principles/?doc=Do%20no%20harm)
 </div>
 
 <div>
 
 ### E
 
-- [Empathy](./elements/principles/?doc=Empathy)
-- [Even when the Lab is not there (or UNDP) things should continue - we have t…](./elements/principles/?doc=Even%20when%20the%20Lab%20is%20not%20there%20things%20should%20continue)
+- [Empathy](/RnD-Archive/elements/principles/?doc=Empathy)
+- [Even when the Lab is not there (or UNDP) things should continue - we have t…](/RnD-Archive/elements/principles/?doc=Even%20when%20the%20Lab%20is%20not%20there%20things%20should%20continue)
 </div>
 
 <div>
 
 ### F
 
-- [Flexibility and adaptability](./elements/principles/?doc=Flexibility%20and%20adaptability)
-- [Flexibility and adaptability](./elements/principles/?doc=Time%20management%20and%20adaptability)
-- [Frugality](./elements/principles/?doc=Frugality)
+- [Flexibility and adaptability](/RnD-Archive/elements/principles/?doc=Flexibility%20and%20adaptability)
+- [Flexibility and adaptability](/RnD-Archive/elements/principles/?doc=Time%20management%20and%20adaptability)
+- [Frugality](/RnD-Archive/elements/principles/?doc=Frugality)
 </div>
 
 <div>
 
 ### G
 
-- [Give the space to others to shine](./elements/principles/?doc=Give%20the%20space%20to%20others%20to%20shine)
+- [Give the space to others to shine](/RnD-Archive/elements/principles/?doc=Give%20the%20space%20to%20others%20to%20shine)
 </div>
 
 <div>
 
 ### H
 
-- [Human centering and adaptability: Less of me, more of them](./elements/principles/?doc=Human%20centering%20and%20adaptability)
+- [Human centering and adaptability: Less of me, more of them](/RnD-Archive/elements/principles/?doc=Human%20centering%20and%20adaptability)
 </div>
 
 <div>
 
 ### I
 
-- [Inclusivity and diversity](./elements/principles/?doc=Diversity)
-- [Inclusivity and diversity](./elements/principles/?doc=Inclusivity%20and%20diversity)
-- [Inclusivity](./elements/principles/?doc=Inclusivity)
-- [Ingenuity](./elements/principles/?doc=Ingenuity)
-- [It's not personal. Don't take no for an answer](./elements/principles/?doc=It%27s%20not%20personal)
+- [Inclusivity and diversity](/RnD-Archive/elements/principles/?doc=Diversity)
+- [Inclusivity and diversity](/RnD-Archive/elements/principles/?doc=Inclusivity%20and%20diversity)
+- [Inclusivity](/RnD-Archive/elements/principles/?doc=Inclusivity)
+- [Ingenuity](/RnD-Archive/elements/principles/?doc=Ingenuity)
+- [It's not personal. Don't take no for an answer](/RnD-Archive/elements/principles/?doc=It%27s%20not%20personal)
 </div>
 
 <div>
 
 ### N
 
-- [Never deplete social capital, always increase social capital.](./elements/principles/?doc=Always%20increase%20social%20capital)
+- [Never deplete social capital, always increase social capital.](/RnD-Archive/elements/principles/?doc=Always%20increase%20social%20capital)
 </div>
 
 <div>
 
 ### O
 
-- [Open data](./elements/principles/?doc=Be%20open%20by%20default)
+- [Open data](/RnD-Archive/elements/principles/?doc=Be%20open%20by%20default)
 </div>
 
 <div>
 
 ### P
 
-- [Partnership](./elements/principles/?doc=Patnership)
+- [Partnership](/RnD-Archive/elements/principles/?doc=Patnership)
 </div>
 
 <div>
 
 ### Q
 
-- [Quick and continuous learning](./elements/principles/?doc=Continuous%20learning)
-- [Quick and continuous learning](./elements/principles/?doc=Quick%20and%20continuous%20learning)
+- [Quick and continuous learning](/RnD-Archive/elements/principles/?doc=Continuous%20learning)
+- [Quick and continuous learning](/RnD-Archive/elements/principles/?doc=Quick%20and%20continuous%20learning)
 </div>
 
 <div>
 
 ### R
 
-- [Recognize and promote agency: Enable agency, the greatest choice for the greatest number.](./elements/principles/?doc=Recognize%20and%20promote%20agency)
-- [Recognize local expertise: Nothing for us, without us](./elements/principles/?doc=Recognize%20local%20expertise)
-- [Resilience](./elements/principles/?doc=Resilience)
+- [Recognize and promote agency: Enable agency, the greatest choice for the greatest number.](/RnD-Archive/elements/principles/?doc=Recognize%20and%20promote%20agency)
+- [Recognize local expertise: Nothing for us, without us](/RnD-Archive/elements/principles/?doc=Recognize%20local%20expertise)
+- [Resilience](/RnD-Archive/elements/principles/?doc=Resilience)
 </div>
 
 <div>
 
 ### S
 
-- [Self-awareness](./elements/principles/?doc=Self-awareness)
+- [Self-awareness](/RnD-Archive/elements/principles/?doc=Self-awareness)
 </div>
 
 <div>
 
 ### T
 
-- [Transparency and Honesty: Be open, transparent, honest.](./elements/principles/?doc=Prioritize%20transparency%20in%20methods%20and%20openness%20in%20sharing%20data%20and%20results)
-- [Transparency and Honesty: Be open, transparent, honest.](./elements/principles/?doc=Transparency%20and%20Honesty)
-- [Trust and Authenticity: Build trust as a must](./elements/principles/?doc=Trust)
+- [Transparency and Honesty: Be open, transparent, honest.](/RnD-Archive/elements/principles/?doc=Prioritize%20transparency%20in%20methods%20and%20openness%20in%20sharing%20data%20and%20results)
+- [Transparency and Honesty: Be open, transparent, honest.](/RnD-Archive/elements/principles/?doc=Transparency%20and%20Honesty)
+- [Trust and Authenticity: Build trust as a must](/RnD-Archive/elements/principles/?doc=Trust)
 </div>
 
 <div>
 
 ### V
 
-- [Visibility and communication](./elements/principles/?doc=Communication%20skills)
+- [Visibility and communication](/RnD-Archive/elements/principles/?doc=Communication%20skills)
 </div>
 
 <div>
 
 ### W
 
-- [Well being](./elements/principles/?doc=Well%20being)
+- [Well being](/RnD-Archive/elements/principles/?doc=Well%20being)
 </div>
 </div>
 
@@ -156,178 +156,178 @@
 
 ### A
 
-- [Analytical skills](./elements/skills/?doc=Analytical%20skills)
+- [Analytical skills](/RnD-Archive/elements/skills/?doc=Analytical%20skills)
 </div>
 
 <div>
 
 ### B
 
-- [Business acumen](./elements/skills/?doc=Business%20development%20skill)
+- [Business acumen](/RnD-Archive/elements/skills/?doc=Business%20development%20skill)
 </div>
 
 <div>
 
 ### C
 
-- [Collecting and analyzing data maps](./elements/skills/?doc=Data%20collection)
-- [Collective Intelligence ](./elements/skills/?doc=Collective%20intelligence%20for%20the%20analysis%20of%20emerging%20signals)
-- [Collective intelligence, video, visibility was key success, "press advisor"](./elements/skills/?doc=Videos)
-- [Common grounding](./elements/skills/?doc=Common%20grounding)
-- [Communication, delegation, emotional development](./elements/skills/?doc=Delegation)
-- [Communication](./elements/skills/?doc=Focusing%20on%20communication%20strategy)
-- [Community building](./elements/skills/?doc=Community%20building)
-- [Community immersion](./elements/skills/?doc=Community%20immersion)
-- [Conceptualizing skill](./elements/skills/?doc=Conceptualizing%20skill)
-- [Convening actors](./elements/skills/?doc=Convening%20actors)
-- [Creativity, organisation, open mind](./elements/skills/?doc=Creativity)
-- [Critical thinking](./elements/skills/?doc=Critical%20thinking)
-- [Cultural Adaptability](./elements/skills/?doc=Adaptability)
-- [Cultural Adaptability](./elements/skills/?doc=Cultural%20adaptability)
-- [Curiosity](./elements/skills/?doc=Curiosity)
+- [Collecting and analyzing data maps](/RnD-Archive/elements/skills/?doc=Data%20collection)
+- [Collective Intelligence ](/RnD-Archive/elements/skills/?doc=Collective%20intelligence%20for%20the%20analysis%20of%20emerging%20signals)
+- [Collective intelligence, video, visibility was key success, "press advisor"](/RnD-Archive/elements/skills/?doc=Videos)
+- [Common grounding](/RnD-Archive/elements/skills/?doc=Common%20grounding)
+- [Communication, delegation, emotional development](/RnD-Archive/elements/skills/?doc=Delegation)
+- [Communication](/RnD-Archive/elements/skills/?doc=Focusing%20on%20communication%20strategy)
+- [Community building](/RnD-Archive/elements/skills/?doc=Community%20building)
+- [Community immersion](/RnD-Archive/elements/skills/?doc=Community%20immersion)
+- [Conceptualizing skill](/RnD-Archive/elements/skills/?doc=Conceptualizing%20skill)
+- [Convening actors](/RnD-Archive/elements/skills/?doc=Convening%20actors)
+- [Creativity, organisation, open mind](/RnD-Archive/elements/skills/?doc=Creativity)
+- [Critical thinking](/RnD-Archive/elements/skills/?doc=Critical%20thinking)
+- [Cultural Adaptability](/RnD-Archive/elements/skills/?doc=Adaptability)
+- [Cultural Adaptability](/RnD-Archive/elements/skills/?doc=Cultural%20adaptability)
+- [Curiosity](/RnD-Archive/elements/skills/?doc=Curiosity)
 </div>
 
 <div>
 
 ### D
 
-- [Data management](./elements/skills/?doc=Data%20management)
-- [Defining problems](./elements/skills/?doc=Defining%20problems)
-- [Design the narrative flow and the stage to ensure the community and the desired outcome lead](./elements/skills/?doc=Design)
-- [Desk review analysis](./elements/skills/?doc=Desk%20review%20analysis)
-- [Desk review analysis](./elements/skills/?doc=Literature%20review%20and%20desk%20research)
-- [Digital Skills](./elements/skills/?doc=Digital%20skills)
+- [Data management](/RnD-Archive/elements/skills/?doc=Data%20management)
+- [Defining problems](/RnD-Archive/elements/skills/?doc=Defining%20problems)
+- [Design the narrative flow and the stage to ensure the community and the desired outcome lead](/RnD-Archive/elements/skills/?doc=Design)
+- [Desk review analysis](/RnD-Archive/elements/skills/?doc=Desk%20review%20analysis)
+- [Desk review analysis](/RnD-Archive/elements/skills/?doc=Literature%20review%20and%20desk%20research)
+- [Digital Skills](/RnD-Archive/elements/skills/?doc=Digital%20skills)
 </div>
 
 <div>
 
 ### E
 
-- [Empathy](./elements/skills/?doc=Empathy)
-- [Ethnographic design thinking](./elements/skills/?doc=Design%20thinking)
+- [Empathy](/RnD-Archive/elements/skills/?doc=Empathy)
+- [Ethnographic design thinking](/RnD-Archive/elements/skills/?doc=Design%20thinking)
 </div>
 
 <div>
 
 ### F
 
-- [Facilitation](./elements/skills/?doc=Facilitation%20skills)
-- [Flexibility and adaptability](./elements/skills/?doc=Time%20management%20and%20adaptability)
-- [Foresight](./elements/skills/?doc=Foresight)
-- [Futures and Foresight](./elements/skills/?doc=Futures%20and%20Foresight)
+- [Facilitation](/RnD-Archive/elements/skills/?doc=Facilitation%20skills)
+- [Flexibility and adaptability](/RnD-Archive/elements/skills/?doc=Time%20management%20and%20adaptability)
+- [Foresight](/RnD-Archive/elements/skills/?doc=Foresight)
+- [Futures and Foresight](/RnD-Archive/elements/skills/?doc=Futures%20and%20Foresight)
 </div>
 
 <div>
 
 ### H
 
-- [Horizon scanning](./elements/skills/?doc=Horizon%20scanning)
+- [Horizon scanning](/RnD-Archive/elements/skills/?doc=Horizon%20scanning)
 </div>
 
 <div>
 
 ### I
 
-- [Imagination](./elements/skills/?doc=Imagination)
-- [Inclusivity and diversity](./elements/skills/?doc=Diversity)
-- [Inclusivity and diversity](./elements/skills/?doc=Inclusivity%20and%20diversity)
-- [Inclusivity](./elements/skills/?doc=Inclusivity)
-- [Information management](./elements/skills/?doc=Information%20management)
-- [Innovation management](./elements/skills/?doc=Innovation%20management)
+- [Imagination](/RnD-Archive/elements/skills/?doc=Imagination)
+- [Inclusivity and diversity](/RnD-Archive/elements/skills/?doc=Diversity)
+- [Inclusivity and diversity](/RnD-Archive/elements/skills/?doc=Inclusivity%20and%20diversity)
+- [Inclusivity](/RnD-Archive/elements/skills/?doc=Inclusivity)
+- [Information management](/RnD-Archive/elements/skills/?doc=Information%20management)
+- [Innovation management](/RnD-Archive/elements/skills/?doc=Innovation%20management)
 </div>
 
 <div>
 
 ### K
 
-- [Knowledge sharing](./elements/skills/?doc=Sharing%20knowledge)
+- [Knowledge sharing](/RnD-Archive/elements/skills/?doc=Sharing%20knowledge)
 </div>
 
 <div>
 
 ### L
 
-- [Leadership](./elements/skills/?doc=Leadership)
-- [Leadership](./elements/skills/?doc=Transformative%20leadership%20skills%20and%20decision%20making)
-- [Leveraging technologies](./elements/skills/?doc=Leveraging%20technologies)
+- [Leadership](/RnD-Archive/elements/skills/?doc=Leadership)
+- [Leadership](/RnD-Archive/elements/skills/?doc=Transformative%20leadership%20skills%20and%20decision%20making)
+- [Leveraging technologies](/RnD-Archive/elements/skills/?doc=Leveraging%20technologies)
 </div>
 
 <div>
 
 ### M
 
-- [Making insights actionable](./elements/skills/?doc=Making%20insights%20actionable)
-- [Matchmaking](./elements/skills/?doc=Mathcmaking)
-- [Mediation](./elements/skills/?doc=Mediation)
+- [Making insights actionable](/RnD-Archive/elements/skills/?doc=Making%20insights%20actionable)
+- [Matchmaking](/RnD-Archive/elements/skills/?doc=Mathcmaking)
+- [Mediation](/RnD-Archive/elements/skills/?doc=Mediation)
 </div>
 
 <div>
 
 ### N
 
-- [Negotiation](./elements/skills/?doc=Negotiation)
+- [Negotiation](/RnD-Archive/elements/skills/?doc=Negotiation)
 </div>
 
 <div>
 
 ### O
 
-- [Opportunity framing](./elements/skills/?doc=Opportunity%20framing)
+- [Opportunity framing](/RnD-Archive/elements/skills/?doc=Opportunity%20framing)
 </div>
 
 <div>
 
 ### P
 
-- [Partnership Coordination](./elements/skills/?doc=Partnerhsip%20coordination)
-- [Partnership](./elements/skills/?doc=Patnership)
-- [People management](./elements/skills/?doc=People%20management)
-- [Pitch for impact](./elements/skills/?doc=Pitching%20skill)
-- [Prototyping](./elements/skills/?doc=Prototyping)
+- [Partnership Coordination](/RnD-Archive/elements/skills/?doc=Partnerhsip%20coordination)
+- [Partnership](/RnD-Archive/elements/skills/?doc=Patnership)
+- [People management](/RnD-Archive/elements/skills/?doc=People%20management)
+- [Pitch for impact](/RnD-Archive/elements/skills/?doc=Pitching%20skill)
+- [Prototyping](/RnD-Archive/elements/skills/?doc=Prototyping)
 </div>
 
 <div>
 
 ### Q
 
-- [Quick and continuous learning](./elements/skills/?doc=Continuous%20learning)
-- [Quick and continuous learning](./elements/skills/?doc=Quick%20and%20continuous%20learning)
+- [Quick and continuous learning](/RnD-Archive/elements/skills/?doc=Continuous%20learning)
+- [Quick and continuous learning](/RnD-Archive/elements/skills/?doc=Quick%20and%20continuous%20learning)
 </div>
 
 <div>
 
 ### R
 
-- [Reaching unreachable communities-unusual beneficiaries](./elements/skills/?doc=Reaching%20unreachable%20communities)
+- [Reaching unreachable communities-unusual beneficiaries](/RnD-Archive/elements/skills/?doc=Reaching%20unreachable%20communities)
 </div>
 
 <div>
 
 ### S
 
-- [Signals Mapping](./elements/skills/?doc=Signals%20mapping)
-- [Solving Operational Logistic](./elements/skills/?doc=Problem%20solving%20skill)
-- [Storytelling](./elements/skills/?doc=Storytelling%20for%20social%20engineering)
-- [Systems Mapping](./elements/skills/?doc=Systems%20analysis)
-- [Systems Mapping](./elements/skills/?doc=Systems%20mapping)
-- [Systems leadership](./elements/skills/?doc=Systems%20leadership)
+- [Signals Mapping](/RnD-Archive/elements/skills/?doc=Signals%20mapping)
+- [Solving Operational Logistic](/RnD-Archive/elements/skills/?doc=Problem%20solving%20skill)
+- [Storytelling](/RnD-Archive/elements/skills/?doc=Storytelling%20for%20social%20engineering)
+- [Systems Mapping](/RnD-Archive/elements/skills/?doc=Systems%20analysis)
+- [Systems Mapping](/RnD-Archive/elements/skills/?doc=Systems%20mapping)
+- [Systems leadership](/RnD-Archive/elements/skills/?doc=Systems%20leadership)
 </div>
 
 <div>
 
 ### V
 
-- [Visibility and communication](./elements/skills/?doc=Communication%20skills)
-- [Volunteering and taking initiatives](./elements/skills/?doc=Volunteering%20and%20taking%20initiatives)
+- [Visibility and communication](/RnD-Archive/elements/skills/?doc=Communication%20skills)
+- [Volunteering and taking initiatives](/RnD-Archive/elements/skills/?doc=Volunteering%20and%20taking%20initiatives)
 </div>
 
 <div>
 
 ### W
 
-- [Working with resistance](./elements/skills/?doc=Overcoming%20resistance)
-- [Working with resistance](./elements/skills/?doc=Working%20with%20resistance)
-- [Writing](./elements/skills/?doc=Writing)
+- [Working with resistance](/RnD-Archive/elements/skills/?doc=Overcoming%20resistance)
+- [Working with resistance](/RnD-Archive/elements/skills/?doc=Working%20with%20resistance)
+- [Writing](/RnD-Archive/elements/skills/?doc=Writing)
 </div>
 </div>
 
@@ -338,169 +338,169 @@
 
 ### A
 
-- [Asset mapping - nothing for us, without us](./elements/tactics/?doc=Asset%20mapping)
+- [Asset mapping - nothing for us, without us](/RnD-Archive/elements/tactics/?doc=Asset%20mapping)
 </div>
 
 <div>
 
 ### B
 
-- [Based on petition, get the message to the right person](./elements/tactics/?doc=Based%20on%20petition%20get%20the%20message%20to%20the%20right%20person)
-- [Beyond borders](./elements/tactics/?doc=Beyond%20borders)
-- [Build an ecosystem around your intent](./elements/tactics/?doc=Working%20with%20ecosystems)
-- [Build momentum](./elements/tactics/?doc=Using%20high%20level%20meetings%20to%20build%20momentum)
-- [Building bonds inside team](./elements/tactics/?doc=Building%20bonds%20inside%20the%20team)
-- [Building bridges](./elements/tactics/?doc=Building%20bridges)
+- [Based on petition, get the message to the right person](/RnD-Archive/elements/tactics/?doc=Based%20on%20petition%20get%20the%20message%20to%20the%20right%20person)
+- [Beyond borders](/RnD-Archive/elements/tactics/?doc=Beyond%20borders)
+- [Build an ecosystem around your intent](/RnD-Archive/elements/tactics/?doc=Working%20with%20ecosystems)
+- [Build momentum](/RnD-Archive/elements/tactics/?doc=Using%20high%20level%20meetings%20to%20build%20momentum)
+- [Building bonds inside team](/RnD-Archive/elements/tactics/?doc=Building%20bonds%20inside%20the%20team)
+- [Building bridges](/RnD-Archive/elements/tactics/?doc=Building%20bridges)
 </div>
 
 <div>
 
 ### C
 
-- [Co-creation](./elements/tactics/?doc=Co-creation)
-- [Co-design](./elements/tactics/?doc=Co-design)
-- [Collecting and analyzing data maps](./elements/tactics/?doc=Data%20collection)
-- [Communicate through human stories](./elements/tactics/?doc=Communicate%20through%20human%20stories)
-- [Communication](./elements/tactics/?doc=Focusing%20on%20communication%20strategy)
-- [Community building](./elements/tactics/?doc=Community%20building)
-- [Community immersion](./elements/tactics/?doc=Community%20immersion)
-- [Community immersion](./elements/tactics/?doc=Immersion%20and%20engagemen)
-- [Community immersion](./elements/tactics/?doc=Undertanding%20the%20community)
-- [Conceptual branding](./elements/tactics/?doc=Conceptual%20branding)
-- [Convening actors](./elements/tactics/?doc=Convening%20actors)
-- [Create evidence](./elements/tactics/?doc=Create%20evidence)
-- [Creating space for emerging themes](./elements/tactics/?doc=Creating%20space%20for%20emerging%20themes)
+- [Co-creation](/RnD-Archive/elements/tactics/?doc=Co-creation)
+- [Co-design](/RnD-Archive/elements/tactics/?doc=Co-design)
+- [Collecting and analyzing data maps](/RnD-Archive/elements/tactics/?doc=Data%20collection)
+- [Communicate through human stories](/RnD-Archive/elements/tactics/?doc=Communicate%20through%20human%20stories)
+- [Communication](/RnD-Archive/elements/tactics/?doc=Focusing%20on%20communication%20strategy)
+- [Community building](/RnD-Archive/elements/tactics/?doc=Community%20building)
+- [Community immersion](/RnD-Archive/elements/tactics/?doc=Community%20immersion)
+- [Community immersion](/RnD-Archive/elements/tactics/?doc=Immersion%20and%20engagemen)
+- [Community immersion](/RnD-Archive/elements/tactics/?doc=Undertanding%20the%20community)
+- [Conceptual branding](/RnD-Archive/elements/tactics/?doc=Conceptual%20branding)
+- [Convening actors](/RnD-Archive/elements/tactics/?doc=Convening%20actors)
+- [Create evidence](/RnD-Archive/elements/tactics/?doc=Create%20evidence)
+- [Creating space for emerging themes](/RnD-Archive/elements/tactics/?doc=Creating%20space%20for%20emerging%20themes)
 </div>
 
 <div>
 
 ### D
 
-- [De-risking the intervention by promoting an incremental approach through R&amp;D](./elements/tactics/?doc=De-risking%20the%20intervention%20by%20promoting%20an%20incremental%20approach%20trough%20R%26D)
-- [Deep listening](./elements/tactics/?doc=Deep%20listening%20to%20map%20beyond%20the%20intangible)
-- [Design the narrative flow and the stage to ensure the community and the desired outcome lead](./elements/tactics/?doc=Design)
-- [Designing the pipelines](./elements/tactics/?doc=Desiging%20the%20pipelines)
-- [Diffusing intelligence insight](./elements/tactics/?doc=Diffusion%20of%20intelligence%20insight)
-- [Digitalize data collected  in the field](./elements/tactics/?doc=Digitise%20data%20collected%20in%20the%20field)
+- [De-risking the intervention by promoting an incremental approach through R&amp;D](/RnD-Archive/elements/tactics/?doc=De-risking%20the%20intervention%20by%20promoting%20an%20incremental%20approach%20trough%20R%26D)
+- [Deep listening](/RnD-Archive/elements/tactics/?doc=Deep%20listening%20to%20map%20beyond%20the%20intangible)
+- [Design the narrative flow and the stage to ensure the community and the desired outcome lead](/RnD-Archive/elements/tactics/?doc=Design)
+- [Designing the pipelines](/RnD-Archive/elements/tactics/?doc=Desiging%20the%20pipelines)
+- [Diffusing intelligence insight](/RnD-Archive/elements/tactics/?doc=Diffusion%20of%20intelligence%20insight)
+- [Digitalize data collected  in the field](/RnD-Archive/elements/tactics/?doc=Digitise%20data%20collected%20in%20the%20field)
 </div>
 
 <div>
 
 ### E
 
-- [Embed innovation and systems thinking in "governing" documents, development strategies, etc.](./elements/tactics/?doc=Systems%20thinking)
-- [Expand through other voices](./elements/tactics/?doc=Expand%20through%20other%20voices)
+- [Embed innovation and systems thinking in "governing" documents, development strategies, etc.](/RnD-Archive/elements/tactics/?doc=Systems%20thinking)
+- [Expand through other voices](/RnD-Archive/elements/tactics/?doc=Expand%20through%20other%20voices)
 </div>
 
 <div>
 
 ### F
 
-- [Finding New Alternatives](./elements/tactics/?doc=Finding%20new%20alternatives)
-- [Finding allies](./elements/tactics/?doc=Allies%20and%20champions)
-- [Focusing on the value added](./elements/tactics/?doc=Focusing%20on%20the%20value%20added)
+- [Finding New Alternatives](/RnD-Archive/elements/tactics/?doc=Finding%20new%20alternatives)
+- [Finding allies](/RnD-Archive/elements/tactics/?doc=Allies%20and%20champions)
+- [Focusing on the value added](/RnD-Archive/elements/tactics/?doc=Focusing%20on%20the%20value%20added)
 </div>
 
 <div>
 
 ### G
 
-- [Gaining Leverage and Traction for solutions](./elements/tactics/?doc=Gaining%20leverage%20and%20traction%20for%20solutions)
-- [Getting in there (positioning the lab in UNDP prodoc)](./elements/tactics/?doc=Getting%20in%20there)
+- [Gaining Leverage and Traction for solutions](/RnD-Archive/elements/tactics/?doc=Gaining%20leverage%20and%20traction%20for%20solutions)
+- [Getting in there (positioning the lab in UNDP prodoc)](/RnD-Archive/elements/tactics/?doc=Getting%20in%20there)
 </div>
 
 <div>
 
 ### H
 
-- [Have good references for your technical work](./elements/tactics/?doc=Have%20good%20references%20for%20your%20technical%20work)
-- [Human centered design to engage people](./elements/tactics/?doc=Human%20centered%20design%20to%20engage%20people)
-- [Human-Centered design](./elements/tactics/?doc=Human%20centered%20design)
-- [Hustle your gig](./elements/tactics/?doc=Hustle%20your%20gig)
+- [Have good references for your technical work](/RnD-Archive/elements/tactics/?doc=Have%20good%20references%20for%20your%20technical%20work)
+- [Human centered design to engage people](/RnD-Archive/elements/tactics/?doc=Human%20centered%20design%20to%20engage%20people)
+- [Human-Centered design](/RnD-Archive/elements/tactics/?doc=Human%20centered%20design)
+- [Hustle your gig](/RnD-Archive/elements/tactics/?doc=Hustle%20your%20gig)
 </div>
 
 <div>
 
 ### I
 
-- [Innovation challenge](./elements/tactics/?doc=Innovation%20challenge)
+- [Innovation challenge](/RnD-Archive/elements/tactics/?doc=Innovation%20challenge)
 </div>
 
 <div>
 
 ### K
 
-- [Know the culture](./elements/tactics/?doc=Know%20the%20culture)
-- [Knowledge sharing](./elements/tactics/?doc=Sharing%20knowledge)
+- [Know the culture](/RnD-Archive/elements/tactics/?doc=Know%20the%20culture)
+- [Knowledge sharing](/RnD-Archive/elements/tactics/?doc=Sharing%20knowledge)
 </div>
 
 <div>
 
 ### M
 
-- [Make them realize](./elements/tactics/?doc=Make%20them%20realize)
-- [Manage expectations](./elements/tactics/?doc=Manage%20expectations)
+- [Make them realize](/RnD-Archive/elements/tactics/?doc=Make%20them%20realize)
+- [Manage expectations](/RnD-Archive/elements/tactics/?doc=Manage%20expectations)
 </div>
 
 <div>
 
 ### N
 
-- [Negotiation](./elements/tactics/?doc=Negotiation)
+- [Negotiation](/RnD-Archive/elements/tactics/?doc=Negotiation)
 </div>
 
 <div>
 
 ### O
 
-- [One foot on the door](./elements/tactics/?doc=One%20foot%20on%20the%20door)
-- [Open data](./elements/tactics/?doc=Be%20open%20by%20default)
-- [Open data](./elements/tactics/?doc=Open%20data)
+- [One foot on the door](/RnD-Archive/elements/tactics/?doc=One%20foot%20on%20the%20door)
+- [Open data](/RnD-Archive/elements/tactics/?doc=Be%20open%20by%20default)
+- [Open data](/RnD-Archive/elements/tactics/?doc=Open%20data)
 </div>
 
 <div>
 
 ### P
 
-- [Persuasion ](./elements/tactics/?doc=Persuasion)
-- [Pitch for impact](./elements/tactics/?doc=Pitch%20for%20impact)
-- [Pitch for impact](./elements/tactics/?doc=Pitching%20skill)
-- [Play don't preach](./elements/tactics/?doc=Play%20do%20not%20preach)
-- [Portfolio approach](./elements/tactics/?doc=Portfolio%20approach)
-- [Proof of concept](./elements/tactics/?doc=Proof%20of%20concept)
+- [Persuasion ](/RnD-Archive/elements/tactics/?doc=Persuasion)
+- [Pitch for impact](/RnD-Archive/elements/tactics/?doc=Pitch%20for%20impact)
+- [Pitch for impact](/RnD-Archive/elements/tactics/?doc=Pitching%20skill)
+- [Play don't preach](/RnD-Archive/elements/tactics/?doc=Play%20do%20not%20preach)
+- [Portfolio approach](/RnD-Archive/elements/tactics/?doc=Portfolio%20approach)
+- [Proof of concept](/RnD-Archive/elements/tactics/?doc=Proof%20of%20concept)
 </div>
 
 <div>
 
 ### S
 
-- [Sell De-risk](./elements/tactics/?doc=Sell%20De-risk)
-- [Setting up the first block of the pyramid](./elements/tactics/?doc=Setting%20up%20the%20first%20block%20of%20the%20pyramid)
-- [Share your value upfront, not budget](./elements/tactics/?doc=Share%20your%20value%20upfront)
-- [Solving Operational Logistic](./elements/tactics/?doc=Problem%20solving%20skill)
-- [Solving Operational Logistic](./elements/tactics/?doc=Solving%20operational%20logistics)
+- [Sell De-risk](/RnD-Archive/elements/tactics/?doc=Sell%20De-risk)
+- [Setting up the first block of the pyramid](/RnD-Archive/elements/tactics/?doc=Setting%20up%20the%20first%20block%20of%20the%20pyramid)
+- [Share your value upfront, not budget](/RnD-Archive/elements/tactics/?doc=Share%20your%20value%20upfront)
+- [Solving Operational Logistic](/RnD-Archive/elements/tactics/?doc=Problem%20solving%20skill)
+- [Solving Operational Logistic](/RnD-Archive/elements/tactics/?doc=Solving%20operational%20logistics)
 </div>
 
 <div>
 
 ### V
 
-- [Visibility and communication](./elements/tactics/?doc=Communication%20skills)
+- [Visibility and communication](/RnD-Archive/elements/tactics/?doc=Communication%20skills)
 </div>
 
 <div>
 
 ### W
 
-- [Working with resistance](./elements/tactics/?doc=Overcoming%20resistance)
-- [Working with resistance](./elements/tactics/?doc=Working%20with%20resistance)
+- [Working with resistance](/RnD-Archive/elements/tactics/?doc=Overcoming%20resistance)
+- [Working with resistance](/RnD-Archive/elements/tactics/?doc=Working%20with%20resistance)
 </div>
 
 <div>
 
 ### F
 
-- [focus to creating a precedent](./elements/tactics/?doc=Focus%20to%20creating%20a%20precedent)
+- [focus to creating a precedent](/RnD-Archive/elements/tactics/?doc=Focus%20to%20creating%20a%20precedent)
 </div>
 </div>
 
@@ -511,229 +511,229 @@
 
 ### 8
 
-- [8 Elements (or Steps) for Policy Innovation](./elements/tools/?doc=8%20Elements%20%28or%20Steps%29%20for%20Policy%20Innovation)
+- [8 Elements (or Steps) for Policy Innovation](/RnD-Archive/elements/tools/?doc=8%20Elements%20%28or%20Steps%29%20for%20Policy%20Innovation)
 </div>
 
 <div>
 
 ### A
 
-- [A_B Testing](./elements/tools/?doc=A_B%20testing)
-- [Active listening](./elements/tools/?doc=Active%20listening)
+- [A_B Testing](/RnD-Archive/elements/tools/?doc=A_B%20testing)
+- [Active listening](/RnD-Archive/elements/tools/?doc=Active%20listening)
 </div>
 
 <div>
 
 ### B
 
-- [Build an ecosystem around your intent](./elements/tools/?doc=Working%20with%20ecosystems)
+- [Build an ecosystem around your intent](/RnD-Archive/elements/tools/?doc=Working%20with%20ecosystems)
 </div>
 
 <div>
 
 ### C
 
-- [Citizen Science and gamification using digital platform to crowdsource solutions](./elements/tools/?doc=Citizen%20science%20and%20gamification%20using%20digital%20platform%20to%20crowdsource%20solutions)
-- [Citizen Science and gamification using digital platform to crowdsource solutions](./elements/tools/?doc=Citizen%20science)
-- [Co-creation](./elements/tools/?doc=Co-creation)
-- [Collecting and analyzing data maps](./elements/tools/?doc=Collecting%20and%20analyzing%20data%20maps)
-- [Collecting and analyzing data maps](./elements/tools/?doc=Data%20collection)
-- [Collective Intelligence ](./elements/tools/?doc=Collective%20intelligence%20for%20the%20analysis%20of%20emerging%20signals)
-- [Community building](./elements/tools/?doc=Community%20building)
-- [Community immersion](./elements/tools/?doc=Community%20immersion)
-- [Create evidence](./elements/tools/?doc=Create%20evidence)
-- [Crowd-mapping](./elements/tools/?doc=Crowd-mapping)
+- [Citizen Science and gamification using digital platform to crowdsource solutions](/RnD-Archive/elements/tools/?doc=Citizen%20science%20and%20gamification%20using%20digital%20platform%20to%20crowdsource%20solutions)
+- [Citizen Science and gamification using digital platform to crowdsource solutions](/RnD-Archive/elements/tools/?doc=Citizen%20science)
+- [Co-creation](/RnD-Archive/elements/tools/?doc=Co-creation)
+- [Collecting and analyzing data maps](/RnD-Archive/elements/tools/?doc=Collecting%20and%20analyzing%20data%20maps)
+- [Collecting and analyzing data maps](/RnD-Archive/elements/tools/?doc=Data%20collection)
+- [Collective Intelligence ](/RnD-Archive/elements/tools/?doc=Collective%20intelligence%20for%20the%20analysis%20of%20emerging%20signals)
+- [Community building](/RnD-Archive/elements/tools/?doc=Community%20building)
+- [Community immersion](/RnD-Archive/elements/tools/?doc=Community%20immersion)
+- [Create evidence](/RnD-Archive/elements/tools/?doc=Create%20evidence)
+- [Crowd-mapping](/RnD-Archive/elements/tools/?doc=Crowd-mapping)
 </div>
 
 <div>
 
 ### D
 
-- [Data Power Positive Deviance (for sustainable livestock farming)](./elements/tools/?doc=Data%20Powered%20Positive%20Deviance)
-- [Deep listening](./elements/tools/?doc=Deep%20listening%20to%20map%20beyond%20the%20intangible)
-- [Design Lens: Biomimicry meets Design thinking](./elements/tools/?doc=Design%20lens)
-- [Design the narrative flow and the stage to ensure the community and the desired outcome lead](./elements/tools/?doc=Design)
-- [Desk review analysis](./elements/tools/?doc=Desk%20review%20analysis)
-- [Desk review analysis](./elements/tools/?doc=Literature%20review%20and%20desk%20research)
+- [Data Power Positive Deviance (for sustainable livestock farming)](/RnD-Archive/elements/tools/?doc=Data%20Powered%20Positive%20Deviance)
+- [Deep listening](/RnD-Archive/elements/tools/?doc=Deep%20listening%20to%20map%20beyond%20the%20intangible)
+- [Design Lens: Biomimicry meets Design thinking](/RnD-Archive/elements/tools/?doc=Design%20lens)
+- [Design the narrative flow and the stage to ensure the community and the desired outcome lead](/RnD-Archive/elements/tools/?doc=Design)
+- [Desk review analysis](/RnD-Archive/elements/tools/?doc=Desk%20review%20analysis)
+- [Desk review analysis](/RnD-Archive/elements/tools/?doc=Literature%20review%20and%20desk%20research)
 </div>
 
 <div>
 
 ### E
 
-- [EGAP Pre-Analysis Plans](./elements/tools/?doc=EGAP%20Pre-analysis%20plans)
-- [Empathy](./elements/tools/?doc=Empathy)
-- [Ethnographic design thinking](./elements/tools/?doc=Design%20thinking)
-- [Ethnographic design thinking](./elements/tools/?doc=Ethnographic%20design%20thinking)
-- [Ethnography](./elements/tools/?doc=Ethnography)
+- [EGAP Pre-Analysis Plans](/RnD-Archive/elements/tools/?doc=EGAP%20Pre-analysis%20plans)
+- [Empathy](/RnD-Archive/elements/tools/?doc=Empathy)
+- [Ethnographic design thinking](/RnD-Archive/elements/tools/?doc=Design%20thinking)
+- [Ethnographic design thinking](/RnD-Archive/elements/tools/?doc=Ethnographic%20design%20thinking)
+- [Ethnography](/RnD-Archive/elements/tools/?doc=Ethnography)
 </div>
 
 <div>
 
 ### F
 
-- [Facilitation](./elements/tools/?doc=Facilitation%20skills)
-- [Flourish - data vizualization tool](./elements/tools/?doc=Flourish%20data%20visualization%20tool)
-- [Focusing on the value added](./elements/tools/?doc=Focusing%20on%20the%20value%20added)
-- [Foresight](./elements/tools/?doc=Foresight)
-- [Future thinking](./elements/tools/?doc=Future%20thinking%20for%20human%20mobility)
-- [Futures and Foresight](./elements/tools/?doc=Futures%20and%20Foresight)
+- [Facilitation](/RnD-Archive/elements/tools/?doc=Facilitation%20skills)
+- [Flourish - data vizualization tool](/RnD-Archive/elements/tools/?doc=Flourish%20data%20visualization%20tool)
+- [Focusing on the value added](/RnD-Archive/elements/tools/?doc=Focusing%20on%20the%20value%20added)
+- [Foresight](/RnD-Archive/elements/tools/?doc=Foresight)
+- [Future thinking](/RnD-Archive/elements/tools/?doc=Future%20thinking%20for%20human%20mobility)
+- [Futures and Foresight](/RnD-Archive/elements/tools/?doc=Futures%20and%20Foresight)
 </div>
 
 <div>
 
 ### G
 
-- [GIS system, qualitative interviews,system mapping, behavorial approach, ethnography, surveys, util…](./elements/tools/?doc=GIS%20systems)
-- [Gamification for financial education ](./elements/tools/?doc=Gamification)
+- [GIS system, qualitative interviews,system mapping, behavorial approach, ethnography, surveys, util…](/RnD-Archive/elements/tools/?doc=GIS%20systems)
+- [Gamification for financial education ](/RnD-Archive/elements/tools/?doc=Gamification)
 </div>
 
 <div>
 
 ### H
 
-- [Hackathon](./elements/tools/?doc=Hacktahon)
-- [Heuristic and Scenario-Based Evaluation](./elements/tools/?doc=Scenario%20building)
-- [Horizon scanning](./elements/tools/?doc=Horizon%20scanning)
-- [How Might We (HMW)](./elements/tools/?doc=How%20might%20we)
-- [Human centered design to engage people](./elements/tools/?doc=Human%20centered%20design%20to%20engage%20people)
-- [Human-Centered design](./elements/tools/?doc=Human%20centered%20design)
+- [Hackathon](/RnD-Archive/elements/tools/?doc=Hacktahon)
+- [Heuristic and Scenario-Based Evaluation](/RnD-Archive/elements/tools/?doc=Scenario%20building)
+- [Horizon scanning](/RnD-Archive/elements/tools/?doc=Horizon%20scanning)
+- [How Might We (HMW)](/RnD-Archive/elements/tools/?doc=How%20might%20we)
+- [Human centered design to engage people](/RnD-Archive/elements/tools/?doc=Human%20centered%20design%20to%20engage%20people)
+- [Human-Centered design](/RnD-Archive/elements/tools/?doc=Human%20centered%20design)
 </div>
 
 <div>
 
 ### I
 
-- [Innovation challenge](./elements/tools/?doc=Innovation%20challenge)
+- [Innovation challenge](/RnD-Archive/elements/tools/?doc=Innovation%20challenge)
 </div>
 
 <div>
 
 ### J
 
-- [Jane Walks](./elements/tools/?doc=Jane%20walks)
+- [Jane Walks](/RnD-Archive/elements/tools/?doc=Jane%20walks)
 </div>
 
 <div>
 
 ### K
 
-- [Kahoot](./elements/tools/?doc=Kahoot)
-- [Key Informant Interviews](./elements/tools/?doc=Conducting%20interviews)
-- [Key Informant Interviews](./elements/tools/?doc=Key%20informant%20interviews)
-- [Knowledge sharing](./elements/tools/?doc=Sharing%20knowledge)
+- [Kahoot](/RnD-Archive/elements/tools/?doc=Kahoot)
+- [Key Informant Interviews](/RnD-Archive/elements/tools/?doc=Conducting%20interviews)
+- [Key Informant Interviews](/RnD-Archive/elements/tools/?doc=Key%20informant%20interviews)
+- [Knowledge sharing](/RnD-Archive/elements/tools/?doc=Sharing%20knowledge)
 </div>
 
 <div>
 
 ### L
 
-- [Learning Questions Heuristics](./elements/tools/?doc=Learning%20questions%20heuristics)
+- [Learning Questions Heuristics](/RnD-Archive/elements/tools/?doc=Learning%20questions%20heuristics)
 </div>
 
 <div>
 
 ### M
 
-- [Miro Board, a tool to help teams brainstorm, plan, and work together remotely](./elements/tools/?doc=Miro)
+- [Miro Board, a tool to help teams brainstorm, plan, and work together remotely](/RnD-Archive/elements/tools/?doc=Miro)
 </div>
 
 <div>
 
 ### N
 
-- [NESTA's Collective Intelligence Design Playbook](./elements/tools/?doc=NESTA%20Collective%20Intelligence%20Design%20Playbook)
-- [Narrative analysis ](./elements/tools/?doc=Narrative%20analysis)
-- [Nesta’s DIY Toolkit](./elements/tools/?doc=NESTA%20DIY%20Toolkit)
+- [NESTA's Collective Intelligence Design Playbook](/RnD-Archive/elements/tools/?doc=NESTA%20Collective%20Intelligence%20Design%20Playbook)
+- [Narrative analysis ](/RnD-Archive/elements/tools/?doc=Narrative%20analysis)
+- [Nesta’s DIY Toolkit](/RnD-Archive/elements/tools/?doc=NESTA%20DIY%20Toolkit)
 </div>
 
 <div>
 
 ### O
 
-- [ODK (Open Data Kit) is a powerful open-source software platform that enable…](./elements/tools/?doc=Open%20Data%20Kit)
-- [OSF Registry of Experiments](./elements/tools/?doc=OSF%20registry%20of%20epxeriments)
-- [Open data](./elements/tools/?doc=Open%20data)
-- [Openstreet Map](./elements/tools/?doc=Openstreet%20map)
+- [ODK (Open Data Kit) is a powerful open-source software platform that enable…](/RnD-Archive/elements/tools/?doc=Open%20Data%20Kit)
+- [OSF Registry of Experiments](/RnD-Archive/elements/tools/?doc=OSF%20registry%20of%20epxeriments)
+- [Open data](/RnD-Archive/elements/tools/?doc=Open%20data)
+- [Openstreet Map](/RnD-Archive/elements/tools/?doc=Openstreet%20map)
 </div>
 
 <div>
 
 ### P
 
-- [Participatory Action Research (PAR)](./elements/tools/?doc=Participatory%20action%20research)
-- [Participatory air quality monitoring ](./elements/tools/?doc=Participatory%20monitoring%20evaluation%20reflection%20%26%20learning)
-- [Partnership](./elements/tools/?doc=Patnership)
-- [Persona Empathy Map within Design Thinking Methodology](./elements/tools/?doc=Personas)
-- [Portfolio approach CPD](./elements/tools/?doc=Portfolio%20approach%20CPD)
-- [Portfolio approach](./elements/tools/?doc=Portfolio%20approach)
-- [Power Calculator](./elements/tools/?doc=Power%20calculator)
-- [Pre-post-testing](./elements/tools/?doc=Pre-post-testing)
-- [Prototyping](./elements/tools/?doc=Prototyping)
-- [Public narrative](./elements/tools/?doc=Public%20narrative)
+- [Participatory Action Research (PAR)](/RnD-Archive/elements/tools/?doc=Participatory%20action%20research)
+- [Participatory air quality monitoring ](/RnD-Archive/elements/tools/?doc=Participatory%20monitoring%20evaluation%20reflection%20%26%20learning)
+- [Partnership](/RnD-Archive/elements/tools/?doc=Patnership)
+- [Persona Empathy Map within Design Thinking Methodology](/RnD-Archive/elements/tools/?doc=Personas)
+- [Portfolio approach CPD](/RnD-Archive/elements/tools/?doc=Portfolio%20approach%20CPD)
+- [Portfolio approach](/RnD-Archive/elements/tools/?doc=Portfolio%20approach)
+- [Power Calculator](/RnD-Archive/elements/tools/?doc=Power%20calculator)
+- [Pre-post-testing](/RnD-Archive/elements/tools/?doc=Pre-post-testing)
+- [Prototyping](/RnD-Archive/elements/tools/?doc=Prototyping)
+- [Public narrative](/RnD-Archive/elements/tools/?doc=Public%20narrative)
 </div>
 
 <div>
 
 ### Q
 
-- [Quasi Experimental Design Processes](./elements/tools/?doc=Quasi%20expermental%20design%20processes)
+- [Quasi Experimental Design Processes](/RnD-Archive/elements/tools/?doc=Quasi%20expermental%20design%20processes)
 </div>
 
 <div>
 
 ### R
 
-- [RCTs](./elements/tools/?doc=RCTs)
-- [Research data drawing insights (Kobo toolbox)](./elements/tools/?doc=KoboToolbox%20for%20quality%20data%20collection%20and%20analysis%20in%20challenging%20settings)
+- [RCTs](/RnD-Archive/elements/tools/?doc=RCTs)
+- [Research data drawing insights (Kobo toolbox)](/RnD-Archive/elements/tools/?doc=KoboToolbox%20for%20quality%20data%20collection%20and%20analysis%20in%20challenging%20settings)
 </div>
 
 <div>
 
 ### S
 
-- [SERVICE BLUEPRINT](./elements/tools/?doc=Service%20blueprint)
-- [Signals Mapping](./elements/tools/?doc=Signals%20mapping)
-- [Simulation, role play, games](./elements/tools/?doc=Simulation%20role%20play%20and%20games)
-- [Status of relationships analysis](./elements/tools/?doc=Status%20of%20relationships%20analysis)
-- [Storyboarding](./elements/tools/?doc=Storyboarding)
-- [Storytelling](./elements/tools/?doc=Storytelling%20for%20social%20engineering)
-- [Survey 123](./elements/tools/?doc=ArcGIS)
-- [System Grid](./elements/tools/?doc=System%20grids)
-- [Systems Mapping](./elements/tools/?doc=Systems%20analysis)
-- [Systems Mapping](./elements/tools/?doc=Systems%20mapping)
+- [SERVICE BLUEPRINT](/RnD-Archive/elements/tools/?doc=Service%20blueprint)
+- [Signals Mapping](/RnD-Archive/elements/tools/?doc=Signals%20mapping)
+- [Simulation, role play, games](/RnD-Archive/elements/tools/?doc=Simulation%20role%20play%20and%20games)
+- [Status of relationships analysis](/RnD-Archive/elements/tools/?doc=Status%20of%20relationships%20analysis)
+- [Storyboarding](/RnD-Archive/elements/tools/?doc=Storyboarding)
+- [Storytelling](/RnD-Archive/elements/tools/?doc=Storytelling%20for%20social%20engineering)
+- [Survey 123](/RnD-Archive/elements/tools/?doc=ArcGIS)
+- [System Grid](/RnD-Archive/elements/tools/?doc=System%20grids)
+- [Systems Mapping](/RnD-Archive/elements/tools/?doc=Systems%20analysis)
+- [Systems Mapping](/RnD-Archive/elements/tools/?doc=Systems%20mapping)
 </div>
 
 <div>
 
 ### T
 
-- [This inventory is about how you can use experiments to solve public and soc…](./elements/tools/?doc=The%20Experimenters%20Inventory)
-- [Tools for developing Hypotheses](./elements/tools/?doc=Tools%20for%20developing%20hypotheses)
+- [This inventory is about how you can use experiments to solve public and soc…](/RnD-Archive/elements/tools/?doc=The%20Experimenters%20Inventory)
+- [Tools for developing Hypotheses](/RnD-Archive/elements/tools/?doc=Tools%20for%20developing%20hypotheses)
 </div>
 
 <div>
 
 ### U
 
-- [Urbanist AI](./elements/tools/?doc=Urbanist%20AI)
-- [User Journey](./elements/tools/?doc=User%20journey%20mapping)
-- [User centered-design (for digital solutions)](./elements/tools/?doc=User%20centered-design)
+- [Urbanist AI](/RnD-Archive/elements/tools/?doc=Urbanist%20AI)
+- [User Journey](/RnD-Archive/elements/tools/?doc=User%20journey%20mapping)
+- [User centered-design (for digital solutions)](/RnD-Archive/elements/tools/?doc=User%20centered-design)
 </div>
 
 <div>
 
 ### V
 
-- [Visibility and communication](./elements/tools/?doc=Communication%20skills)
-- [Visual Thinking](./elements/tools/?doc=Visual%20thinking)
+- [Visibility and communication](/RnD-Archive/elements/tools/?doc=Communication%20skills)
+- [Visual Thinking](/RnD-Archive/elements/tools/?doc=Visual%20thinking)
 </div>
 
 <div>
 
 ### X
 
-- [XLSForm Template](./elements/tools/?doc=XLSForm%20template)
+- [XLSForm Template](/RnD-Archive/elements/tools/?doc=XLSForm%20template)
 </div>
 </div>
 
