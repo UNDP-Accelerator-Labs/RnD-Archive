@@ -1,10 +1,12 @@
 # Innovation toolkit for Latin America and the Caribbean
 
 ### Can you tell us about the tools and methods that you used to do this toolkit?
+
 Yes. So, it might be a bit of a repetition because a toolkit of course, is composed of tools. So, these tools are different methodologies that the labs have already tried within the Latin American Caribbean region for different topics, governance, resilience, climate change, just to name a few. So, for one of the methodologies is community participation. Another methodology is design thinking, another methodology is future thinking, again, just to name a few. And the methods, I'm sorry, I got a bit lost.
 OK, So, should I keep going or should I start from the very beginning?
- 
+
 ### I think you should start so it's easier to edit it.
+
 [[skills:Trial and error]]
 Yes. OK. So yes, of course the toolkit has different tools. It's quite repetitive, but that's what it's composed of. So if you break down those tools, you actually will see that you have interesting information for climate change, governance, gender, and you will also have information within each tool about the methodology, but also the tool itself. So for instance, the methodology and public innovation might be to convene and to have a multi stakeholder approach to work on public innovation. And then the specific tool to do that could be design thinking, just to give one example.
 Another one could be in terms of gender violence, you want to create like micro narratives, that is like the big methodology. And then the tool could be, for instance, Open Street Maps and so that you have these stories placed within the territory.
@@ -12,19 +14,25 @@ Again, just to share a few examples.
 So, in terms of tools and methodologies, those are the ones that this toolkit collects. So, it doesn't focus on just one, but rather is an ensemble of different tools and methodologies that the Accelerator Labs used to work on these sorts of issues.
 
 ### Any thoughts on the kind of tactics and approaches used to, you know, draft or craft this toolkit and the partners that you would have mobilized through this, you know, initiative. And what tactics did you mobilize to bring those partners to the table, and you know, contribute to this toolkit?
+
 When we talk about tactics, I actually would like to bring the R&D exercise to the part of the fusion and catalyzation. So, what are those tactics to diffuse this toolkit? I think the big question behind is do we need another toolkit? And I think it will be useful just to think that this mini website has the network knowledge on your fingertips one click away. So that makes it easy to consume the information. So, the tactic behind would be keep it simple, keep it straightforward, keep it online. So that is very accessible for everyone. And that's the tactic behind the diffusion mechanism and for catalyze the ones that we want people to adopt these tools to use this because it's already tried out.
-[[10:22]]So, these are not ideas, but rather tools and methods that have been tried out and proved that they work. They offer the results that you're waiting for. So, in that sense, the tactic again to catalyze those potential adopters is to invite them to be part of an Academy course. And the Academy course will basically create the environment so that you have a trigger, a starting point to commit with.
+
+### [[10:22]] So, these are not ideas, but rather tools and methods that have been tried out and proved that they work. They offer the results that you're waiting for. So, in that sense, the tactic again to catalyze those potential adopters is to invite them to be part of an Academy course. And the Academy course will basically create the environment so that you have a trigger, a starting point to commit with.
+
 OK, I will go over the toolkit and I'm pretty sure you will find something useful that you can use within your country office. And once you have that match, so it's actually easier for the adopters to make use of the tools if they have people that are supporting their process and around them. So that's the idea of the Academy course.
 
 ### Great! And what about the kind of skills that you may have used to identify the need and challenge for maybe in this case for this toolkit, it probably could be framed in terms of needs, but was there any challenges that you had? What skills did you have to mobilize for that?
+
 So the big challenge when you create knowledge product, I would say is actually to convene, to have access to those great stories, to the methodologies that were used to the tools and to convene, in this case, the Accelerator Labs Network within Latin America and the Caribbean and invite them to submit their tools or methodologies so that we you can move forward with that information until you create this mini website.
 So, I would say the big challenge here is just that capacity of convening plus creating interest for those that are participating to have a clear understanding of what is the benefit of being part of this process. What is going to be the outcome out of this? What are the expectations? Are we meeting their expectations or not. So in that sense, the communication has to be very clear in the way that you can easily convene them and gain their interest.
 So, I would say that that's the big challenge and the skills used was actually to convene persistence and clear communication in terms of expectations.
 
 ### Great! Let's talk about ethics and principles. Can you maybe elaborate on what kind of values or what kind of principles may have guided your initiative and this journey throughout the elaboration of this toolkit?
+
 I think for R&D it is key that we promote open knowledge. So in that sense, the Accelerator Labs Network is very keen to support such work.
 So, what does it mean to have open knowledge? So, for instance, when you create a tool or you build on a previous methodology, creating a new one, therefore the license that that methodology should have or that tool should be open. So for that, you could use Creative Commons as one of those license that allow you to let the audience know that whatever they have in their hands can be reused, republish. And this is the way to actually keep building knowledge.
 And this is one of the triggers of innovators, right? Innovators want to see how the word spreads, how the innovation is adopted. So, the way to do that is actually through open knowledge and open license. And that's one of the key principles of this toolkit is that most of the methodologies and tools that are contained within it have this characteristic.
 
 ### Great! Well, thank you. Thank you so much, Anna.
+
 Thanks. Yeah.
