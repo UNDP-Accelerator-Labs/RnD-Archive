@@ -1,0 +1,85 @@
+[[audio:https://acclabplatforms.blob.core.windows.net/rndarchive/Experimenters/Experimenters_SSD.m4a]]
+
+# Experimenter-South Sudan-Jacqueline Aringu
+
+## [[0:02]] Will you tell me your full name, your full title, and say I consent to this interview?
+
+All right\. My name is Jacqueline Poni Aringu, head of experimentation for the South Sudan Accelerator Lab Country Office\. I do consent to this interview over to you for the first R&D questions\.
+
+## [[0:30]] Enjoy\.
+
+## [[0:33]] Jackie, could you tell me about an R&D activity you'd like to share?
+
+[[tools:Citizen Science and gamification using digital platform to crowdsource solutions]]
+[[skills:Sharing Knowledge, training, and unusual partnership]]
+[[tactics:Share your value upfront, not budget]]
+[[skills:Sharing and disseminating knowledge and storytelling working in unusual thematic areas]]
+Yes, so the R&D activity I want to share\. So I think the country office, we've done quite a number of activities, but I think there's this one particular one that is of passion to me that I feel like I want to share\. And it's an initiative on rather than experiment that we developed to, to do to digitize and traditional Sanduk\. Sanduk is a, is a word that means a box\. So this box was used by the community as a tool for savings or for savings\. Because in the communities, most of the time in the rural communities, people don't use often banks, but also you have communities that have no financial institutions like banks available to them\. So they kind of find a way of coming up with a solution of how they can be able to save their money that they can be that they can use for borrowing, maybe for example, loans, but also for social capital, but also for financial as financial security\. So yeah, so this Sanduk was very traditional in the beginning\. So they were using a, it was just a box and the, and the, and the padlock\. And this community comes together, they do monthly savings and then they put in that box and it's locked\. So that was the thing that was the initiative that the community was doing\. So our R&D was now coming up and seeing and I mean after we did some explorations and then we found out that this Sanduk was actually working, but they had a few challenges, one of fire, but also the safety of the money\. So we thought of our initiative to digitize this Sanduk\. So our R&D was basically is was to digitize the Sanduk, the traditional Sanduk, yeah, making it digital\.
+
+## [[2:54]] But how did this come about? How did you choose the Sanduk R&D?
+
+[[tactics:Share your value upfront, not budget]]
+[[tactics:"Buy in" means agreeing to a tangible commitment]]
+[[tactics:Based on petition, get the message to the right person]]
+[[principles:Recognize local expertise : Nothing for us, without us]]
+So how we chose the Sunduk, this was when we're doing our exploratory sense, I mean exploration work when we're doing our, our safari visits to the field\. Then we identified the group of women that were actually using the Sunduk savings for to borrow money to be able to borrow money to put it in the in their businesses\. So they use it as capital for their businesses, but also they use it as funds during emergencies\. For example, their family has a child that is sick and they quickly care go get money\. I mean, go borrow money from the Sanduk\. So I think we took initiative in this because it was, it was, it was something that was uniform across, across the country and it was in the different states\. So you'd find it even within the capital, but even far away in the, in the rural areas\. That concept was widely used within South Sudan\. So we picked interests in, in and that's how we picked interest in, in the initiative to be able to, to see how we can, if we digitized it\. So our interest was if we digitize the Sanduk, what benefits would it be to the, to the, to the beneficiaries\. So we're also looking at digitizing Sunduk to be able to give them a platform to do what to create safety for their money, but also create safety for their money, but also develop like a credit, credit rating that banks can be able to use to be able to give them loans\. So for areas that have banks, we can use those digital that the bank facilities can be able to see the records and be able to offer loans for the, for the group that is using the digital Sandal\.
+
+## [[4:53]] Then how did you ensure diverse stakeholder perspective were considered? Then how did their input shape the R&D journey?
+
+[[tools:Scaling partnerships by demonstrating value incrementally]]
+[[skills:Sharing Knowledge, training, and unusual partnership]]
+[[tools:Co- created Environmental Citizen Science Solutions Mapping of national initiatives]]
+[[skills:Focus on inclusion and diversity systems analysis,problem identification]]
+So when we did so in the process, I think in the process of US doing the, the R&D of the Sunduk, there was a call by UNDP Borderland Centre\. They had funds for cross\-border initiatives that is for women, economic empowerment and lively livelihood improvement\. So we thought about this thing that we're really doing at a particular border that was in the east between the, we, we, we tried doing this Sunduk at at a micro level between the border of South Sudan in Uganda, at the border of South Sudan in Uganda and it was very small\. But now we had this because of this call and those money for this, we thought of developing it and making it like developing a prototype that can be used for maybe that can be scaled up and used and that can benefit the, the country\. So what is the question again?
+
+## [[5:59]] How did you ensure diverse stakeholder perspective to consider?
+
+[[principles:Recognize local expertise : Nothing for us, without us]]
+[[principles:Collaboration]]
+[[tools:Scaling partnerships by demonstrating value incrementally]]
+[[tools:Collaborative design of actions]]
+Yes, so when we applied for this innovation challenge with the African Borderlands Centre, we needed to identify stakeholders\. So we came, we went to the community, we actually did, we did a stakeholder analysis, first of all within the within the community, but also at the country office to be able to identify which among our projects would be interested for us to work with them\. Then, but also going to the community, we realized that we needed to work more with the local government because in the in the face, in our face of imagine, we realized that as much as we wanted to do digital, we wanted to digitize the Sanduk\. The requirements of digital Sanduk require that at least every member should have digital wallet and the provision to open a digital account for the mobile money you needed an ID\. So most of the people in the community didn't have an ID\. So we started thinking about how we can be able to incorporate them even without them having an ID\. So the, the aspect of bringing in local government to be able to help us, making sure that these people can be able to get a get IDs, but also if they are not able to get the IDs, how can we, how can we, how can we legalize or guarantee their legality? And then they can be able to open an account\. So we brought in the local, the local government within the area of our interest\. Then we also identified civil society that works within the area\. The reason as to why we deal that for the civil society, because we needed an organization or implemented that has that understands the, the, the, the people understands their culture\. So and also to help us contextualize the design more\. So we also had we also had to bring in our private sector because we are now dealing with digitizing the Sanduk required us to have a mobile network\. So we had to identify a mobile network operator within the area where we're going to design this experiment\. So this is how we mapped out and came up with the stakeholders that became now partners in this in this R&D\.
+
+## [[8:31]] So what tools and methods did you use to do to carry out your Sun Book experiment? Which ones do you think are important, the key skills required or tools and methods required?
+
+[[principles:Co-creation]]
+[[principles:Recognize local expertise : Nothing for us, without us]]
+[[tools:This guide provides an introduction to prototyping, explaining]]
+[[tools:Collaborative design of actions]]
+So for the tools and methods required, first, I think we used a number of tools for that particular experiment and, and the key one, because we wanted to develop a prototype, we had and, and also because we're using we're working with people\. So it was people centric\. And so we thought of using the ethnography study\. So we did ethnographic study\. We did the actual, the prototype, but also some of the tools we used were a researched, the typical experimental research design\. Then we also need creation because it was very important for us to Co create with the, with the with, with, with the community actually to be able to validate that they validate the need for their for their traditional subject to be digitized\. So these are some of the tools that we use\. So we use survey tools in the ethnography to be able to assess their readiness for use of digital Sanduk for their savings\. So these are some of the tools that we actually used\.
+
+## [[9:52]] And in terms of skills, what skills do you think are essential during the journey you are in the journey, The type of the Sanduk experiment and why so?
+
+[[principles:Human centering and adaptability: Less of me, more of them]]
+[[skills:Collective intelligence, video, visibility was key success, "press advisor"]]
+[[skills:Sharing and disseminating knowledge and storytelling working in unusual thematic areas]]
+[[skills:Collective Intelligence]]
+So for the skill, so given the given, the given the methods that I've just highlighted, the key skills that that go well with those methods, because when you do, when you're going to do ethnography study, first of all, you need to really understand the people\. So one is some of the skills we used were more listening to them, talking and listening to them\. So we used a focus group discussions, which was a tool, but then the skills that we needed was one listening was very key, understanding what they, what, what, what, how this and worked\. We really needed to be able to listen and then understand before we can be able to digitize\. But also because of the number of the number of stakeholders that were involved\. Stakeholder management was very key because we wanted to have to have our stakeholders from the beginning to the end to be able to the end of our journey\. We wanted to continue in this journey\. We wanted to continue with our with our stakeholders to the end\. So how did we work with them? So these are some of the skills that we use\. So a stakeholder management was one of it\. And then our also skills on how to design research tools or survey tools, we also needed that\. Yeah, I think those are some of the some of the tools\. I think we're still talking about the skills, right\. So, yeah\. So I'll keep coming back to it\.
+
+## [[11:44]] So now in terms of impacts, what was the outcome of your R&D journey?
+
+[[tactics:Understanding the Community]]
+[[principles:Recognize local expertise : Nothing for us, without us]]
+[[principles:Transparency and Honesty: Be open, transparent, honest]]
+[[principles:Recognize and promote agency: Enable agency, the greatest choice for the greatest number]]
+So before I go to the impact of just remembered\. So in the context where we worked in, we also needed to be very keen on communication because working with local governments, if you're not keen in communicating to be able to enlighten at one point they, they, they would, they would tell us that maybe you can't access the community because a, because you had to go through the commissioner\. So we made sure that in our initiatives, we made sure that every step of the process we had to have proper, proper and prior communication with the stakeholders so that they understand that we're getting in there so that they can also prepare themselves in and, and join the team\. So communication was also one of the skills that was really key in this experiment for both stakeholders, both our stakeholders, local government and then the community\. Yeah, we also needed skills for mobilizing\. It wasn't easy\. So, but the skills that we needed for mobilizing was more we tapped into the skills that our CSO's had to be able to help us mobilize\. So that was very key because at if, if that was not the, the mobilization skills, it would, it was going to be a little bit hard because we had the, the this sandbox was spread out in, in the town\. So they're not in one locality\. So you needed a lot of mobilization to be able to work through the people or even get them together when we had like focus group discussions\.
+
+## [[13:28]] How do you bring them on board in?
+
+[[tools:Scaling partnerships by demonstrating value incrementally]]
+[[tools:Research data drawing insights (Kobo toolbox)]]
+[[principles:Collaboration]]
+[[skills:Sharing Knowledge, training, and unusual partnership]]
+So going back to the impact, so the impact of this Sanduk, the impact of this Sanduk was a bit diverse because when we started with this, with this, with this, with this particular one, the funds we received were for was for cross\-border traders\. And this experiment we did it at the border between Sudan and South Sudan\. And the majority of people who are doing cross\-border within that area mostly were the men who would cross The Who would crossover to South to Sudan to go and bring goods to South Sudan and maybe carry some of the goods back to Sudan\. But then we thought of incorporating the aspect, how do we incorporate for inclusivity, how do we incorporate the youths and the women into this into this into this R&D\. So we brought in the women because 1, the Sanduk was more used by the women than the cross\-border trailers\. So the cross\-border trailer were using, were using the Sanduk, but at minimum and it was not as structured as how the women were using it\. So we had to, we had to bring the women and make the, the Group A little bit inclusive to be able to benefit from this initiative\. So the Sanduk impacted both the women and we had some good success stories from some of the beneficiaries about, you know, the security, I mean, financial, I mean money, money safety that they were getting, for example, women who are going to, to the other side of the town to be able to go and buy goods\. They didn't need to carry cash\. So those money safety, which then implied that economic growth, for example, because we had more women now getting to the businesses and understanding that the money was safe and secure with them and they could be able to use it to expand their businesses\. And most of their businesses were around restaurants, hotels were and they're providing services to the cross\-border traders\. So this was economic mostly economic growth, but also the, the aspect of inclusivity would also address inequality, reducing inequality in a way\. So this was these are some of the impacts\. Then the key impact of of this R&D is we've seen how this experiment has benefited up to over 1\.5 and above\. Actually as I speak, because the number has increased this, this digital Sanduk has been placed on the, what do you call it, an M Gurish platform\. So it's accessible to over 2 million users currently\. So we're talking about a product that started with a very small group of people now that is impacting over 2 or 2 million people across the across the country\.
+
+## [[16:27]] We have time for one quick, quick question\. How did you engage with policy makers, private sector communities or other key actors to catalyze broader change or impact based on your R&D work? How did you engage with policy makers, private sector communities or other key actors to catalyze broader change or impact based on your R&D work?
+
+[[tools:Scaling partnerships by demonstrating value incrementally]]
+[[tactics:Share your value upfront, not budget]]
+[[tactics:Based on petition, get the message to the right person]]
+[[tactics:Getting in there (positioning the lab in UNDP prodoc)]]
+So how did we engage policy makers? So at that level, policy makers that we worked with were the local government, right? And, and, and we aborted them\. We, we started working with them from the initial stage of our experiment\. Private sector\. We needed private sector because this particular experiment related to mobile money\. So we needed a mobile money operator\. So we found one mobile money operator that was like the only mobile money operator operating at that time in South Sudan\. So that's how we brought in private sector M Gurish, who now took up who now took up this, this initial, this this experiment or the prototype and now scaling it up using their platform\.
+
+## [[17:58]] Thank you, Jackie, for your insights and your time for the interview today\. Thank you so much\.
+
+Thank you\.
