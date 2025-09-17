@@ -3,6 +3,7 @@ import os
 import sys
 from os import listdir, makedirs
 from os.path import isfile, join, basename, splitext, exists
+from urllib.parse import quote
 
 basepath = './stories/pages/'
 
@@ -32,7 +33,7 @@ def setListItem (file):
 	filename = splitext(basename(file))[0]
 	text = getText(join(basepath, file))
 	title = getTitle(text)
-	return "- [{}](./?doc={})".format(title, filename)
+	return "- [{}](./?doc={})".format(title, quote(filename))
 
 if __name__ == '__main__':
 	onlyfiles = [file for file in listdir(basepath) if isfile(join(basepath, file)) and file != '.DS_Store']

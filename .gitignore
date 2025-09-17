@@ -1,5 +1,6 @@
 .DS_Store
 dep.*
+dep_*
 node_modules/
 package.json
 package-lock.json
@@ -12,3 +13,4 @@ notebooks/template.env
 notebooks/.ipynb_checkpoints/
 notebooks/.ipynb_checkpoints/notebooks/.env
 .ipynb_checkpoints/notebooks/template.env
+local/
