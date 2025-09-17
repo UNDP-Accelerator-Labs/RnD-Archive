@@ -1,4 +1,4 @@
-__Solutions Mapper\-Tanzania\-Ghati Horombe__
+# Solutions Mapper\-Tanzania\-Ghati Horombe
 
 [[0:00]] Hello, my name is Ghati Horombe from UNDP Tanzania\. I'm the head of solutions mapping for the Accelerator Accelerator Lab programme in Tanzania\. 
 

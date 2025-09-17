@@ -1,4 +1,4 @@
-Solutions Mapper\-North Macedonia\-Ardita
+# Solutions Mapper\-North Macedonia\-Ardita
 
 [[tools:GIS systems]]
 [[tactics:Gaining leverage and traction for solutions]]

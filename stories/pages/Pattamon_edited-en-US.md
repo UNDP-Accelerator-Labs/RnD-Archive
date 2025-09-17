@@ -1,5 +1,4 @@
-__Solutions Mapper\-Thailand\-Pattamon Rungchavalnot  
-__
+# Solutions Mapper\-Thailand\-Pattamon Rungchavalnot  
 
 ### [[0:02]] So can you tell me a little bit about yourself, your name, your position?
 

@@ -1,4 +1,4 @@
-__Solutions Mapper\-Syria\-Kenda Alzaim__
+# Solutions Mapper\-Syria\-Kenda Alzaim
 
 ### [[0:00]] Tell me your name and your job position\.
 

@@ -1,4 +1,4 @@
-# __Solutions Mapper\-Guinea Bissau\-Ana Dju__
+# Solutions Mapper\-Guinea Bissau\-Ana Dju
 
 ### [[0:00]] Can you please tell us your name and your position?
 

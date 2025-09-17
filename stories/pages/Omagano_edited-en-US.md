@@ -1,4 +1,4 @@
-Solutions Mapper\-Namibia\-Omagano Kankondi
+# Solutions Mapper\-Namibia\-Omagano Kankondi
 
 [[0:00]] Hi, my name is Omagano Kankondi\. I'm the Head of Solutions Mapping for the Namibian Accelerator Lab\.
 

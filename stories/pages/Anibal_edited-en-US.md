@@ -1,4 +1,4 @@
-# __Solutions Mapper\-Panama\-Anibal Cardenas__
+# Solutions Mapper\-Panama\-Anibal Cardenas
 
 ### [[0:02]] Hello, Anibal, please can you introduce yourself?
 

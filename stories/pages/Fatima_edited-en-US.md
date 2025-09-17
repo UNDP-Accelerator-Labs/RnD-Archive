@@ -1,4 +1,4 @@
-__Solutions Mapper\-Ghana\-Fatima Farouta__
+# Solutions Mapper\-Ghana\-Fatima Farouta
 
 [[tactics:Gaining leverage and traction for solutions]]
 [[tactics:Getting in there]]
