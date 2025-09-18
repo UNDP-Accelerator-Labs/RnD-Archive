@@ -60,12 +60,23 @@ export const renderTranscript = function (text, source) {
   const transcript = d3.select("section.content").html(html);
 
   const url = new URL(document.location);
-  const path = url.pathname.split("/").filter((d) => d.length);
+  let path = url.pathname.split("/").filter((d) => d.length);
+  // ADD THE LOCATION TAGS
+  const locationTags = [...transcript.selectAll("p").nodes()].map(el => {
+  	const { text, ...metadata } = parseMetadata(el.textContent.trim(), [
+  	  "continent",
+  	  "country"
+  	]);
+  	if (Object.keys(metadata).length) return metadata;
+  	else return null;
+  }).filter(d => d)
+  .reduce((obj, item) => {
+  	return Object.assign(obj, item)
+  }, {});
+  path = path.concat(Object.values(locationTags).flat());
+  // TO DO: THE ABOVE WORKS, BUT WOULD BE GOOD TO REPLACE WITH ACTUAL PATH
+
   const titleSection = d3.select("section.title");
-
-  console.log(source.replace("../", ""));
-  console.log(path);
-
   titleSection
     .addElems("button", "chip breadcrumb", path)
     .addElem("label")
@@ -73,6 +84,7 @@ export const renderTranscript = function (text, source) {
     .attr("href", (d, i) => `/${path.slice(0, i + 1).join("/")}`)
     .html((d) => d);
   transcript.select("h1").moveTo(titleSection.node());
+  
   // ADD LINK TO EDIT FILE
   titleSection
     .addElem("a", "edit-link")
@@ -96,6 +108,8 @@ export const renderTranscript = function (text, source) {
       "tools",
       "tactics",
       "principles",
+      "continent",
+      "country",
     ]);
 
     if (Object.keys(metadata).length) {
@@ -112,7 +126,7 @@ export const renderTranscript = function (text, source) {
       const chips = div.addElem("div", "chips");
       for (let key in metadata) {
         chips
-          .addElems("button", `chip ${key.replace("-")}`, metadata[key])
+          .addElems("button", `chip ${key.replace("-")}`, ["continent", "country"].includes(key) ? [] : metadata[key]) // THE CONTINENT AND COUNTRY TAGS ARE PLACED ABOVE IN THE TITLE SECTION
           .addElem("label")
           .addElem("a")
           .attr("href", (d) => `${basePath}/elements/${key}/?doc=${d}`)
