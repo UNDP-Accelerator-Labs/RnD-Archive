@@ -1,6 +1,7 @@
 .DS_Store
 dep.*
 dep_*
+__dep_*
 node_modules/
 package.json
 package-lock.json

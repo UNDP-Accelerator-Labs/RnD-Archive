@@ -23,7 +23,7 @@ Note that not all directories in the `root` of the project are not *routing dire
 
 ## Adding subpages
 
-The general approach for adding subpages is to add a `./pages/` subdirectory to a *routing directory* with any number of `.md` (markdown) files in it. 
+The general approach for adding subpages is to add a `./__pages__/` subdirectory to a *routing directory* with any number of `.md` (markdown) files in it. 
 
 If you are only planning to add subpages to the existing `elements/` and `stories/` *routing directories*, you can go straight to the **Adding elements and stories** section, as indexing and linking is handled automatically for these *routing directories*. Otherwise, please read through the next section.
 
@@ -37,19 +37,19 @@ To add links to the subpages manually, you must follow this syntax (based on the
 ```[name of page](./?doc={the name of the .md file to use as a subpage})```
 replacing:
 - `name of page` with the name you want to see displayed—keeping the square brackets to maintain the standard markdown hyperlink syntax; and
-- `{the name of the .md file to use as a subpage}` with the actual name of the `.md` file under `./pages/`—removing here the curly brackets and omitting the `.md` file extension. Note that you only need to add the name of the file, not the path—e.g., use `supbage` and not `./pages/subpage`.
+- `{the name of the .md file to use as a subpage}` with the actual name of the `.md` file under `./__pages__/`—removing here the curly brackets and omitting the `.md` file extension. Note that you only need to add the name of the file, not the path—e.g., use `supbage` and not `./__pages__/subpage`.
 
 For example, to manually create a subpage to your *routing directory*, you must:
 
-1. create a `./pages/` subdirectory in your *routing directory*.
-2. add a `subpage.md` file to the subdirectory, i.e., `./pages/subpage.md`.
+1. create a `./__pages__/` subdirectory in your *routing directory*.
+2. add a `subpage.md` file to the subdirectory, i.e., `./__pages__/subpage.md`.
 3. add `[my subpage](./?doc=subpage)` anywhere in the `README.md` file inside your *routing directory* to make sure users can navigate to your subpage.
 
 ## Adding elements and stories
 
 The bulk of the R&D Archive is a collection of **elements of innovation**, namely *principles*, *skills*, *tactics*, and *tools and methods*; and of **stories** told by Accelerator Lab members that give perspective to each of the **elements** by illustrating their application to sustainable development practice.
 
-The different **elements** and **stories** are respectively stored in the `elements/pages/` and `stories/pages/` directories. Each is a unique "augmented" `.md` file.
+The different **elements** and **stories** are respectively stored in the `elements/__pages__/` and `stories/__pages__/` directories. Each is a unique "augmented" `.md` file.
 
 ### Additional markdown tags for elements
 
@@ -60,7 +60,7 @@ The different **elements** and **stories** are respectively stored in the `eleme
 - *tools*
 They correspond to the name of one of the subdirectories of the `elements/` *routing directory*.
 
-Depending on how an *element* is applied, it may be a *principle*, a *skill*, a *tactic*, or a *tool or method*. For example, [being open by default](/elements/pages/Be%20open%20by%20default.md) can either be a *principle* that guides one's work, or a *tactic* to scale the adoption of that work.
+Depending on how an *element* is applied, it may be a *principle*, a *skill*, a *tactic*, or a *tool or method*. For example, [being open by default](/elements/__pages__/Be%20open%20by%20default.md) can either be a *principle* that guides one's work, or a *tactic* to scale the adoption of that work.
 
 To add a *type tag* to an *element page*, you must follow the syntax:
 ```
@@ -69,7 +69,7 @@ To add a *type tag* to an *element page*, you must follow the syntax:
 replacing `{the type of element}` with the name of one of the *type tags*—removing the curly brackets. Make sure to place the *type tag* **at the top of the .md document.**
 
 When the application builds, the `scripts/compile_element_index.py` file should automatically link and index the **element** to the appropriate route(s) and page(s). 
-For example, an `element_name.md` in `elements/pages/` with the *type tag* `[[type:principles]]` at the top of the document will be accessible at `{base url}/elements/principles/?doc=element_name`. A link to this page will also automatically be generated in the index content pages `elements/README.md` and `elements/principles/README.md`.
+For example, an `element_name.md` in `elements/__pages__/` with the *type tag* `[[type:principles]]` at the top of the document will be accessible at `{base url}/elements/principles/?doc=element_name`. A link to this page will also automatically be generated in the index content pages `elements/README.md` and `elements/principles/README.md`.
 
 Note a single *element* page can have multiple *type tags*.
 For example, if you add `[[type:skills]]` at the top of the same `element_name.md`, then your subpage shoud also be accessible at `{base url}/elements/skills/?doc=element_name`, and the automatic indexing should apply to `elements/README.md` and `elements/skills/README.md` as well.
@@ -78,7 +78,7 @@ If you want to create a new type, you must:
 1. add a directory with the name of the type in `elements/`.
 2. add a `README.md` file inside the directory for the content of the page.
 3. copy/ paste the `templates/index.html` file inside the directory for rendering the page template. Note that you will need to edit the relative paths manually in the `index.html` template to always point to the `root` of the project (where the `/public` assets are).
-4. add the `[[type:{your new tag type}]]` at the top of your `elements/pages/subpage.md` page.
+4. add the `[[type:{your new tag type}]]` at the top of your `elements/__pages__/subpage.md` page.
 
 Following these steps should ensure that all the automatic indexing works properly.
 
@@ -112,13 +112,13 @@ To add an *element tag*, you must follow the syntax:
 ```
 replacing:
 - `{tag type}` with one of the *tag types* described in the previous section (by default: `principles`, `skills`, `tactics`, or `tools`)—removing the curly brackets; and
-- `{name of the related element .md file}` with the unescaped name of the **element** `.md` file in `elements/pages/`—here again, removing the curly bracket.
+- `{name of the related element .md file}` with the unescaped name of the **element** `.md` file in `elements/__pages__/`—here again, removing the curly bracket.
 Make sure to place the *element tag* **at the top of the related paragraph.**
 
-For example, if a paragraph in a **story** talks about using [personas](/elements/pages/Personas.md), you can link the *personas* **element** as a *tool* by adding the *element tag* `[tools:Personas]` right before that paragraph.
+For example, if a paragraph in a **story** talks about using [personas](/elements/__pages__/Personas.md), you can link the *personas* **element** as a *tool* by adding the *element tag* `[tools:Personas]` right before that paragraph.
 
 When the application builds, the `scripts/compile_element_links.py` and `scripts/compile_stories_index.py` files should automatically index the **sotries** and link them to the tagged **elements**. 
-For example, a `story_name.md` in `stories/pages/` will be accessible at `{base url}/stories/?doc=element_name`, and the `[tools:Personas]` *element tag* should link to `{base url}/elements/tools/?doc=Personas`.
+For example, a `story_name.md` in `stories/__pages__/` will be accessible at `{base url}/stories/?doc=element_name`, and the `[tools:Personas]` *element tag* should link to `{base url}/elements/tools/?doc=Personas`.
 
 ### Editing elements and stories
 When navigating the R&D Archive, you can edit any **story** or **element** by clicking on the auto-rendered "Edit this page" link at the top of the page. If you are a contributor to this project, this will lead you directly to the github markdown editor.

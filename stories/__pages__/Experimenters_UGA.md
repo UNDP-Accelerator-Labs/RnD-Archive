@@ -1,0 +1,86 @@
+[[audio:https://acclabplatforms.blob.core.windows.net/rndarchive/Experimenters/Experimenters_UGA.m4a]]
+
+[[continent:Africa]]
+[[country:Uganda]]
+
+# Experimenter\-Uganda\-Berna Mugema
+
+### [[0:03]] Tell me your name, your title and say I consent to this recording\.
+
+Hello, my name is Berna Mugema\. I'm head of experimentation with UNDP in Uganda and I consent to this recording\.
+
+### [[0:15]] Beautiful\. Over to you\.
+
+### [[0:18]] Hi, Berna\.
+
+Hi\.
+
+### [[0:20]] Could you tell me about an R&D activity that you were involved in? How did it come about and where did it start?
+
+[[tactics:Gaining leverage and traction for solutions]]
+[[principles:Recognize local expertise]]
+[[principles:Transparency and Honesty]]
+[[principles:Prioritize transparency in methods and openness in sharing data and results]]
+Yeah, we were involved in, I was involved in the development of Uganda's national Digital transformation road map\. It came after COVID\-19 where within the public sector there was a realization of the power that digital can bring into the transformation of society, but also for sustainable development\. We realized that there was a lot of uptake of digital solutions for livelihood sustainability, but also for education\. And with that we also realized that they were very glaring gaps\. And so it was a space that we wanted to engage as a country, but also as a country office in UNDP\. And that's how we came up with, we started to engage in the in this particular space\. However, one of the things that we realized is that there was no coherent approach to digital transformation in the country\. There were pockets of work that had been done that were great\. But in the education sector, for example, we had a schools closed for two years, which was the longest any country had had in the world during the COVID\-19 pandemic\. And then we are starting to see all, we're starting to see all the repo effects of this\. And so after doing a quick horizon scanning and sensing of what was happening, we realized that we have a digital vision\. We have people doing some work around digital transformation, but we had no coherent path to tell us that these are the things that we need to achieve in order to reach the vision\. And that's how we started to work on the R&D activity that led to the formation of Uganda's national digital transformation road Map\.
+
+
+### [[2:09]] So can you please tell me who was involved in your journey, what was their role and how did you ensure there were always diverse stakeholder perspectives in the R&D journey?
+
+[[principles:Recognize local expertise]]
+[[tactics:Systems thinking]]
+[[tactics:Gaining leverage and traction for solutions]]
+[[tactics:Creating space for emerging themes]]
+This journey being a national framework that we were trying to develop, a national strategy that we're trying to develop, involved various stakeholders from government ministries, development partners were all doing some level of work around digital\. It involved the schools in the different districts\. It involved us understanding from different SM ES what are their digital needs, how digital can propel their businesses further\. It involved our us going down and actually understanding some of the impediments to digital transformation in the different areas\. And it also involved us working together with the different partners to come up with a coherent approach as we realized that some of them were now exhausted with doing with giving government ministry, certain digital tools and realizing that they were so many and everybody was kind of investing in the same thing with no really measurable impact\. And we did this by doing a Co creation process where we try to involve all these stakeholders\. We did a countrywide assessment of the digital needs and what was what was needed to help us actually go the transformation, to go through this process of transformation and also helped us frame what are the things that are needed\. Yeah for the different categories of the population in order to benefit from this digital up, up upping\.
+
+
+### [[3:49]] Could you elaborate on the principles that guided your R&D work or and any other ethical considerations?
+
+[[principles:Transparency and Honesty]]
+[[principles:Prioritize transparency in methods and openness in sharing data and results]]
+[[principles:Human centering and adaptability]]
+[[principles:Recognize local expertise]]
+Yeah, our walk was really shroud shielded and covered with the basic principle of leaving no one behind\. Because what we realized even as the COVID\-19 helped us glaringly realize that even with availability of schooling on online, it was still only available for a small part of the population that lived in the city\. And then that left a huge population that that wasn't connected to the Internet not going to school for two years\. And so whatever we did with the digital transformation road map, we were trying to ensure that everybody is catered for and then also they are secure in as they try to go on this digital transformation journey\. We also, we were also thinking around that we also ensure that we're doing putting into consideration the effects of data privacy and protection for the people that were involved in the process\. But also as we design so specific interventions that we thought the government and the other partners should take in order to achieve this particular strategy\.
+
+
+### [[5:20]] Did the specific tactics, all approaches you use to engage your stakeholders, build, buy in or address resistance to your R&D work?
+
+[[principles:Human centering and adaptability]]
+[[principles:Inclusivity]]
+[[principles:Trust]]
+[[principles:Inclusivity and diversity]]
+Yes\. One of the tactics was rather than putting everybody in the same room for the R&D work, we decided to work with them in the groups in which they were, in the categories in which they were and understand their different context, their different context to develop frameworks for their different needs\. And typically even when we start, when we had the final framework, rather than do a big validation, we got smaller, smaller groups of people and did the validation in the smaller groups\. That helped us to get a lot more intimate with them and helped us to understand a little bit more what we had in covered\. It also helped us to design better for them in this framework, but also it, it helped to avoid the, the bias within the design of the, of the journey on or the strategy that we wanted to develop for the country\. The other thing was to engage as many people when we decided to divide the road map into key pillars around infrastructure and connectivity, around digital skills, cyber security, digital services, innovation and entrepreneurship\. We are sure that in each of those categories we engage the specific stakeholders therein tried to understand what their needs were, what the what the things they felt needed to be covered by government so that they were all part and parcel the process\. Even by the time it was launched, they were fully present and understood what we were trying to do\.
+
+
+### [[7:08]] What was the outcome of your R&D journey and how did or will it work and to work to impact sustainable development\.
+
+[[principles:Recognize local expertise]]
+[[principles:Human centering and adaptability]]
+[[principles:Recognize and promote agency]]
+[[tools:GIS systems]]
+The outcome of our R&D journey was a national digital transformation of road map as I said before\. And the idea behind this is that it's it has underpinned what are the needs of the different parts of society to benefit from this digital revolution\. It has also helped us frame the spaces where we should invest as a country, which who are the people who are being left, especially the people living on the fringe of society who haven't been invested in\. It's also a framework that is going to help us how give a make sure that all the private sector players in this space like the telecommunication companies accountable for making sure that they are present\. Because one of the things that they were as part of their license renewal is to have at least 99% connectivity and most times develop depending on their business case\. They will not be available and clear everywhere\. But with this road map, it will be a measurement for them to ensure that there is connectivity for all provided and also for the for the government that provides a national fibre backbone\. In terms of infrastructure and connectivity, we'll be able to see who is available, who is available, who is connected, which government institutions are not connected\. In terms of digital services, we're able to map what services are needed by a citizen from birth till death and how government can ibly provide these services to the people that are not necessarily in the districts or in the capital city\. Who are the people who are not covered by the government, by the government services? Who doesn't have a national ID? Why don't they have a national ID? How are we providing these services to these people? What are the challenges of them accessing it? And then also what are the complementary services in terms of development that need to go along with this digital revolution like electricity, hardware, computers, skilling and training? Is it available everywhere? And then also what we realized during this time is only a few percentage of government services are speaking to each other\. So in terms of sustainable development of a country, it's, it's quite important for us to have a lot of this data with this framework, we are going to be able to track who has who, who is using the government services, who is on the how many people do we have in\. If we will not be able to conduct a population census again, moving from place to place, will be able to see from the systems that are available, be able to see the education institutions, who is in in school, who is not in school, Weren't they in school?
+
+
+### [[9:52]] What are the challenges there and be able to provide services in terms of development for this particular population? Yeah\. What would you do differently if you had to start again?
+
+[[principles:Recognize and promote agency]]
+[[tactics:Gaining leverage and traction for solutions]]
+[[principles:Recognize local expertise]]
+[[tactics:Getting in there]]
+If I was just if I, if I was to start again, I would it involve the government ministries more rather than focus a lot on the ministry of ICT and national guidance, but would be to bring all the key government ministries on this journey\. Because one of the things that we felt we, we didn't engage as much was to have the key government ministries\. So like I said earlier, we mapped the processes or the services that E government services the person needs from birth till death\. And those should have been the key ministries that we walk this journey with and be able to help them understand what digital transformation can contribute to development for the citizen but also for the government to deliver its services to their people a lot more easier and cheaper\. So we feel like now we had to go through a process where we have to try and re explain this road map in a more sustained way to them\. And then give them guidelines on what it means to transform, to do digital transformation in your specific entity\. What it means to be very to do your needs assessment, to know what services you need to digitize and how they should be connected to each other\. That's a part that we felt that we should have done a little better so that we have it working seamlessly without necessarily us being very, very involved in helping them understand these processes and procedures\.
+
+
+### [[11:37]] What strategies or approaches did you employ to facilitate the diffusion or adoption of your R&D outcomes and how did you engage with the different sectors, your policy makers, private sector, etcetera to catalyze your work?
+
+[[principles:Transparency and Honesty]]
+[[principles:Prioritize transparency in methods and openness in sharing data and results]]
+[[principles:Recognize and promote agency]]
+[[tactics:Getting in there]]
+Yeah, so one of the key things we did was to bring along with us the key government ministries, the Prime Minister's Office and, and the some of the development partners in what is called the Digital Transformation Working Group and ensure that this process was as transparent as possible\. It took us about a year to ensure that this was done\. We did present this document once it was developed to the all the permanent secretaries of the different government ministries\. We took it to cabinet\. We had the Vice president launch it and as she launched this, she ensured that it was passed in law that this digital transformation road map was going to be part of the national development plan for\. And because of that, the Ministry of Finance and Finance and Economic Planning had to ensure that there was a budget allocated to digital transformation, to the digital transformation agenda, which hadn't really been done very well before because they everyone kept doing it pocket in pockets\. The other thing is with involvement of the different donors in the, in the, in the digital transformation who are working within digital transformation, the UN, the UN agencies in the country and the different development partners\. It allowed for them to start self\-organizing\. And so we have this donor working group that kind of organically developed around digital transformation where every quarter they made to share on what they're doing to avoid duplication of activities, but also duplication of resources to specific ministries\. So where they find that one person is working on this, then they'll is going to work on this activity this year, they start to pull it out of the of the activity plans and then maybe put their resources to a place that is not covered much more\. Then also because of this, we are seeing that this has become the framework for delivering digital transformation in the country\. It's the document that is being referred to because the strategy here was to take it to the highest level, to take it the highest level of government and make sure that it becomes the blueprint for delivery of any digital transformation\. The country that it allows for integration and exchange of between government services and, and, and also allows for the donors to know that they don't just come and, and feed into what feeds into their needs, but to know that the country has a coherent approach to digital transformation\. And they have to at least make sure that they're contributing that country's develop national development\.
+
+
+### [[14:30]] Thank you, Berna for your time and your insights\.
+
+Thank you very\.
+
+### [[14:37]] I'm just having some dessert\.
+
