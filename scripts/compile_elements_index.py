@@ -5,7 +5,7 @@ from os import listdir, makedirs
 from os.path import isfile, join, basename, splitext, exists
 from urllib.parse import quote
 
-basepath = './elements/pages/'
+basepath = './elements/__pages__/'
 
 # Get base path from CLI arg or env var (e.g., from GitHub Actions)
 basePath = (
@@ -82,5 +82,5 @@ if __name__ == '__main__':
 	# print(content)
 
 	readme = join('./elements/', 'README.md')
-	generateFile (readme, content)
+	generateFile(readme, content)
 	

@@ -18,7 +18,7 @@ async function onLoad() {
   const params = new URLSearchParams(document.location.search);
   const doc = params.get("doc");
   let source = "README.md";
-  if (doc) source = `./pages/${doc}.md`;
+  if (doc) source = `./__pages__/${doc}.md`;
 
   console.log("loading transcript");
   const { transcript, usedSource } = await getTranscript(source);

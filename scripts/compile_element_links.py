@@ -5,7 +5,7 @@ from os import listdir, makedirs
 from os.path import isfile, join, basename, splitext, exists
 from urllib.parse import quote
 
-basepath = './stories/pages/'
+basepath = './stories/__pages__/'
 
 # Get base path from CLI arg or env var (e.g., from GitHub Actions)
 basePath = (
