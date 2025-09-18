@@ -5,9 +5,9 @@
 
 # Experimenter\-Tanzania\-Tabea Mbugbuni
 
-### [[ 0:02]] So tell me your full name, your title, and please say I consent to this recording\.
+### [[0:02]] So tell me your full name, your title, and please say I consent to this recording\.
 
-### My name is Tabasa Rambuni, head of Experimentation\. I consent to this recording\.
+My name is Tabasa Rambuni, head of Experimentation\. I consent to this recording\.
 
 ### [[0:17]] Amazing\. Over to you for the interview\.
 
