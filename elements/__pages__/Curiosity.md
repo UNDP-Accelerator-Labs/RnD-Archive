@@ -3,42 +3,26 @@
 
 # Curiosity
 
-## Purpose/ reason: Why is this important?
+## Overview
+Curiosity is a key principle and skill in public and social innovation, driving the search for sustainable solutions and behavioral change.
 
-N/A
+## Purpose
+The purpose of curiosity is to address local leaders' concerns, map existing resources, and find cheap solutions using local materials, ultimately leading to innovative problem-solving.
 
-## Source: Who mentioned this principle?
+## How it works
+Curiosity involves actively seeking out information, engaging with local communities, and being open to new ideas and perspectives. It enables innovators to identify opportunities for improvement and develop context-specific solutions.
 
-N/A
+## Requirements
+To cultivate curiosity, individuals need to be willing to listen, ask questions, and learn from others. They must also be adaptable and flexible in their approach.
 
-## Associated trait(s)
-   
+## Reflections
+Curiosity is essential for effective social innovation as it allows practitioners to understand the needs and concerns of local communities and develop tailored solutions that are both sustainable and impactful.
 
+## Related methods (if any)
+Design thinking, participatory approaches, and co-creation methodologies often rely on curiosity to engage stakeholders and drive collaborative problem-solving.
 
-## 
-   
+## License
+No specific license is associated with this principle or skill.
 
-
-## 
-   
-
-
-# Curiosity, Humble, community participation, Leadership, innovation
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-To look for sustainable solutions. to address local leaders and be able to get to know their worries. To map existing sources of water and local of waste management to look solutions. Find cheap solutions with local material. Behavioural change. Find baseline ways to overcome difficulty created by communitie.
-
-## Source: Who mentioned this skill?
-
-Julieta Massango
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-##
+## Examples
+Examples of curiosity in action include community-led research initiatives, participatory mapping exercises, and social innovation challenges that encourage creative problem-solving.

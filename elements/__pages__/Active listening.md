@@ -2,42 +2,23 @@
 
 # Active listening
 
-## Short description: Describe in one sentence what the tool/ method is, and what it does.
+## Overview
+Active listening is a tool used in public and social innovation work to understand and engage with communities.
 
-Active listening
+## Purpose
+The purpose of active listening is to help individuals or organizations better comprehend the needs, concerns, and perspectives of community members.
 
-## Source: Who mentioned this principle?
+## How it works
+Active listening involves fully concentrating on and absorbing the information being communicated by others, without interrupting or judging. It requires empathy, attention, and a willingness to learn from others.
 
-Sofia
+## Requirements
+Effective active listening requires a non-judgmental attitude, open-mindedness, and a willingness to ask clarifying questions.
 
-## Associated trait(s)
-   
+## Reflections
+Active listening is an essential skill for building trust and fostering meaningful relationships with community members. It helps to identify needs, opportunities, and potential solutions that may not be immediately apparent.
 
+## Related methods (if any)
+This tool is often used in conjunction with other social innovation tools, such as co-design, participatory budgeting, and community engagement strategies.
 
-## 
-   
-
-
-## 
-   
-
-
-# Active listening
-
-## Short description: Describe in one sentence what the tool/ method is, and what it does.
-
-Helps in understanding and liaising with communities.
-
-## Source: Who mentioned this principle?
-
-Mohammed
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-##
+## License
+No specific license or permission is required to use active listening as a tool.

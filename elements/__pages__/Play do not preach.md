@@ -2,25 +2,26 @@
 
 # Play don't preach
 
-## Tactic description: When do you apply this tactic? How does it work?
+## Overview
+Play don't preach is a collaborative approach used in public and social innovation work to make experiments appealing and gain buy-in from stakeholders.
 
-Collaborative approach of the experiment in creative ways to make it appealing and get buy-in:  
-- regular meeting with counterparts  
-- use game/play to promote buy-in from counterparts  
-- use branding elements for the project  
-- don't use buzz words ( change it for "normal" words)  
-- Explain why we are doing this
+## Purpose
+The purpose of this tactic is to engage counterparts, promote understanding, and encourage participation in the experiment or project.
 
-## Source: Who mentioned this tactic?
+## How it works
+This tactic involves regular meetings with counterparts, using games or playful approaches to promote engagement, incorporating branding elements for the project, avoiding jargon and buzzwords, and explaining the reasoning behind the approach.
 
--
+## Requirements
+No specific requirements are mentioned for this tactic, but a willingness to be creative and adaptable is necessary.
 
-## Associated trait(s)
-  
+## Reflections
+This tactic requires a deep understanding of the stakeholders involved and their needs. It also demands flexibility and an openness to adjusting the approach as needed.
 
+## Related methods (if any)
+Collaborative approaches, stakeholder engagement, co-creation.
 
-## 
-  
+## License
+No specific license or copyright information is mentioned for this tactic.
 
-
-##
+## Examples
+Examples of successful implementation of Play don't preach include using gamification in public health campaigns or incorporating branding elements into community development projects.

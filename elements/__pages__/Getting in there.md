@@ -1,24 +1,24 @@
 [[type:tactics]]
 
-# Getting in there (positioning the lab in UNDP prodoc)
+# Getting in there (positioning the lab in undp prodoc)
 
-## Tactic description: When do you apply this tactic? How does it work?
+## Overview
+Getting in There is a tactic used by public and social innovators to position their work within existing frameworks, such as the United Nations Development Programme's (UNDP) project documentation (prodoc).
 
-A way to get our work positioned and fund opportunities  
-Finding/Using the right buzz words in the right moment/opportunity on a case by case basics  
-Approaching other agencies through open conversations and building the project from each other skills and expertise  
-Use metrics of impact and data from experiments
+## Purpose
+The purpose of this tactic is to secure funding opportunities and establish partnerships with other agencies.
 
-## Source: Who mentioned this tactic?
+## How it works
+This tactic involves using relevant buzzwords, engaging in open conversations with other agencies, and leveraging metrics of impact and data from experiments to build a collaborative project that combines skills and expertise.
 
--
+## Requirements
+No specific requirements are mentioned for this tactic, but it is implied that adaptability and the ability to navigate different organizational cultures are necessary.
 
-## Associated trait(s)
-  
+## Reflections
+There are no reflections provided on this tactic in the compilation of notes.
 
+## Related methods (if any)
+This tactic may be related to other methods such as Co-Creation or Collaborative Design, which also involve working with multiple stakeholders to achieve a common goal.
 
-## 
-  
-
-
-##
+## License
+No specific license is mentioned for this tactic.

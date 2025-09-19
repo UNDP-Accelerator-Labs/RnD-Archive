@@ -3,50 +3,26 @@
 
 # Open data
 
-## Tactic description: When do you apply this tactic? How does it work?
+## Overview
+Open data is the practice of making data publicly available and accessible, often in digital formats.
 
-Digitize solution and open the data to others.
+## Purpose
+The purpose of open data is to promote transparency, accountability, and collaboration by providing access to information that can be used to inform decision-making, monitor progress, and evaluate outcomes.
 
-## Source: Who mentioned this tactic?
+## How it works
+Open data involves digitizing solutions and making the resulting data available to others. This can include sharing data on project outcomes, participant engagement, or other relevant metrics.
 
-Amina
+## Requirements
+To implement open data effectively, organizations should ensure that they have a clear plan for collecting, storing, and disseminating data in an accessible format.
 
-## Associated trait(s)
-  
+## Reflections
+Open data requires a culture of transparency and honesty, where stakeholders are willing to share information and be accountable for their actions. This can involve simplifying language and creating a common narrative around project goals and outcomes.
 
+## Related methods (if any)
+Transparency and Honesty is related to open data as it emphasizes the importance of being open and honest in sharing data and information with others.
 
-## 
-  
+## License
+No specific license is required for open data, but organizations should ensure that they have the necessary permissions and agreements in place to share data with others.
 
-
-## 
-   
-
-
-# Transparency and Honesty: Be open, transparent, honest.
-
-## Purpose/ reason: Why is this important?
-
-- Embrace the culture of transparency.  
-  
-- Apply the “do no harm principle” all the time by being honest.  
-  
-- Mozambique experience with collective intelligence excercise, they were very open, honest by telling the authority (district administrator) that community was going to have a role as co-researchers  
-  
-- Simplify the language; distinguish between “socialization” of an intervention from real understanding and consent. Simplification is not omission of important information, it is communicating in non-technical language and creating a common and collective narrative of what´s happening and what´s going to happen.  
-  
-- Be honest to handle expectations.
-
-## Source: Who mentioned this principle?
-
--
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-##
+## Examples
+Examples of open data in practice include the Mozambique collective intelligence exercise, where community members were involved as co-researchers and had access to project data.

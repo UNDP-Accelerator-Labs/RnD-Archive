@@ -2,105 +2,26 @@
 
 # Leadership
 
-## Skills description: What does the ability help you do, achieve, or produce?
+## Overview
+Leadership is the ability to guide and direct individuals or groups towards achieving a common goal or vision.
 
-- Skills transfer  
-- Build relationships  
-- Mobilize group skills and resources  
-- Clarify vision
+## Purpose
+The purpose of leadership is to mobilize group skills and resources, clarify vision, and build relationships to drive collective action and progress.
 
-## Source: Who mentioned this skill?
+## How it works
+Effective leaders transfer their skills and knowledge to others, convene network leaders, and work towards a common intention. They also instigate actions by creating conditions, providing information, and empowering others to make decisions and take actions.
 
-## Associated trait(s)
-  
+## Requirements
+Leadership requires strong communication, collaboration, and problem-solving skills. It also demands the ability to adapt to changing circumstances and navigate complex systems.
 
+## Reflections
+Leadership is not about personal power or control, but rather about enabling others to contribute their skills and expertise towards a shared goal.
 
-## 
-  
+## Related methods (if any)
+Systems leadership, indirect leadership, transformative leadership
 
+## License
+This entry is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
-## 
-   
-
-
-# Leadership: Being in the driver's seat
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-After you've agreed on destination, take charge.
-
-## Source: Who mentioned this skill?
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-   
-
-
-# Systems leadership
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-- To convene network leaders  
-- To work towards a common intention  
-- Self-organized or distributed actions
-
-## Source: Who mentioned this skill?
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-   
-
-
-# Indirect leadership
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-To instigate actions, create conditions, provide information and knowledge to let the actors make decisions and actions.
-
-## Source: Who mentioned this skill?
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-   
-
-
-# Transformative leadership skills and decision making
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
--
-
-## Source: Who mentioned this skill?
-
--
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-##
+## Examples
+Examples of effective leadership in social innovation include community-led initiatives, collaborative governance models, and participatory decision-making processes.

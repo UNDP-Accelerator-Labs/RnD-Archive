@@ -1,56 +1,37 @@
 [[type:principles]]
 
-# Trust and Authenticity: Build trust as a must
-
-## Purpose/ reason: Why is this important?
-
-- Prior informed processes are important. Before convening communities, you create an atmosphere of respect and trust. They need to agree on the objective of the activity.
-- Authenticity- because we deal with peoples who have had histories of betrayal.
-- Is it ok do say you don't know but encourage curiosity to find out or discover together.
-- Manage expectations and regulate our own expectation (you are not the main character)
-- Failure on the project side is OK, but don´t fail the community.
-- Navigate power relations to ensure trust and participation.
-- Being original helps avoid duplicating efforts
-
-## Source: Who mentioned this principle?
-
--
-
-## Associated trait(s)
-
-##
-
-##
-
 # Trust
 
-## Purpose/ reason: Why is this important?
+## Overview
+Trust is a fundamental principle in public and social innovation, essential for building strong relationships with stakeholders, partners, and beneficiaries.
 
-"Move at the pace of trust" with partners and beneficiaries
+## Purpose
+The purpose of prioritizing trust is to create an atmosphere of respect, authenticity, and safety, allowing individuals and communities to feel comfortable sharing their needs, concerns, and ideas. This enables effective collaboration, participation, and co-creation of solutions.
 
-## Source: Who mentioned this principle?
+## How it works
+Trust is built through transparent processes, open communication, and a willingness to listen and adapt. It involves acknowledging power dynamics, managing expectations, and being accountable for actions and outcomes. Trust also requires navigating complex relationships, regulating one's own expectations, and being willing to learn from failures.
 
-N/A
+## Requirements
+To implement trust as a principle, social innovators must be willing to:
 
-## Associated trait(s)
+* Be authentic and transparent in their intentions and actions
+* Listen actively and respond thoughtfully to stakeholders' needs and concerns
+* Manage power dynamics and navigate complex relationships
+* Regulate their own expectations and be accountable for outcomes
 
-##
+## Reflections
+Trust is not a one-time achievement but an ongoing process that requires continuous effort and attention. Social innovators must be willing to adapt, learn from failures, and evolve their approaches as needed.
 
-##
+## Related methods (if any)
+Co-creation, participatory design, and collaborative governance are related methods that can help build trust with stakeholders and beneficiaries.
 
-# Risk analysis and trust from stakeholders 
+## License
+No specific license is required for this principle, as it is a fundamental aspect of social innovation practice.
 
-## Purpose/ reason: Why is this important?
+## Examples
+Examples of trust-building in action include:
 
-Risk analysis and trust from stakeholders  
-unpacking and  stratifieing
-
-## Source: Who mentioned this principle?
-
-Maurice
-
-## Associated trait(s)
-
-##
-
-##
+* Conducting thorough risk analyses and engaging stakeholders in the process
+* Establishing clear communication channels and protocols for feedback and concerns
+* Being transparent about project goals, timelines, and budget allocations
+* Empowering community members to take ownership of projects and decision-making processes

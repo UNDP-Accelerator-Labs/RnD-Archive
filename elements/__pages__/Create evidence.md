@@ -3,42 +3,26 @@
 
 # Create evidence
 
-## Tactic description: When do you apply this tactic? How does it work?
+## Overview
+Create Evidence is a tactic used in public and social innovation work to gather, analyze, and present data to inform decision-making and support the development of new solutions.
 
-To catalyse and scale
+## Purpose
+The purpose of Create Evidence is to identify individuals or groups in need and allocate resources effectively by analyzing data and providing insights that can inform policy and program decisions.
 
-## Source: Who mentioned this tactic?
+## How it works
+This tactic involves using data analysis, machine learning, and evidence-based methods to identify patterns and trends in social security payment recipients. The goal is to support the digitization of social security payments within government levels and communicate the results through campaigns.
 
-na
+## Requirements
+No specific requirements are mentioned for this tactic, but it likely requires access to relevant data, technical expertise, and collaboration with stakeholders.
 
-## Associated trait(s)
-   
+## Reflections
+This tactic can be useful in identifying areas where resources are needed most, but its effectiveness depends on the quality of the data and the analysis. It may also require ongoing monitoring and evaluation to ensure that the solutions implemented are effective.
 
+## Related methods (if any)
+Data analysis, machine learning, evidence-based methods, surveys
 
-## 
-   
+## License
+No specific license is mentioned for this tactic.
 
-
-## 
-   
-
-
-# Data analysis, Machine learning, evidence based methods, survey (EPCV DHS)
-
-## Short description: Describe in one sentence what the tool/ method is, and what it does.
-
-Mainly used data analysis in order to identify individuals willing to pay 2aKat - social security payment people in need (islamic) and also identify the people in need to allocate the money. The aim is to support the digitization of social security payment within the government level but also analysis led to ahead output (support a communication campaign)
-
-## Source: Who mentioned this principle?
-
-Safa
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-##
+## Examples
+Create Evidence has been used in the context of social security payment digitization within government levels.

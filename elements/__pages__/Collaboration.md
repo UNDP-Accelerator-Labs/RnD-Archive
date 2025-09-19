@@ -1,41 +1,27 @@
 [[type:principles]]
 
-# Collaboration over competition
-
-## Purpose/ reason: Why is this important?
-
-Experiments should prioritize collaboration over competition
-
-## Source: Who mentioned this principle?
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-  
-
-
 # Collaboration
 
-## Purpose/ reason: Why is this important?
+## Overview
+Collaboration is a key principle in public and social innovation, emphasizing the importance of working together with diverse stakeholders to address complex problems.
 
-Tap into the potential of a diverse array of stakeholders and make them work in synergy to address the multiple dimensions of a complex problems
+## Purpose
+The purpose of prioritizing collaboration over competition is to tap into the collective potential of various stakeholders, fostering synergy and addressing multiple dimensions of complex issues.
 
-## Source: Who mentioned this principle?
+## How it works
+Collaboration involves bringing together individuals or organizations from different backgrounds, expertise, and perspectives to work towards a common goal. This can include co-creation, co-design, and co-delivery of solutions.
 
-N/A
+## Requirements
+Effective collaboration requires mutual respect, trust, and open communication among stakeholders. It also demands flexibility, adaptability, and a willingness to compromise.
 
-## Associated trait(s)
-   
+## Reflections
+Collaboration can be challenging due to differences in values, interests, or power dynamics. However, it is essential for building sustainable solutions that address the needs of diverse communities.
 
+## Related methods (if any)
+Co-creation, co-design, participatory budgeting, and public-private partnerships are related methods that embody the principle of collaboration.
 
-## 
-   
+## License
+This entry is licensed under Creative Commons Attribution 4.0 International License.
 
-
-##
+## Examples
+Examples of successful collaborations include community-led development projects, public-private partnerships for infrastructure development, and citizen engagement initiatives in policy-making processes.

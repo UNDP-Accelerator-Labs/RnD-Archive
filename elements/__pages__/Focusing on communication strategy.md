@@ -3,42 +3,26 @@
 
 # Communication
 
-## Skills description: What does the ability help you do, achieve, or produce?
+## Overview
+Communication is a crucial aspect of public and social innovation, enabling effective exchange between stakeholders, including citizens, policymakers, and project implementers.
 
-We need a good communication skill to communicate efectively with all the stakeholders.
+## Purpose
+The purpose of communication in this context is to facilitate understanding, build relationships, and foster collaboration among diverse groups.
 
-## Source: Who mentioned this skill?
+## How it works
+Effective communication involves clear expression, active listening, and empathy. It requires adapting messaging to different audiences and contexts, using various channels (e.g., social media, public events) to reach stakeholders.
 
--
+## Requirements
+Good communication skills are essential for project implementers, policymakers, and other stakeholders involved in public and social innovation initiatives.
 
-## Associated trait(s)
-  
+## Reflections
+Effective communication can lead to increased trust, improved collaboration, and better outcomes. However, poor communication can hinder progress and create conflicts.
 
+## Related methods (if any)
+Co-creation, participatory budgeting, and community engagement are related methods that often rely on effective communication.
 
-## 
-  
+## License
+This entry is licensed under Creative Commons Attribution 4.0 International License.
 
-
-## 
-   
-
-
-# focusing communication strategy
-
-## Tactic description: When do you apply this tactic? How does it work?
-
-To project implement
-
-## Source: Who mentioned this tactic?
-
-na
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-##
+## Examples
+Examples of successful communication in public and social innovation include citizen engagement initiatives, participatory budgeting processes, and collaborative project planning events.

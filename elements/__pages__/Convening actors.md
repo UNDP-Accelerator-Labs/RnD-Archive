@@ -3,80 +3,26 @@
 
 # Convening actors
 
+## Overview
+Convening actors is a tactic and skill used in public and social innovation work to bring together different stakeholders, organizations, or individuals with diverse expertise and perspectives.
 
-## Tactic description: When do you apply this tactic? How does it work?
+## Purpose
+The purpose of convening actors is to facilitate collaboration, build relationships, and leverage collective knowledge and resources to address complex problems or develop innovative solutions.
 
-Convene actors, understand what each actor is working on. Find commonality.
+## How it works
+Convening actors involves engaging with various stakeholders, including community members, experts, policymakers, and other relevant parties. This can be done through meetings, workshops, online platforms, or other formats that encourage dialogue, sharing of ideas, and collective problem-solving.
 
-## Source: Who mentioned this tactic?
+## Requirements
+Effective convening requires strong communication skills, active listening, and the ability to navigate complex relationships and power dynamics. It also demands a deep understanding of the issues at hand and the ability to identify common goals and interests among diverse stakeholders.
 
-Tong
+## Reflections
+Convening actors can be challenging due to differences in perspectives, values, and priorities among participants. However, successful convenings can lead to meaningful collaborations, new insights, and innovative solutions that might not have been possible through individual efforts alone.
 
-## Associated trait(s)
-  
+## Related methods (if any)
+Other related methods include co-creation, collaboration, and stakeholder engagement.
 
+## License
+This entry is licensed under Creative Commons Attribution 4.0 International License.
 
-## 
-  
-
-
-## 
-   
-
-
-# Convening skills
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-- Arbitration  
-- Manage expectations
-
-## Source: Who mentioned this skill?
-
-Tong
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-   
-
-
-# Convening Actors
-
-## Tactic description: When do you apply this tactic? How does it work?
-
-Engage with different actors  
-  
-Talk with people to convince them to work together  
-  
-Bring the community of practice together to develop solutions  
-  
-Involved multiple competencies to discuss…  
-  
-Get actors in contact  
-  
-Get people together to talk  
-  
-Work with the strategic partners and link them to innovators  
-  
-Attention to the language and Dejargonizing
-
-## Source: Who mentioned this tactic?
-
--
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-##
+## Examples
+Examples of convening actors in practice include community-led planning initiatives, public-private partnerships, and collaborative research projects that bring together academics, policymakers, and practitioners to address pressing social issues.

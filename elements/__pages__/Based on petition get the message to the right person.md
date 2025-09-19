@@ -2,22 +2,26 @@
 
 # Based on petition, get the message to the right person
 
-## Tactic description: When do you apply this tactic? How does it work?
+## Overview
+A tactic that leverages petitions to ensure messages reach key decision-makers.
 
-Build your innovation work on the subject of interest  
-Competition between agencies to resolve the request  
-Have a winner communication strategy that reaches out to the key receipts through various routes
+## Purpose
+To increase the visibility and impact of public or social innovations by targeting relevant authorities through petitions.
 
-## Source: Who mentioned this tactic?
+## How it works
+This tactic involves building on existing interest in an issue, fostering competition among agencies to address a petition, and employing a strategic communication approach to reach key recipients via multiple channels.
 
-Benin
+## Requirements
+A clear understanding of the target audience and their communication preferences is essential for this tactic's success. Additionally, a well-structured petition that clearly outlines the issue and proposed solution is necessary.
 
-## Associated trait(s)
-   
+## Reflections
+This tactic can be effective in mobilizing support and driving change, but it requires careful planning and execution to avoid being seen as confrontational or manipulative.
 
+## Related methods (if any)
+Collaborative governance, advocacy, and stakeholder engagement are related methods that may be used in conjunction with this tactic.
 
-## 
-   
+## License
+This entry is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
-
-##
+## Examples
+Examples of successful applications of this tactic include campaigns that use petitions to raise awareness about social issues or advocate for policy changes.

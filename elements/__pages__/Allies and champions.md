@@ -2,43 +2,26 @@
 
 # Finding allies
 
+## Overview
+Finding allies is a tactic used in public and social innovation work to identify early adopters or champions who can support and promote one's cause.
 
-## Tactic description: When do you apply this tactic? How does it work?
+## Purpose
+The purpose of finding allies is to create legitimacy, adoption, and momentum for an initiative by leveraging the influence and credibility of key stakeholders within an ecosystem.
 
-When convening multiple stakeholders from within an ecosystem, it is quite useful to indentify early adopters or allies who would champion one's cause. This specially helps to create legitimacy and adoption.
+## How it works
+This tactic involves convening multiple stakeholders from within an ecosystem to identify individuals who are likely to champion one's cause. These allies can provide valuable support, resources, and credibility, helping to build a strong foundation for the initiative.
 
-## Source: Who mentioned this tactic?
+## Requirements
+Finding allies requires a deep understanding of the ecosystem and its key players, as well as effective communication and relationship-building skills.
 
-Fatima
+## Reflections
+This tactic is particularly useful when working on complex or ambitious projects that require broad buy-in and support from various stakeholders.
 
-## Associated trait(s)
-  
+## Related methods (if any)
+This tactic can be used in conjunction with other tactics such as co-creation, community engagement, and stakeholder analysis.
 
+## License
+No specific license is required for this tactic.
 
-## 
-  
-
-
-## 
-   
-
-
-# Allies and champions
-
-## Tactic description: When do you apply this tactic? How does it work?
-
-To implement project
-
-## Source: Who mentioned this tactic?
-
-na
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-##
+## Examples
+Examples of finding allies include identifying influential thought leaders to endorse a new policy initiative or partnering with local business leaders to support a community development project.

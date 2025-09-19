@@ -1,140 +1,27 @@
 [[type:tools]]
 
-# Learning Questions Heuristics
+# Learning questions heuristics
 
-## Image: What does it look like?
+## Overview
+Learning Questions Heuristics is a tool used to refine research or learning questions by applying a set of criteria.
 
+## Purpose
+The purpose of this method is to guide R&D activities and ensure that research questions are well-formulated, objective, and relevant to the problem at hand.
 
-## Reference: Where can we find more information or download materials?
+## How it works
+This tool involves taking an initial question and iteratively refining it based on six criteria: (1) real questions, (2) objectively worded, (3) interesting, (4) reflecting the stage of research with sufficient specificity, (5) scope that reflects available time and financial resources, and (6) ethical considerations.
 
+## Requirements
+To effectively use this tool, one needs to have a clear question to begin with. It is also essential to consider the knowledge gap and the need for accelerating learning in a particular area.
 
-<a href="https://miro.com/app/board/o9J lMtswgE=/?share link id=529632998584" target=" blank">https://miro.com/app/board/o9J lMtswgE=/?share link id=529632998584</a>
+## Reflections
+It's essential to remember that there is no perfect learning question, and it's crucial not to spend too much time on refining questions. Good learning questions help feed curiosity and identify areas where more knowledge is urgently needed.
 
-## Description: What is it? (max 1,500 characters)
+## Related methods (if any)
+This tool is related to data collection, ethics, experimentation, exploratory making, and Solutions Mapping.
 
+## License
+The license for this tool is not specified in the provided notes.
 
-
-Defining a good learning questions are they key starting point of any R&amp;D learning loop or project. These heuristics or criteria will help you refine your questions and make sure they are geared towards generating interesting new insights on a problem or issue.
-
-## Purpose: Why do we use this method or tool for R&amp;D? (max 1,500 characters)
-
-
-
-To guide our R&amp;D activities
-
-## Summary: Describe in one sentence, what it is and what it does? (max 120 characters)
-
-
-
-The tool will help you refine your learning questions based on list of heuristics or criteria to formulate good research or learning questions.
-
-## Instructions: How is it used for R&amp;D? What steps to follow?
-
-
-
-Take your initial question, and step by step, consider the following criteria to rewrite your question once and again, until all criteria are met.  
-  
-Criteria for Defining Research Questions.  
-  
-(1) They should be real questions.  
-  
-Things that we (as individuals, as UNDP, as development institutions, as design researchers, as scholars in academia) don’t know the answer to.  
-  
-They should worded as questions, i.e. end with a question mark.  
-  
-(2) They should be objectively worded  
-  
-They should not presume or contain their answer  
-  
-(3) They should be interesting—something important is at stake in their answer  
-  
-Connected to social, political, environmental problems  
-  
-Connected to debates about these issues  
-  
-Answers that can be answered yes or now typically are less interesting than questions that should be answered with an explanation.  
-  
-(4) They should reflect the stage of research with sufficient specificity  
-  
-Descriptive questions versus analytical questions  
-  
-Empirical questions versus theoretical questions  
-  
-Questions that make you think about a design or solution vs questions that make you think more about a problem or phenomena  
-  
-(5) Their scope should reflect the time and financial resources available (100 day cycles).  
-  
-Analytical and theoretical questions should signal the categories, variation, and relationships that are under study.  
-  
-(6) Good research questions are also ethical questions. Is the research question an ethical one?
-
-## Requirements: What is needed to effectively use it for R&amp;D? (e.g. skills, conditions, inputs, resources)
-
-
-
-Have a question to begin with.
-
-## Reflections: What to keep in mind when using the tool for R&amp;D purposes?
-
-
-
-Knowledge gap is the starting point of the learning loop  
-  
-Good learning questions help feed curiousity  
-  
-where do we need to accelerate? where do we urgently need more knowledge?  
-  
-There is no perfect learning question (don't spend months on this)
-
-## Type of tool: If it is a tool, what type of tool is it?
-
-   
-
-
-## Related methods: For which method(s) is this tool used?
-
-
-- data collection
-- ethics
-- experimentation
-- exploremaking
-- Solutions Mapping  
-
-
-## 
-
-   
-
-
-## 
-
-   
-
-
-## Credit: Who developed the tool or method?
-
-
-
-AccLabPY
-
-## Recommended resources: Where can we find more information about this method or tool?
-
-
-
-## License: Under what kind of license is this tool or method available?
-
-
--  Free or open 
-- Freemium
-- Paid  
-
-
-## In-house: Was this tool developed in-house by an Accelerator Lab?
-
-   
-
-
-## Link to your work that uses this method or tool.
-
-
-<a href="https://miro.com/app/board/uXjVNwGUhH8=/?share link id=579012568065" target=" blank">https://miro.com/app/board/uXjVNwGUhH8=/?share link id=579012568065</a>
+## Examples
+Examples of using Learning Questions Heuristics can be found on Miro boards, such as [https://miro.com/app/board/uXjVNwGUhH8=/?share link id=579012568065](https://miro.com/app/board/uXjVNwGUhH8=/?share link id=579012568065).

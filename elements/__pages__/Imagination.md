@@ -2,20 +2,26 @@
 
 # Imagination
 
-## Skills description: What does the ability help you do, achieve, or produce?
+## Overview
+The ability of imagination is a crucial skill in public and social innovation, enabling individuals to think creatively and envision innovative solutions from different perspectives.
 
-Allow yourself to visualize innovative from another point of view, and think out of the box.
+## Purpose
+Imagination allows innovators to break free from conventional thinking and explore new ideas, possibilities, and approaches that can lead to impactful and effective solutions.
 
-## Source: Who mentioned this skill?
+## How it works
+By cultivating imagination, individuals can generate novel connections between seemingly unrelated concepts, challenge assumptions, and develop fresh insights into complex problems.
 
-Waad Hmida
+## Requirements
+Developing imagination requires a willingness to take risks, be open-minded, and engage in creative thinking exercises such as brainstorming, mind mapping, or design thinking.
 
-## Associated trait(s)
-   
+## Reflections
+Effective use of imagination involves balancing creativity with practicality, ensuring that innovative ideas are grounded in reality and can be implemented effectively.
 
+## Related methods (if any)
+Imagination is often employed in conjunction with other skills like Design Thinking, Co-Creation, and Systems Thinking to foster a culture of innovation.
 
-## 
-   
+## License
+This skill is not proprietary and can be applied universally across various contexts and sectors.
 
-
-##
+## Examples
+Examples of imagination in action include the development of new products or services that meet emerging needs, the creation of innovative public spaces, or the design of effective social programs.
