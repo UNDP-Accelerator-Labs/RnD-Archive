@@ -1,25 +1,27 @@
 [[type:principles]]
 
-# Recognize local expertise: Nothing for us, without us
+# Recognize local expertise: nothing for us, without us
 
-## Purpose/ reason: Why is this important?
+## Overview
+Recognize local expertise: Nothing for us, without us is a principle that emphasizes the importance of involving and valuing the knowledge and expertise of local communities in solving their own problems.
 
-- This principle has to do with how knowledge is produced. It parts with the idea of collective production of knowledge, horizontally (no one knows more than others).
-- Stop treating communities as beneficiaries but as experts. Traditional project design decides a priori what are the needs of a community, whether they are skills or tangible solutions. However, those affected by problems are the experts and must understand their own problems, prioritize them and come up with solutions. They are the most informed.
-- It's ok to say you don't know.
-- Avoid data extraction by co-creation, thus giving back has to do with co-understanding of learnings.
-- Nothing for us, without us.
-- Bottom-up thinking
-- Giving up the idea that you know (top-bottom) "I know what´s best". Be open minded into receiving- blank canvas. Solutions may come at the end.
-- Get rid of the main character symptom.
-- Appreciate failure- learning is the ultimate goal.
+## Purpose
+This principle seeks to shift the traditional approach of treating communities as beneficiaries, instead recognizing them as experts who are best positioned to understand and address their own needs.
 
-## Source: Who mentioned this principle?
+## How it works
+By adopting a bottom-up approach, this principle encourages collaboration and co-creation between external stakeholders and local communities. It involves acknowledging that those affected by problems have unique insights and knowledge that should be respected and incorporated into the problem-solving process.
 
--
+## Requirements
+To apply this principle effectively, individuals or organizations must be willing to surrender their own assumptions and biases, and instead create a blank canvas for co-creation and learning. This requires a willingness to listen, learn from, and be guided by local expertise.
 
-## Associated trait(s)
+## Reflections
+Recognizing local expertise: Nothing for us, without us is not just about involving communities in the decision-making process, but also about acknowledging that failure can be an essential part of the learning process. By embracing this principle, individuals or organizations can foster a culture of humility, openness, and continuous improvement.
 
-##
+## Related methods (if any)
+This principle is closely related to co-creation, participatory design, and community-led initiatives.
 
-##
+## License
+No specific license is associated with this principle.
+
+## Examples
+Examples of this principle in action include community-led planning initiatives, participatory budgeting processes, and collaborative research projects that prioritize local expertise and knowledge.

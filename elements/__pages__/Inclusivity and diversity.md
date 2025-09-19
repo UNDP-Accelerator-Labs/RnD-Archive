@@ -1,66 +1,28 @@
 [[type:principles]]
 [[type:skills]]
 
-# Inclusivity and diversity
-
-## Purpose/ reason: Why is this important?
-
-Experiments should be intentional about diverse and inclusive participation as well as the design of inclusive solution and intervention ( LNOB)
-
-## Source: Who mentioned this principle?
-
--
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-   
-
-
 # Diversity
 
-## Purpose/ reason: Why is this important?
+## Overview
+Diversity is a key principle in public and social innovation, emphasizing the importance of inclusivity and representation in experimentation, partnerships, and solution design.
 
-Diversify partnerships, experiments and solutions to gain more insights and learnings
+## Purpose
+The purpose of diversity is to gain more insights and learnings by diversifying partnerships, experiments, and solutions, ultimately leading to more effective and impactful interventions.
 
-## Source: Who mentioned this principle?
+## How it works
+Diversity involves intentionally seeking out diverse perspectives, experiences, and backgrounds to inform the design and implementation of social innovations. This can be achieved through inclusive participation, multisectoral partnerships, and participatory approaches that value multiple viewpoints.
 
-N/A
+## Requirements
+To effectively implement diversity, social innovators must be willing to challenge their own assumptions and biases, cultivate curiosity and empathy, and create spaces for diverse voices to be heard.
 
-## Associated trait(s)
-   
+## Reflections
+Embracing diversity requires a willingness to adapt and evolve in response to new information and perspectives. It also necessitates a commitment to ongoing learning and improvement.
 
+## Related methods (if any)
+Systems analysis, problem identification, inclusive participation, multisectoral partnerships, participatory approaches.
 
-## 
-   
+## License
+No specific license is required for implementing diversity as a principle or skill in social innovation.
 
-
-## 
-   
-
-
-# Focus on inclusion and diversity systems analysis,problem identification
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-Focus on inclusion and diversity systems analysis, problem identification, multisectoral partnerships, understanding multiple viewpoints, participatory approaches, curiosity and Empathy
-
-## Source: Who mentioned this skill?
-
-Nigeria
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-##
+## Examples
+Examples of diversity in action include co-designing solutions with diverse community members, partnering with organizations from different sectors and backgrounds, and using inclusive language and imagery in communication materials.

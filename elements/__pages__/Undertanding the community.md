@@ -1,96 +1,27 @@
 [[type:tactics]]
 
-# Community immersion
+# Live in community
 
+## Overview
+Live in community is a tactic used in public and social innovation work that involves immersing oneself in the community being served or impacted by a project.
 
-## Tactic description: When do you apply this tactic? How does it work?
+## Purpose
+The purpose of this tactic is to gain a deep understanding of the community's needs, challenges, and culture by living among them for an extended period.
 
-Honest conversations, empathic conversations, understandig your audience, ask open ended questions, be humble.
+## How it works
+This tactic typically involves sending a team member or staff to live in the community for 3 months. During this time, they integrate into the community, build relationships with local residents, and participate in daily life to gain a nuanced understanding of the community's issues and concerns.
 
-## Source: Who mentioned this tactic?
+## Requirements
+No specific requirements are mentioned in the notes, but it is implied that this tactic requires a willingness to immerse oneself in the community and be open to new experiences and perspectives.
 
-Tong
+## Reflections
+This tactic allows for a deeper understanding of the community's needs and challenges, which can inform project design and implementation. It also builds trust with the community by demonstrating a commitment to understanding their issues firsthand.
 
-## Associated trait(s)
-  
+## Related methods (if any)
+Community immersion, Understanding the Community
 
+## License
+No specific license is mentioned in the notes.
 
-## 
-  
-
-
-## 
-   
-
-
-# Live in community 
-
-## Tactic description: When do you apply this tactic? How does it work?
-
-Send 3 months in the community.  
-  
-Integration into community to understand their issues.
-
-## Source: Who mentioned this tactic?
-
-Anibal (first quote), Sarah (second quote)
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-   
-
-
-# Understanding the Community
-
-## Tactic description: When do you apply this tactic? How does it work?
-
-## Source: Who mentioned this tactic?
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-  
-
-
-# Understanding the Community
-
-## Tactic description: When do you apply this tactic? How does it work?
-
-Interviews with people to go deeply about their issues  
-  
-Communicate to people deeply  
-  
-Discuss with women to identify their need  
-  
-Discuss and engage rural community  
-  
-Integration into community to understand theirs issues  
-  
-Understand the culture and the spirit of communities
-
-## Source: Who mentioned this tactic?
-
--
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-##
+## Examples
+Examples of this tactic include sending team members to live in the community for 3 months, as described in the notes.

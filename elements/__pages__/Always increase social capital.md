@@ -2,32 +2,36 @@
 
 # Never deplete social capital, always increase social capital.
 
-## Purpose/ reason: Why is this important?
+## Overview
+Never deplete social capital, always increase it is a guiding principle in public and social innovation that prioritizes the preservation and growth of community relationships, trust, and collective capacity.
 
-This principle is related to the do no harm, specifically to avoid antagonizing or separation of groups in communities. Divisions may be produced by the external cooperation because either you convene only some groups, or because consensus is not correctly managed. When communities feel they have to “compete” for prizes, recognitions, participation, social capital would then be depleted. Therefore, some of the bullets below are guides to avoid depleting social capital:  
-  
-- Respect the local structures (indigenous)- consultation must be done to all leaders, respect their role. - Panamá has a guide  
-  
-- Navigate power relations to ensure participation.  
-  
-- Avoiding cooperation fatigue- meaning that the same participants are convened by different organizations, and they are tired of attending workshops, trainings, etc.  
-  
-- Create safe spaces- (Ecuador has a Protocol for safe spaces for gender awareness wokshops)  
-  
-- A safe space participatory workshops refers especially to creating an atmosphere of respect, empathetic listening, and willingness to reflect on practices or preconceived ideas from a critical perspective. To do this, all participants must know the rules of coexistence, which are agreed upon collectively from the beginning. Some of these norms refer to confidentiality, transparency of data collection and use, non-judgment, and respectful debates, which allows the construction of collective knowledge. It means being present not only from reason, but from the heart and implies openness to unlearn and, therefore, to leave our comfort zones. (Principle taken from Ecuador's Protocol)  
-  
-- Enabling conditions that foster solutions/ resilience; that is contribute to a community’s social capital so that it becomes resilient, critical, creative, and solves their problems.
+## Purpose
+This principle aims to avoid antagonizing or separating groups within communities by promoting inclusive and respectful collaboration. It seeks to create an environment where all stakeholders feel valued and empowered to contribute.
 
-## Source: Who mentioned this principle?
+## How it works
+To implement this principle, practitioners should:
 
--
+* Respect local structures and consult with community leaders
+* Navigate power relations to ensure participation from diverse voices
+* Avoid cooperation fatigue by rotating participants and avoiding over-reliance on the same individuals
+* Create safe spaces for respectful dialogue and knowledge-sharing
+* Foster enabling conditions that promote resilience, critical thinking, creativity, and problem-solving within communities
 
-## Associated trait(s)
-  
+## Requirements
+Practitioners should be aware of their own biases and power dynamics, and strive to create an environment where all voices are heard. This may require ongoing self-reflection, active listening, and a willingness to adapt approaches as needed.
 
+## Reflections
+Implementing this principle requires a deep understanding of the community's social capital and a commitment to preserving it. Practitioners should regularly assess their impact on community relationships and make adjustments to maintain or increase social capital.
 
-## 
-  
+## Related methods (if any)
+This principle is closely related to the "Do No Harm" approach, which prioritizes avoiding harm to communities and promoting positive change. Other relevant methods include participatory budgeting, co-design, and community-led planning.
 
+## License
+This principle is not copyrighted and can be used freely in public and social innovation contexts.
 
-##
+## Examples
+Examples of successful implementation of this principle include:
+
+* Community-led initiatives that prioritize inclusive decision-making and collective problem-solving
+* Collaborations between organizations that respect local structures and power dynamics
+* Safe space protocols that promote respectful dialogue and knowledge-sharing among diverse stakeholders

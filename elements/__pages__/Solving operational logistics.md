@@ -1,21 +1,27 @@
 [[type:tactics]]
 
-# Solving Operational Logistic
+# Solving operational logistic
 
-## Tactic description: When do you apply this tactic? How does it work?
+## Overview
+Solving Operational Logistics is a tactic used in public and social innovation work to address operational challenges and optimize resource allocation.
 
-Recruit UNV to help to multiple tasks
+## Purpose
+The purpose of this tactic is to identify and resolve operational inefficiencies, freeing up resources for more strategic and impactful activities.
 
-## Source: Who mentioned this tactic?
+## How it works
+This tactic involves recruiting United Nations Volunteers (UNVs) or other external support to assist with multiple tasks, thereby reducing the workload of internal staff and improving overall efficiency.
 
--
+## Requirements
+To implement Solving Operational Logistics effectively, organizations need to have a clear understanding of their operational needs and be able to identify areas where external support can make a significant impact. They must also establish effective communication channels with UNVs or other external partners.
 
-## Associated trait(s)
-  
+## Reflections
+This tactic requires careful consideration of the skills and expertise required for each task, as well as the potential risks and benefits associated with delegating tasks to external partners.
 
+## Related methods (if any)
+Co-creation, Collaboration
 
-## 
-  
+## License
+Public Domain
 
-
-##
+## Examples
+A local government uses UNVs to assist with data collection and analysis, allowing their staff to focus on policy development and implementation.

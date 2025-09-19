@@ -4,157 +4,26 @@
 
 # Partnership
 
-## Short description: Describe in one sentence what the tool/ method is, and what it does.
+## Overview
+Partnership is a key concept in public and social innovation, referring to the collaboration between different stakeholders, organizations, or sectors to achieve a common goal.
 
--
+## Purpose
+The purpose of partnership is to leverage diverse expertise, resources, and perspectives to create more effective and sustainable solutions to complex problems.
 
-## Source: Who mentioned this principle?
+## How it works
+Partnerships can take many forms, including public-private partnerships, cross-agency collaborations, and multi-stakeholder initiatives. They often involve shared decision-making, co-ownership, and mutual benefit.
 
-Klariska
+## Requirements
+Effective partnership requires trust, mutual interest, and a willingness to share knowledge and resources. It also demands strong communication, active listening, and adaptability.
 
-## Associated trait(s)
-  
+## Reflections
+Partnership is essential for addressing complex social issues that require collaboration across sectors and stakeholders. By working together, partners can pool their expertise, resources, and networks to create more impactful solutions.
 
+## Related methods (if any)
+Co-creation, Co-design, Collaborative Governance
 
-## 
-   
+## License
+N/A
 
-
-## 
-   
-
-
-# Partnership
-
-## Purpose/ reason: Why is this important?
-
-Partnership should go beyond the usual suspect, ensure mutual interest and trust, and foster co-ownership by sharing knowledge.
-
-## Source: Who mentioned this principle?
-
--
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-   
-
-
-# Partnership Coordination
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-We need to build partnerships with various stakeholders such as the private sector.
-
-## Source: Who mentioned this skill?
-
--
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-   
-
-
-# Communication, partnership, public relations
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-Creating partnerships and relations.
-
-## Source: Who mentioned this skill?
-
-Jeannine Audrey Moneyang
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-## 
-   
-
-
-# Cross agency partnership
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-Develop partnerships across agencies
-
-## Source: Who mentioned this skill?
-
-Burkina Faso
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-## 
-   
-
-
-# Multi Sectoral Partnership
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-Multi Sectoral Partnership
-
-## Source: Who mentioned this skill?
-
-Peru
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-## 
-   
-
-
-# Multisectoral Partnership
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-Multisectoral Partnership  
-Data Collection  
-Identification of data Sources  
-Knowledge sharing  
-Lessons learnt  
-Mobile justice
-
-## Source: Who mentioned this skill?
-
-Not mentioned
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-##
+## Examples
+Examples of successful partnerships include the public-private partnership between the government and private sector to develop infrastructure projects, or the cross-agency collaboration between health departments to tackle a pandemic.

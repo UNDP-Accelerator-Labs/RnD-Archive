@@ -3,93 +3,26 @@
 
 # Inclusivity
 
-## Purpose/ reason: Why is this important?
+## Overview
+Inclusivity is a fundamental principle and skill in public and social innovation, emphasizing the importance of diversity, respect for values, and participation from all sectors and backgrounds.
 
-- Recognize the power of diversity- bringing people in from different sectors and backgrounds will enhance knowledge.  
-  
-- Respect for values- consider the participants´ belief system to handle topics appropriately.  
-  
-- Don't leave anyone out- ask yourself who´s missing and why to reduce the barriers and enable their participation.  
-  
-- For inclusivity, create safe spaces for co-creating processes and making a difference
+## Purpose
+The purpose of inclusivity is to recognize the value of diverse perspectives, create safe spaces for co-creation, and ensure that no one is left out or excluded from the process. This principle aims to bring about more effective solutions by considering multiple viewpoints and experiences.
 
-## Source: Who mentioned this principle?
+## How it works
+Inclusivity involves being intentional about designing inclusive solutions and interventions, creating opportunities for diverse participation, and fostering a culture of respect and empathy. It requires acknowledging the power of diversity and actively seeking out perspectives from different sectors and backgrounds.
 
--
+## Requirements
+To achieve inclusivity, one must be willing to challenge their own biases and assumptions, create safe spaces for co-creation, and prioritize participatory approaches. This involves being curious, empathetic, and open to multiple viewpoints.
 
-## Associated trait(s)
-  
+## Reflections
+Inclusivity is essential in public and social innovation as it leads to more effective solutions that are tailored to the needs of diverse populations. By prioritizing inclusivity, innovators can create positive change and make a lasting impact on their communities.
 
+## Related methods (if any)
+Systems analysis, problem identification, multisectoral partnerships, participatory approaches, and empathy are related methods that support the principle of inclusivity.
 
-## 
-  
+## License
+This entry is licensed under Creative Commons Attribution-ShareAlike 4.0 International License.
 
-
-## 
-   
-
-
-# Inclusivity and diversity
-
-## Purpose/ reason: Why is this important?
-
-Experiments should be intentional about diverse and inclusive participation as well as the design of inclusive solution and intervention ( LNOB)
-
-## Source: Who mentioned this principle?
-
--
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-   
-
-
-# Inclusivity
-
-## Purpose/ reason: Why is this important?
-
-Geographical: To include territories  
-Social: to include vulnerable people
-
-## Source: Who mentioned this principle?
-
-N/A
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-## 
-   
-
-
-# Focus on inclusion and diversity systems analysis,problem identification
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-Focus on inclusion and diversity systems analysis, problem identification, multisectoral partnerships, understanding multiple viewpoints, participatory approaches, curiosity and Empathy
-
-## Source: Who mentioned this skill?
-
-Nigeria
-
-## Associated trait(s)
-   
-
-
-## 
-   
-
-
-##
+## Examples
+Examples of inclusive practices in public and social innovation include co-designing solutions with diverse stakeholders, creating safe spaces for marginalized communities to participate, and prioritizing participatory approaches in decision-making processes.

@@ -3,32 +3,26 @@
 
 # Negotiation
 
-## Skills description: What does the ability help you do, achieve, or produce?
+## Overview
+Negotiation is a tool used in public and social innovation work to facilitate collaboration, resolve conflicts, and reach mutually beneficial agreements with various stakeholders.
 
-We need the skill to negotiate with different stakeholders we work with.
+## Purpose
+The purpose of negotiation is to find creative solutions that satisfy the needs and interests of all parties involved, often in situations where there are conflicting demands or limited resources.
 
-## Source: Who mentioned this skill?
+## How it works
+Negotiation involves active listening, empathy, and a willingness to compromise. It requires identifying common goals and interests, as well as exploring alternative solutions that meet everyone's needs.
 
--
+## Requirements
+Effective negotiation requires strong communication skills, emotional intelligence, and the ability to think critically and creatively. It also demands a deep understanding of the stakeholders' perspectives, values, and concerns.
 
-## Associated trait(s)
+## Reflections
+Negotiation can be a challenging but rewarding process when done well. It allows for the building of trust, fosters collaboration, and leads to more sustainable solutions that benefit all parties.
 
-##
+## Related methods (if any)
+Mediation, facilitation, and collaborative problem-solving are related methods that often complement negotiation in public and social innovation work.
 
-##
+## License
+This entry is licensed under CC-BY-NC 4.0, which means you can share and adapt it for non-commercial purposes.
 
-# Negotiation
-
-## Tactic description: When do you apply this tactic? How does it work?
-
-The ability to instil reflexion in a dead-end solution and provoke an evolution on change in the dynamic of the discussion
-
-## Source: Who mentioned this tactic?
-
-Ecuador
-
-## Associated trait(s)
-
-##
-
-##
+## Examples
+Examples of successful negotiations in public and social innovation include community-led planning initiatives, collaborative policy-making processes, and stakeholder engagement strategies that lead to mutually beneficial outcomes.

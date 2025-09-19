@@ -1,66 +1,28 @@
 [[type:tactics]]
 [[type:skills]]
 
-# Solving Operational Logistic
-
-## Tactic description: When do you apply this tactic? How does it work?
-
-Recruit UNV to help to multiple tasks
-
-## Source: Who mentioned this tactic?
-
--
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-## 
-   
-
-
 # Problem solving skill
 
-## Skills description: What does the ability help you do, achieve, or produce?
+## Overview
+Problem-solving skills are essential in public and social innovation work, enabling individuals to tackle complex issues and achieve their goals.
 
-It is useful to have problem solving skills in our R&amp;D activities as there are many complex issues that we need to resolve to achieve our work.
+## Purpose
+The purpose of problem-solving skills is to help individuals understand problems collectively, formally define them, and develop effective solutions.
 
-## Source: Who mentioned this skill?
+## How it works
+Problem-solving skills involve a systematic approach to identifying and addressing challenges. This includes breaking down complex problems into manageable parts, analyzing data and information, and developing creative solutions.
 
--
+## Requirements
+Effective problem-solving requires critical thinking, creativity, and collaboration. It also involves being adaptable, open-minded, and willing to take calculated risks.
 
-## Associated trait(s)
-  
+## Reflections
+Developing strong problem-solving skills takes time and practice. It's essential to reflect on past experiences, identify areas for improvement, and continuously develop new skills and knowledge.
 
+## Related methods (if any)
+Problem definition and solving is a related method that involves understanding the problem collectively and formally defining it before developing solutions.
 
-## 
-  
+## License
+This entry is licensed under Creative Commons Attribution-ShareAlike 4.0 International License.
 
-
-## 
-   
-
-
-# Problem definition and solving 
-
-## Skills description: What does the ability help you do, achieve, or produce?
-
-Help understand problem collectively and then formally define the problem
-
-## Source: Who mentioned this skill?
-
--
-
-## Associated trait(s)
-  
-
-
-## 
-  
-
-
-##
+## Examples
+Examples of effective problem-solving in public and social innovation work include designing new community programs, improving public services, or addressing environmental challenges.
